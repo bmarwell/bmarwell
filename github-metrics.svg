@@ -3562,7 +3562,7 @@ But I cannot add a classifier to the jlink-plugin?
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 136k out of 269m repositories
+                      ranked 95.1k out of 269m repositories
                     </span>
                   
                   
@@ -3894,7 +3894,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2021, 04:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 12 Dec 2021, 05:01:40 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
