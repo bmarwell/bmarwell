@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  Seid bitte nicht wie Kris. Wenn ihr etwas zu verbessern habt, schreibt es auf die Mailingliste oder macht einfach mit (PR stellen).<br />Im ASF Slack ist auch viel los. 🤷🏻‍♂️ <a href="https://t.co/4USGoKc9T7" class="link">twitter.com/isotopp/status…</a>
+                  
+                  <div class="date">14:06:17 on 18 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   Guess what. There is still no implementation-agnostic  <span class="hashtag">#openAPI</span>  code generator. :( <br /><br /><a href="https://t.co/C7M6CtNS7J" class="link">github.com/OpenAPITools/o…</a>
                   
                   <div class="date">12:48:40 on 18 Dec 2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@denicmarko</span> <a href="https://t.co/9REFURbCht" class="link">github.com/bmarwell</a><br /><br />😇
-                  
-                  <div class="date">11:21:52 on 18 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3903,7 +3903,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2021, 13:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Dec 2021, 14:11:53 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
