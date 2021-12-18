@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3280" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3330" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  Seid bitte nicht wie Kris. Wenn ihr etwas zu verbessern habt, schreibt es auf die Mailingliste oder macht einfach mit (PR stellen).<br />Im ASF Slack ist auch viel los. 🤷🏻‍♂️ <a href="https://t.co/4USGoKc9T7" class="link">twitter.com/isotopp/status…</a>
+                  Was macht man auch, wenn Freiwillige mitarbeiten?<br />Fragen nach feature X, oder es selbst beisteuern. Keine Fragen, keine neuen Features.<br />Warum auch? Wir sind auch unbezahlt und haben Familie. Fixe? Klar.<br /><br />Bitteschön, gern geschehen. ❤️
                   
-                  <div class="date">14:06:17 on 18 Dec 2021</div>
+                  <div class="date">14:14:38 on 18 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  Guess what. There is still no implementation-agnostic  <span class="hashtag">#openAPI</span>  code generator. :( <br /><br /><a href="https://t.co/C7M6CtNS7J" class="link">github.com/OpenAPITools/o…</a>
+                  Sorry fürs an den Pranger stellen. Ich denke aber, hier ist der falsche Eindruck entstanden und vermittelt worden.<br />Sicher sind hier viele Projekte wesentlich weniger aktiv. Aber nicht tot. Es gibt vierteljährliche Reports, und viele Projekte haben noch gelegentliche Release.
                   
-                  <div class="date">12:48:40 on 18 Dec 2021</div>
+                  <div class="date">14:13:16 on 18 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3903,7 +3903,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2021, 14:11:53 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Dec 2021, 15:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
