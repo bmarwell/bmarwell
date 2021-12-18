@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@aboutreni</span> Du kannst dich bei der <span class="mention">@bnetza</span> melden. Der alte Anbieter ist verpflichtet, dich weiter zu versorgen auf Kosten des neuen.
+                  
+                  <div class="date">21:59:10 on 18 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@InfiniDream1</span> Anyway you like. Look for a project which you are interested in, any Foundation is a good start (Apache, eclipse). Read on the mailing list and start with documentation. Ask questions. The rest will come all by itself.
                   
                   <div class="date">20:59:04 on 18 Dec 2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@joschi83</span> I wasn't able to get it working! 😭<br />At least not to their liking. So I dropped working on it.
-                  
-                  <div class="date">15:37:55 on 18 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3903,7 +3903,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2021, 21:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Dec 2021, 22:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
