@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3210" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3226" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@svblxyz</span> <span class="mention">@SwiftOnSecurity</span> Please invent YAMLx for <span class="mention">@brunoborges</span> 😎
+                  <span class="mention">@JGErzgebirge</span> <span class="mention">@Johann_v_d_Bron</span> Ich hätte den Link gerne auch, aber kann die Antwort leider nicht lesen?
                   
-                  <div class="date">17:15:02 on 19 Dec 2021</div>
+                  <div class="date">21:56:48 on 19 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@mkarg</span> <span class="mention">@khmarbaise</span> <span class="mention">@brunoborges</span> <span class="mention">@alejandro_du</span> Who knows. I bet Lower Saxony in the late '90s/early '00s is very different from other states. <br />And we had only dubbed movies as far as I can tell. 😔
+                  RT <span class="mention">@BantshireUni</span>: Good news: We’ve flattened the curve.<br /><br />Bad news: It’s against the y-axis.
                   
-                  <div class="date">16:39:12 on 19 Dec 2021</div>
+                  <div class="date">21:54:36 on 19 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3906,7 +3906,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2021, 21:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Dec 2021, 22:01:33 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
