@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3226" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,16 +1804,15 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@khmarbaise</span> <span class="mention">@brunoborges</span> <span class="mention">@alejandro_du</span> I second that! The northern countries are doing a much better job. In Germany, every TV show or movie is dubbed. English teachers only teach phrases at best...
+                  
+                  <div class="date">11:51:21 on 19 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@palashv2</span> <span class="mention">@ManjaroLinux</span> and I don't regret it. The only thing that stopped working is my game controller, but I don't use it anymore anyway.
                   
                   <div class="date">10:25:46 on 19 Dec 2021</div>
                 </div>
-                        <div class="tweet">
-                            <span class="mention">@joschi83</span>
-                            <span class="mention">@ewolff</span>
-                            <a href="https://t.co/jTwQy0fljU" class="link">pic.twitter.com/jTwQy0fljU</a>
-                            <div class="date">10:24:36 on 19 Dec 2021</div>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3907,7 +3906,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2021, 11:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Dec 2021, 12:01:43 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
