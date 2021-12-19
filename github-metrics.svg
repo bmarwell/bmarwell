@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3210" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,15 +1804,16 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@aboutreni</span> <span class="mention">@bnetza</span> Shit 😬 aber es gibt ein Recht auf Internetversorgung. Trotzdem dort mal Fragen.
+                  <span class="mention">@palashv2</span> <span class="mention">@ManjaroLinux</span> and I don't regret it. The only thing that stopped working is my game controller, but I don't use it anymore anyway.
                   
-                  <div class="date">00:11:25 on 19 Dec 2021</div>
+                  <div class="date">10:25:46 on 19 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@aboutreni</span> Du kannst dich bei der <span class="mention">@bnetza</span> melden. Der alte Anbieter ist verpflichtet, dich weiter zu versorgen auf Kosten des neuen.
-                  
-                  <div class="date">21:59:10 on 18 Dec 2021</div>
-                </div>
+                            <span class="mention">@joschi83</span>
+                            <span class="mention">@ewolff</span>
+                            <a href="https://t.co/jTwQy0fljU" class="link">pic.twitter.com/jTwQy0fljU</a>
+                            <div class="date">10:24:36 on 19 Dec 2021</div>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -3906,7 +3907,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2021, 10:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 19 Dec 2021, 11:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
