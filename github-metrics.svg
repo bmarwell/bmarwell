@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3241" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3208" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  Paru, Pacaur oder Yay? Der beste AUR-Helper?<br /> <a href="https://t.co/wevBNxtzef" class="link">linuxundich.de/gnu-linux/paru…</a>
+                  <span class="mention">@nixcraft</span> The Linux kernel. Without it, I couldn't run any other tool. 🤷🏻‍♂️
                   
-                  <div class="date">20:01:00 on 21 Dec 2021</div>
+                  <div class="date">08:43:24 on 22 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                   <span class="hashtag">#twitterfail</span>  <span class="mention">@TwitterSupport</span> this is NOT misleading! Did you even read the papers? That's embarrassing! <a href="https://t.co/iUliPH2Dqd" class="link">twitter.com/DrNathanCole/s…</a>
+                  Need to see...! <a href="https://t.co/F9b6jmggZs" class="link">twitter.com/leanrum/status…</a>
                   
-                  <div class="date">18:42:40 on 21 Dec 2021</div>
+                  <div class="date">08:06:56 on 22 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3922,7 +3922,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Dec 2021, 08:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 22 Dec 2021, 09:01:55 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
