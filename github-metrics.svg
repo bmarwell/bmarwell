@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  RT <span class="mention">@CorneliusRoemer</span>: Just found out Germany's <span class="mention">@rki_de</span> publishes all of their SARS-CoV-2 sequences on <span class="mention">@github</span>, with daily updates and very q…
+                  <span class="mention">@gunnarmorling</span> <span class="mention">@vavr_io</span> Yes. Exactly why I chose this.<br /><br />Solution: don't export from your modules (<span class="mention">@sormuras</span>?) or shade. But I doubt it's a good idea to shade it, because 3rd implementation of List&lt;&gt;. 😪
                   
-                  <div class="date">19:27:50 on 23 Dec 2021</div>
+                  <div class="date">20:50:59 on 23 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@gunnarmorling</span> Single dependency on <span class="mention">@vavr_io</span> is also not okay? I never used it, but was close to do so.<br /><br /><a href="https://t.co/RBpXWC3HAL" class="link">github.com/resilience4j/r…</a>
+                  <span class="mention">@joschi83</span> <span class="mention">@gunnarmorling</span> <span class="mention">@vavr_io</span> I agree, it doesn't provide much value. But I can see why they used it.
                   
-                  <div class="date">19:27:18 on 23 Dec 2021</div>
+                  <div class="date">20:19:29 on 23 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3927,7 +3927,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2021, 20:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Dec 2021, 21:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
