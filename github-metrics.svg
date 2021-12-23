@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3224" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3274" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@isotopp</span> Ok weil Fragen kommen. Ich suche schon nebenbei das github Repository. War auf Chinesisch...
+                  RT <span class="mention">@CorneliusRoemer</span>: Just found out Germany's <span class="mention">@rki_de</span> publishes all of their SARS-CoV-2 sequences on <span class="mention">@github</span>, with daily updates and very q…
                   
-                  <div class="date">12:54:06 on 23 Dec 2021</div>
+                  <div class="date">19:27:50 on 23 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@EmmaBostian</span> Great, let's rewrite everything in Java including the UI 😈🤣
+                  <span class="mention">@gunnarmorling</span> Single dependency on <span class="mention">@vavr_io</span> is also not okay? I never used it, but was close to do so.<br /><br /><a href="https://t.co/RBpXWC3HAL" class="link">github.com/resilience4j/r…</a>
                   
-                  <div class="date">12:45:40 on 23 Dec 2021</div>
+                  <div class="date">19:27:18 on 23 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3927,7 +3927,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2021, 19:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 23 Dec 2021, 20:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
