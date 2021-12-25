@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@freebsdfrau</span> I need something like this with a Linux or Java meme for my daughter 😅<br />Great onesie! 👏🏻
+                  
+                  <div class="date">22:04:41 on 25 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@brunoborges</span> any idea what's going on here?
                   
                   <div class="date">22:00:48 on 25 Dec 2021</div>
-                </div>
-                        <div class="tweet">
-                  Nice. Finally I have a commit in a MS  repo.<br />And it's now even licensed to them. What a nice Christmas present..! <a href="https://t.co/1eW4AF90oB" class="link">twitter.com/nixcraft/statu…</a>
-                  
-                  <div class="date">21:59:41 on 25 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3900,7 +3900,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Dec 2021, 22:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 25 Dec 2021, 23:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
