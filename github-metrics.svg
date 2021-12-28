@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3208" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3241" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@LohnerMut</span> Doch, habe einen Fork mit DB-Dump gefunden.
+                  <span class="mention">@GZabos</span> Rewrite in  <span class="hashtag">#PHP</span>  oder rewrite in  <span class="hashtag">#java?</span>  (REST-API only)?
                   
-                  <div class="date">07:52:49 on 28 Dec 2021</div>
+                  <div class="date">08:59:29 on 28 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  Findet ihr TV total auch so unlustig wie ich? Brauche ich nicht. 🤷🏻‍♂️
+                  <span class="mention">@GZabos</span> e.g. <br /><br /><a href="https://t.co/9rFErTwL3F" class="link">twitter.com/bmarwell/statu…</a>
                   
-                  <div class="date">00:03:29 on 28 Dec 2021</div>
+                  <div class="date">08:38:53 on 28 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3917,7 +3917,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Dec 2021, 08:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Dec 2021, 09:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
