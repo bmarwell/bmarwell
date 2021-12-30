@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3311" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3261" class="">
     <defs>
         <style/>
     </defs>
@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@DanielKec</span> Good to know! I am yet to get a good mill. I don't have a lot of space in my kitchen.<br />I was using a Magnifica before, but I was not satisfied with the pressure and overall performance. <a href="https://t.co/OkebcFFmlF" class="link">pic.twitter.com/OkebcFFmlF</a>
+                  
+                  <div class="date">08:15:07 on 30 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   Code quality is gonna rise! 😋 <a href="https://t.co/65fOlXee43" class="link">pic.twitter.com/65fOlXee43</a>
                   
                   <div class="date">22:41:01 on 29 Dec 2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@mthmulders</span> <span class="mention">@picocli</span> <span class="mention">@sdkman_</span> <span class="mention">@jreleaser</span> <span class="mention">@marc0der</span> <span class="mention">@unmatched</span> <span class="mention">@chocolateynuget</span> I'm not sure I like the fact that I have to type the coordinates twice to get a pom.xml snippet. With the same subcommand even!<br />I'll open a PR if I think I found a convenient solution.<br /><br />Thanks so far! 👍🏻
-                  
-                  <div class="date">21:57:00 on 29 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3928,7 +3928,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2021, 08:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Dec 2021, 09:01:52 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
