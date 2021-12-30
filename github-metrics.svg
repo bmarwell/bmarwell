@@ -1804,14 +1804,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@DanielKec</span> Good to know! I am yet to get a good mill. I don't have a lot of space in my kitchen.<br />I was using a Magnifica before, but I was not satisfied with the pressure and overall performance. <a href="https://t.co/OkebcFFmlF" class="link">pic.twitter.com/OkebcFFmlF</a>
+                  <span class="mention">@WeldPond</span> Hint: usually docker images are safe. Copy files in as root, execute as user 1001.
                   
-                  <div class="date">08:15:07 on 30 Dec 2021</div>
+                  <div class="date">10:20:53 on 30 Dec 2021</div>
                 </div>
                         <div class="tweet">
-                  Code quality is gonna rise! 😋 <a href="https://t.co/65fOlXee43" class="link">pic.twitter.com/65fOlXee43</a>
+                  <span class="mention">@WeldPond</span> I have no words for production environments where the runtime user may modify any files needed for the runtime. There is an external log and tmp dir it can write to, but all other files must always be read-only.
                   
-                  <div class="date">22:41:01 on 29 Dec 2021</div>
+                  <div class="date">10:16:21 on 30 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3928,7 +3928,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2021, 10:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 30 Dec 2021, 11:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
