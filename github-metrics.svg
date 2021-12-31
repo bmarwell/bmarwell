@@ -1808,14 +1808,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  <span class="mention">@helpermethod</span> Yup. That's also my "default" setup. But there are cases when you might want to introduce en extra frontend service layer containing a command pattern. How exactly do I know when to go for that?
+                  
+                  <div class="date">11:20:31 on 31 Dec 2021</div>
+                </div>
+                        <div class="tweet">
                   <span class="mention">@mkarg</span> <span class="mention">@rotnroll666</span> Yay, neue side-projects! 🎉
                   
                   <div class="date">10:53:47 on 31 Dec 2021</div>
-                </div>
-                        <div class="tweet">
-                  <span class="mention">@Vega_DW</span> I now feel lucky being a Manjaro user. <br />I always thought arch is the KISS way. If mods cannot even explain how simple simple is, then they failed to reach their goal.
-                  
-                  <div class="date">00:12:50 on 31 Dec 2021</div>
                 </div>
                     </section>
                 </div>
@@ -3937,7 +3937,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Dec 2021, 11:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 31 Dec 2021, 12:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
