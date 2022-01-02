@@ -1808,14 +1808,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  RT <span class="mention">@ExodusGhost</span>: Before you had Facebook, or Twitter, or any of those other things, this is what we used to do. I started in 1997. https://…
+                  
+                  <div class="date">20:56:33 on 2 Jan 2022</div>
+                </div>
+                        <div class="tweet">
                   Oh, that's totally me! 🤣 <br />See me trying Java + VueJS/Vuetify 3 soon...<br /><br /><a href="https://t.co/5yY87F5zWF" class="link">i.redd.it/iiqg1f9wg7981.…</a> <a href="https://t.co/iURdjTL5fr" class="link">pic.twitter.com/iURdjTL5fr</a>
                   
                   <div class="date">19:00:51 on 2 Jan 2022</div>
-                </div>
-                        <div class="tweet">
-                  RT <span class="mention">@Polyphem10</span>: <span class="mention">@Nell781</span> 🤔 Dabei gibt es doch diese schöne Anleitung vom <span class="mention">@Narkoseonkel</span> bei <span class="mention">@MLCartoons</span>. <a href="https://t.co/SqybZXfJgM" class="link">pic.twitter.com/SqybZXfJgM</a>
-                  
-                  <div class="date">18:36:20 on 2 Jan 2022</div>
                 </div>
                     </section>
                 </div>
@@ -3913,7 +3913,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2022, 20:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 2 Jan 2022, 21:01:34 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
