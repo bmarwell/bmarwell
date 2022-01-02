@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3244" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3361" class="">
     <defs>
         <style/>
     </defs>
@@ -1808,14 +1808,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@Sharat_Chander</span> Forbidden by most associations, eg UEFA (Europe) and DFL/DFB (Germany).
+                  <span class="mention">@Sharat_Chander</span> But there is something like a fixed time in other events. E.g. from goalkeeper shots. They cannot rest/lie on the ball for more than 6 seconds, hold it and wait for his team taking position etc.<br />Same for throw-ins or kick-off.
                   
-                  <div class="date">08:36:12 on 2 Jan 2022</div>
+                  <div class="date">10:32:05 on 2 Jan 2022</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@GeherRetep</span> <span class="mention">@Mike__happy</span> Orrr jetzt fühle ich mich jung 😇 hab's 2005 gelernt. 😎
+                  <span class="mention">@Sharat_Chander</span> No. It could be one of multiple things.<br />First, it's very close to a stop or distraction. See this excellent answer: <a href="https://t.co/IayFxLZlAm" class="link">sports.stackexchange.com/a/14718</a><br /><br />Second, if it's not a shoot-out, it's eating the clock.<br /><br />Third, the referee can say it's unsporting behaviour.
                   
-                  <div class="date">23:44:26 on 1 Jan 2022</div>
+                  <div class="date">10:29:40 on 2 Jan 2022</div>
                 </div>
                     </section>
                 </div>
@@ -3912,7 +3912,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2022, 10:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 2 Jan 2022, 11:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
