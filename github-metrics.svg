@@ -1808,14 +1808,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
+                  RT <span class="mention">@tagir_valeev</span>: Does autoboxing work as expected when you use  <span class="hashtag">#Java</span>  reflection? Not always. E. g., consider this snippet: https://t.co/rH…
+                  
+                  <div class="date">12:21:41 on 4 Jan 2022</div>
+                </div>
+                        <div class="tweet">
                    <span class="hashtag">#TIL:</span>  La Zone rouge <a href="https://t.co/4ib1sAfEhN" class="link">twitter.com/drguidoknapp/s…</a>
                   
                   <div class="date">12:00:37 on 4 Jan 2022</div>
-                </div>
-                        <div class="tweet">
-                  RT <span class="mention">@ExodusGhost</span>: Before you had Facebook, or Twitter, or any of those other things, this is what we used to do. I started in 1997. https://…
-                  
-                  <div class="date">20:56:33 on 2 Jan 2022</div>
                 </div>
                     </section>
                 </div>
@@ -3923,7 +3923,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2022, 12:01:42 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Jan 2022, 13:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
