@@ -1808,14 +1808,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@vlad_mihalcea</span> 3rd way: don't set an explicit relationship. I.e. store the post id as int, not as Post entity. Then fetch without relationship.<br />Served me well. You just have to do your domain model right, so you don't save comments early.
+                  <span class="mention">@vlad_mihalcea</span> Well, different data to transport =&gt; that's okay for me.<br />Anyway. Will give it a try when I see it useful (and polish my ITs).
                   
-                  <div class="date">19:20:07 on 4 Jan 2022</div>
+                  <div class="date">20:53:47 on 4 Jan 2022</div>
                 </div>
                         <div class="tweet">
-                  RT <span class="mention">@quarkswdr</span>: Erst nach 131 Einsätzen hat der Baumwollbeutel die gleiche Ökobilanz wie die verbotene Plastiktüte. Die Mehrweg-Tragetasche…
+                  RT <span class="mention">@piotr_minkowski</span>: Java Tip 💡<br /><br />`Phaser` enables the synchronization of threads for one or more phases of activity. It lets us define a sy…
                   
-                  <div class="date">19:12:59 on 4 Jan 2022</div>
+                  <div class="date">20:50:10 on 4 Jan 2022</div>
                 </div>
                     </section>
                 </div>
@@ -3923,7 +3923,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2022, 20:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 4 Jan 2022, 21:01:49 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
