@@ -1808,14 +1808,14 @@ Java/JavaEE dev s/ 2006 //
             
           </div>
                         <div class="tweet">
-                  <span class="mention">@LadyLiana1986</span> Viel "Erfolg" - hoffentlich nichts schlimmeres?
+                  <span class="mention">@lukaseder</span> Lucky you! Just kidding, doesn't happen to me that often. 😃
                   
-                  <div class="date">14:30:01 on 5 Jan 2022</div>
+                  <div class="date">15:46:49 on 5 Jan 2022</div>
                 </div>
                         <div class="tweet">
-                  <span class="mention">@vlad_mihalcea</span> Well, different data to transport =&gt; that's okay for me.<br />Anyway. Will give it a try when I see it useful (and polish my ITs).
+                  <span class="mention">@lukaseder</span> ... who got all the glory for building the app, but you get nothing because you're just fixing bugs in your app. 😁
                   
-                  <div class="date">20:53:47 on 4 Jan 2022</div>
+                  <div class="date">15:43:51 on 5 Jan 2022</div>
                 </div>
                     </section>
                 </div>
@@ -3928,7 +3928,7 @@ But I cannot add a classifier to the jlink-plugin?
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2022, 15:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 5 Jan 2022, 16:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
