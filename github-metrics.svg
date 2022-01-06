@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3264" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3347" class="">
     <defs>
         <style/>
     </defs>
@@ -485,15 +485,25 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@ApacheLog4j</span>
-                            : The Apache Logging Services PMC has decided to reconfirm the end of life status of Log4j 1.x. Details in the log4j1 README…
-                            <div class="date">18:52:45 on 6 Jan 2022</div>
+                            <span class="mention">@bisonfute</span>
+                            Nicht schlecht für's erste Mal, I guess? 😃
+                            <br />
+                            <br />
+                            <a href="https://t.co/NCZ9r3qcjH" class="link">twitter.com/bmarwell/statu…</a>
+                            <div class="date">20:55:35 on 6 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@aalmiray</span>
-                            They don't show up in your TL if someone you follow likes or retweets.
-                            <div class="date">14:07:19 on 6 Jan 2022</div>
+                            Wordle 201 4/6
+                            <br />
+                            <br />
+                            ⬛⬛🟨⬛⬛
+                            <br />
+                            ⬛⬛🟨🟨⬛
+                            <br />
+                            🟩🟨🟨🟨⬛
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">20:54:50 on 6 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2676,7 +2686,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2022, 20:01:38 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 21:01:26 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
