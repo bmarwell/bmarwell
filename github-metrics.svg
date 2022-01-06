@@ -485,15 +485,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@ApacheLog4j</span>
+                            : The Apache Logging Services PMC has decided to reconfirm the end of life status of Log4j 1.x. Details in the log4j1 README…
+                            <div class="date">18:52:45 on 6 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@aalmiray</span>
                             They don't show up in your TL if someone you follow likes or retweets.
                             <div class="date">14:07:19 on 6 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@mathieubroutin</span>
-                            <span class="mention">@rmannibucau</span>
-                            Now try without clean. Depending on your build, some parts don't need recompiling or downloading assets this way. 😉
-                            <div class="date">22:15:25 on 5 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2676,7 +2676,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2022, 18:15:50 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 6 Jan 2022, 19:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
