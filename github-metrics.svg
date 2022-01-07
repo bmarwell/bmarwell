@@ -485,20 +485,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@LadyLiana1986</span>
+                            Bestimmt sitzt da jemand in der Uni, der dir bei Nachfrage sagen würde: "egal welche Prüfungsform: »nicht für die Uni, für das Leben lernen wir! 👆🏻«".
+                            <a href="https://t.co/C6CTXmVicO" class="link">pic.twitter.com/C6CTXmVicO</a>
+                            <div class="date">08:36:26 on 7 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             I remember when I used Windows in the early 2000s, we all used upx to speed up loading of apps. HDDs were slow, memory was considerably faster, CPU for decompression neglectable.
                             <br />
                             <br />
                             The virus scanners never liked it.
                             <a href="https://t.co/Xs44ug5oOr" class="link">twitter.com/aalmiray/statu…</a>
                             <div class="date">21:16:57 on 6 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            Nicht schlecht für's erste Mal, I guess? 😃
-                            <br />
-                            <br />
-                            <a href="https://t.co/NCZ9r3qcjH" class="link">twitter.com/bmarwell/statu…</a>
-                            <div class="date">20:55:35 on 6 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2680,7 +2678,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jan 2022, 08:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 09:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
