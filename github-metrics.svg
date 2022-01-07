@@ -2365,7 +2365,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 136k out of 273m repositories</span>
+                                    <span class="gh">ranked 136k out of 274m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 213 stars</div>
                             </div>
@@ -2527,7 +2527,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.63m out of 273m repositories</span>
+                                    <span class="gh">ranked 1.63m out of 274m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2680,7 +2680,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jan 2022, 07:01:26 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 7 Jan 2022, 08:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
