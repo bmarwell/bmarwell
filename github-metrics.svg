@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3427" class="">
     <defs>
         <style/>
     </defs>
@@ -485,6 +485,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Faster Chrome - Let The Compiler do the work
+                            <br />
+                            <br />
+                            »And while speed matters a lot, we also care about binary size. (Yes, we see your memes!)«
+                            <br />
+                            <a href="https://t.co/HxBsl0YoQ5" class="link">blog.chromium.org/2021/12/faster…</a>
+                            <div class="date">10:50:14 on 9 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             Ich schließe mich
                             <span class="mention">@bisonfute</span>
                             an...
@@ -505,11 +514,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             ⬛🟩🟩⬛⬛
                             <div class="date">08:36:02 on 9 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@ewolff</span>
-                            My condolences. 🖤
-                            <div class="date">00:32:44 on 9 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2666,7 +2670,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2022, 10:01:33 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 11:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
