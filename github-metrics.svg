@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3294" class="">
     <defs>
         <style/>
     </defs>
@@ -485,6 +485,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@joschi83</span>
+                            Welcome to the club! 🚼
+                            <div class="date">14:49:40 on 9 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="hashtag">#TIL</span>
                             <span class="mention">@CalyxOS</span>
                             .
@@ -496,14 +501,6 @@ Java/JavaEE dev s/ 2006 //
                             <a href="https://t.co/YPaaq5Mw3D" class="link">reddit.com/r/CalyxOS/comm…</a>
                             <a href="https://t.co/HvU8pZImMh" class="link">twitter.com/ashleygjovik/s…</a>
                             <div class="date">13:18:47 on 9 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@ashleygjovik</span>
-                            What do you use as a phone?
-                            <br />
-                            <br />
-                            One possibility would be sth like LineageOS plus MicroG, so you don't have Google on your phone in the first place. Plus, you get security updates for old phones.
-                            <div class="date">12:15:55 on 9 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2660,7 +2657,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jan 2022, 14:13:29 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 9 Jan 2022, 15:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
