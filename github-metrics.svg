@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3228" class="">
     <defs>
         <style/>
     </defs>
@@ -485,22 +485,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@elharo</span>
+                            <span class="mention">@Carnage4Life</span>
+                            <span class="mention">@renovatebot</span>
+                            will do this for you
+                            <div class="date">17:23:44 on 10 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="hashtag">#backfromvacation</span>
                             , and this is just the inbox. Other folders not counting...
                             <a href="https://t.co/J6yx1r4dW6" class="link">pic.twitter.com/J6yx1r4dW6</a>
                             <div class="date">07:47:07 on 10 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@ashleygjovik</span>
-                            : 🧵 Welcome to the new people! 👋🏻
-                            <br />
-                            <br />
-                            I'm Ashley. I blew the whistle on Apple last year.
-                            <br />
-                            <br />
-                            My office was on a Triple Superfund…
-                            <div class="date">19:41:25 on 9 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2662,7 +2657,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Jan 2022, 17:01:48 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 10 Jan 2022, 18:28:00 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
