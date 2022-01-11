@@ -485,10 +485,6 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Topf sucht Deckel! Wer möchte mein Frontend-Dev sein? 😉
-                            <div class="date">18:13:15 on 11 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
                             Hallo ihr Lieben,
                             <br />
                             ich suche einen
@@ -505,6 +501,11 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/r79JEDeXzz" class="link">f-i.de/Karriere/Offen…</a>
                             <div class="date">16:09:01 on 11 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
+                            I love the symmetry.
+                            <a href="https://t.co/WkdHcyp3co" class="link">twitter.com/bmarwell/statu…</a>
+                            <div class="date">08:55:12 on 11 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2671,7 +2672,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jan 2022, 18:16:00 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 19:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
