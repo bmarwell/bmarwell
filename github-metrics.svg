@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3261" class="">
     <defs>
         <style/>
     </defs>
@@ -485,17 +485,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            Waaaaas?
-                            <span class="hashtag">#fail</span>
-                            <div class="date">13:24:27 on 12 Jan 2022</div>
+                            <span class="hashtag">#JS</span>
+                            doesn't do what you told it to do. It tries to guess your intentions. And it fails horribly. Every. Single. Time.
+                            <br />
+                            <br />
+                            <span class="hashtag">#javascript</span>
+                            <a href="https://t.co/c32AX6ZvCq" class="link">twitter.com/mcclure111/sta…</a>
+                            <div class="date">19:59:19 on 12 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bagder</span>
-                            I never found them useful. They're not installed anywhere except your local system (unlike curl) and they break the UNIX philosophy (don't pipe in/out, we'll do it).
-                            <br />
-                            Colouring might be nice, though. But even then, I can pipe through pygments or ccat.
-                            <div class="date">12:05:58 on 12 Jan 2022</div>
+                            <span class="mention">@domenuk</span>
+                            <span class="mention">@mcclure111</span>
+                            Still a string. 🙈
+                            <div class="date">19:57:36 on 12 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2667,7 +2669,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2022, 19:01:40 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 20:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
