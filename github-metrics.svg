@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3377" class="">
     <defs>
         <style/>
     </defs>
@@ -89,7 +89,7 @@ Java/JavaEE dev s/ 2006 //
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1962 Commits
+                            1915 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -485,24 +485,30 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@simas_ch</span>
+                            <span class="mention">@cosmicvisitors</span>
                             <span class="mention">@tagir_valeev</span>
-                            Yes!
+                            <span class="mention">@stuartmarks</span>
+                            ... only exception I can think of:
                             <br />
                             <br />
-                            <a href="https://t.co/EHwGnN8ptp" class="link">twitter.com/stuartmarks/st…</a>
+                            UnsatisfiedLinkError
                             <br />
                             <br />
-                            Looking forward to seeing this in IntelliJ!
-                            <div class="date">21:35:01 on 12 Jan 2022</div>
+                            In that case you could throw in s Java implementation of your c library.
+                            <div class="date">22:28:55 on 12 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@simas_ch</span>
+                            <span class="mention">@cosmicvisitors</span>
                             <span class="mention">@tagir_valeev</span>
-                            What if you don't have one?
+                            <span class="mention">@stuartmarks</span>
+                            Here's my reasoning. What's yours?
                             <br />
-                            Why just log? The coder could miss that he has to stop something.
-                            <div class="date">21:26:03 on 12 Jan 2022</div>
+                            <br />
+                            "An Error is a subclass of Throwable that indicates serious problems that a reasonable application should not try to catch."
+                            <br />
+                            <br />
+                            <a href="https://t.co/mWoCsmbj0Y" class="link">docs.oracle.com/javase/6/docs/…</a>
+                            <div class="date">22:27:42 on 12 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2674,7 +2680,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2022, 22:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 23:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
