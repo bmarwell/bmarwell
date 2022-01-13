@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3211" class="">
     <defs>
         <style/>
     </defs>
@@ -485,17 +485,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Raumzeitfalle</span>
+                            What would be the non-Boss-Level method?
+                            <div class="date">12:39:51 on 13 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@FairyHolla</span>
                             <a href="https://t.co/c1lBUjvBmQ" class="link">pic.twitter.com/c1lBUjvBmQ</a>
                             <div class="date">07:27:12 on 13 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Raumzeitfalle</span>
-                            Apache Commons-CSV in a JAX-RS MessageBodyWriter for now.
-                            <br />
-                            <br />
-                            I have a lot of escaping to do (CSV fields contain small parts of JSON, still). I wouldn't want to do this myself.
-                            <div class="date">07:04:53 on 13 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2672,7 +2669,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2022, 12:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 13:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
