@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3228" class="">
     <defs>
         <style/>
     </defs>
@@ -485,21 +485,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@grobmeier</span>
-                            : Ok, that's some news. Google Analytics is now illegal in the EU. Guess I have to have to hurry up with my ASF work related t…
-                            <div class="date">23:50:07 on 13 Jan 2022</div>
+                            <span class="mention">@javarevisited</span>
+                            JPA / EclipseLink.
+                            <div class="date">08:05:46 on 14 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@brunoborges</span>
-                            <span class="mention">@Raumzeitfalle</span>
-                            ID,Discriminator,Value
-                            <br />
-                            1,"""{"set":"a"}""",true
-                            <br />
-                            <br />
-                            etc. 🤡
-                            <div class="date">23:40:24 on 13 Jan 2022</div>
+                            <span class="mention">@zowalla</span>
+                            I won't allow uploads in that tool. We have it elsewhere, and it's been a Desaster.
+                            <div class="date">08:03:44 on 14 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2681,7 +2674,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2022, 08:01:26 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 14 Jan 2022, 09:01:33 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
