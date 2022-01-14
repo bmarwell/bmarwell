@@ -486,13 +486,14 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             <span class="mention">@lukaseder</span>
-                            It's not CSV.
-                            <div class="date">13:22:00 on 14 Jan 2022</div>
+                            <span class="mention">@gmuecke</span>
+                            I wonder: Multiline Vs comments - what's more important?
+                            <div class="date">17:59:32 on 14 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@maxandersen</span>
-                            Semicolon; German Locale uses Semicolon because Microsoft thought it was a good idea.
-                            <div class="date">13:21:36 on 14 Jan 2022</div>
+                            <span class="mention">@lukaseder</span>
+                            It's not CSV.
+                            <div class="date">13:22:00 on 14 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2680,7 +2681,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jan 2022, 17:01:42 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 14 Jan 2022, 18:14:08 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
