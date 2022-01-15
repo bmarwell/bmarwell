@@ -485,22 +485,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Wordle 210 4/6
+                            <span class="mention">@Knaudel</span>
+                            <span class="mention">@lemming23</span>
+                            Da kann ich, wenn ihr auch andere Genres mögt, Anne Reburn empfehlen.
+                            <br />
+                            Sie macht auch solche Videos, viel a capella dabei.
                             <br />
                             <br />
-                            ⬛🟩⬛⬛⬛
-                            <br />
-                            ⬛🟩⬛⬛⬛
-                            <br />
-                            🟩🟩🟨🟨⬛
-                            <br />
-                            🟩🟩🟩🟩🟩
-                            <div class="date">10:33:49 on 15 Jan 2022</div>
+                            <a href="https://t.co/kfU9H8UeEQ" class="link">youtube.com/c/AnneReburn</a>
+                            <div class="date">11:35:16 on 15 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@javarevisited</span>
-                            11 in prod, 17 for personal new projects.
-                            <div class="date">09:18:48 on 15 Jan 2022</div>
+                            <span class="mention">@Marcus_mit_Zeh</span>
+                            * House MD
+                            <br />
+                            * the good doctor.
+                            <div class="date">11:31:28 on 15 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2648,7 +2648,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2022, 11:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 15 Jan 2022, 12:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
