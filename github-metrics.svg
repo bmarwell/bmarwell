@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3494" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3344" class="">
     <defs>
         <style/>
     </defs>
@@ -487,42 +487,22 @@ Java/JavaEE dev s/ 2006 //
                         <div class="tweet">
                             <span class="mention">@khmarbaise</span>
                             <span class="mention">@javacodegeeks</span>
-                            I think this was the reason why I never used Spock, see picture.
+                            Compare the article with how I position my comments in Tests.
+                            <br />
+                            I see no difference.
                             <br />
                             <br />
-                            Just write
-                            <br />
-                            // Given
-                            <br />
-                            ...
-                            <br />
-                            // When
-                            <br />
-                            ...
-                            <br />
-                            // Then
-                            <br />
-                            assertThat(myObj).equals(...);
-                            <a href="https://t.co/F1JuIclAVS" class="link">pic.twitter.com/F1JuIclAVS</a>
-                            <div class="date">22:59:19 on 15 Jan 2022</div>
+                            Behaviour driven Dev is -for me- just a specific method of writing Tests.
+                            <div class="date">23:09:50 on 15 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@jqno</span>
                             <span class="mention">@khmarbaise</span>
-                            <span class="mention">@mthmulders</span>
-                            <span class="mention">@beatngu1101</span>
-                            <span class="mention">@jqno</span>
-                            I decided to update the taglist plugin.
+                            <span class="mention">@javacodegeeks</span>
+                            From my point of view it seems you only add vocabulary (given, when, then, expect) to blocks. They even use labels! You have them in java, too. Junit just doesn't print them.
                             <br />
                             <br />
-                            First thing: readme, GH actions, fix javadocs, dependabot.
-                            <br />
-                            <br />
-                            Will update parent and other plugins (cobertura etc), then it should build just fine.
-                            <br />
-                            <br />
-                            <a href="https://t.co/QUPj7axnG2" class="link">github.com/mojohaus/tagli…</a>
-                            <div class="date">17:27:20 on 15 Jan 2022</div>
+                            <a href="https://t.co/rwzL7V70jB" class="link">pluralsight.com/guides/introdu…</a>
+                            <div class="date">23:08:46 on 15 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -593,10 +573,10 @@ Java/JavaEE dev s/ 2006 //
                     </filter>
                     <g transform="scale(4) translate(12, 0)">
                         <g transform="translate(0, 0)">
-                            <g transform="translate(0, 6)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(0, 5.890909090909091)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.109090909090909 0,1.1090909090909091 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1090909090909091 1.7,2.109090909090909 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.890909090909091)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2676,7 +2656,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2022, 23:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 00:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
