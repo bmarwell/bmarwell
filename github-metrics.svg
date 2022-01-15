@@ -485,16 +485,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@javarevisited</span>
+                            11 in prod, 17 for personal new projects.
+                            <div class="date">09:18:48 on 15 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             Source
                             <br />
                             <br />
                             <a href="https://t.co/TUiWjR4JCq" class="link">twitter.com/PR0GRAMMERHUM0…</a>
                             <div class="date">22:05:12 on 14 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@OliverLibutzki</span>
-                            <a href="https://t.co/xfvo0y3y11" class="link">pic.twitter.com/xfvo0y3y11</a>
-                            <div class="date">21:23:04 on 14 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2642,7 +2642,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2022, 09:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 15 Jan 2022, 10:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
