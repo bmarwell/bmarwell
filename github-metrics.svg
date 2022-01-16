@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3324" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3357" class="">
     <defs>
         <style/>
     </defs>
@@ -485,6 +485,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Wordle 211 5/6
+                            <br />
+                            <br />
+                            ⬛🟨🟨⬛⬛
+                            <br />
+                            🟨🟨⬛🟨⬛
+                            <br />
+                            ⬛🟨🟨⬛🟨
+                            <br />
+                            ⬛🟩🟩🟩🟩
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">09:29:24 on 16 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@SandraParsick</span>
                             <span class="mention">@khmarbaise</span>
                             <span class="mention">@javacodegeeks</span>
@@ -493,17 +508,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Would love to hear more. What else does Spock really do for you? I never understood this.
                             <div class="date">00:24:47 on 16 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@javacodegeeks</span>
-                            Compare the article with how I position my comments in Tests.
-                            <br />
-                            I see no difference.
-                            <br />
-                            <br />
-                            Behaviour driven Dev is -for me- just a specific method of writing Tests.
-                            <div class="date">23:09:50 on 15 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2658,7 +2662,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2022, 09:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 10:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
