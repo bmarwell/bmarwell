@@ -485,6 +485,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@who_is_thatgirl</span>
+                            "Vom rechten Weg abkommend" ist meine Lieblingsserie.
+                            <br />
+                            Sternenabenteuer suchte ich ohne Ende!
+                            <div class="date">16:49:33 on 16 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             It's always fun to update some worn-out Maven 2
                             <span class="hashtag">#plugins</span>
                             to Maven 3. Esp.
@@ -495,14 +502,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@ApacheShiro</span>
                             . 😃
                             <div class="date">14:50:49 on 16 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@nixcraft</span>
-                            : Oh, awesome library, and it might come in handy someday. Hence twitting. Rich is a
-                            <span class="hashtag">#Python</span>
-                            library for rich text and beautifu…
-                            <div class="date">11:49:47 on 16 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2656,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jan 2022, 16:01:21 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 17:01:17 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
