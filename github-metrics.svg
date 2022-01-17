@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3228" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3244" class="">
     <defs>
         <style/>
     </defs>
@@ -485,17 +485,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@tagir_valeev</span>
+                            Tempted to say Exception, because stream.skip returns a NEW intermediate operation. In ANY case there should be an assignment:
+                            <br />
+                            stream = stream.skip(n); !
+                            <div class="date">18:56:07 on 17 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@venkat_s</span>
                             Hope everyone is doing well!
                             <a href="https://t.co/mmTlD8S3XS" class="link">pic.twitter.com/mmTlD8S3XS</a>
                             <div class="date">18:05:18 on 17 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@matya_j</span>
-                            <span class="mention">@martinneuhof</span>
-                            <span class="mention">@Horrorcirdan</span>
-                            1.2! 😃 Da gab es noch Bunny-Hopping. Damit konnte man die Bombe 💣 so toll verstecken...
-                            <div class="date">18:04:08 on 17 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2661,7 +2661,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jan 2022, 18:16:14 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 17 Jan 2022, 19:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
