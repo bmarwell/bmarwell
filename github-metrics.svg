@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3411" class="">
     <defs>
         <style/>
     </defs>
@@ -485,6 +485,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@juanantoniobm</span>
+                            <span class="mention">@helpermethod</span>
+                            I'd love to go with the
+                            <span class="mention">@TheASF</span>
+                            stack as far as possible. The only reason I didn't use Thrift yet was missing binaries in maven Central.
+                            <br />
+                            protoc is available on maven Central inside a jar file. 😊
+                            <br />
+                            I talked to the thrift team, but they don't like this idea.
+                            <div class="date">10:59:51 on 18 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             2022 problems,
                             <span class="mention">@olamy</span>
                             I ❤️ this commit message! 🤣
@@ -503,12 +515,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <span class="hashtag">#2022problems</span>
                             <div class="date">09:41:14 on 18 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@laytoun</span>
-                            : Just spent 2 hours chasing deployment issues in our k8s cluster, turns out YAML indentation is the issues... How is your Monda…
-                            <div class="date">08:55:51 on 18 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2679,7 +2685,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 10:01:32 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 11:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
