@@ -485,14 +485,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Ctrl+n to open a file (Linux).
+                            <div class="date">20:59:10 on 18 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@lukaseder</span>
                             I wish final was the default EVERYWHERE 😪
                             <div class="date">19:47:49 on 18 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@SandraParsick</span>
-                            Link bitte 🤩
-                            <div class="date">19:46:00 on 18 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2663,7 +2662,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 20:01:34 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 21:01:44 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
