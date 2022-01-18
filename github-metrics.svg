@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3327" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
     <defs>
         <style/>
     </defs>
@@ -485,17 +485,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@CZ_JanecekPetr</span>
-                            ... between Java server communication, sometimes clients. I have all in my hand. Over http(2).  Thrift and Proto seemed to have best performance and biggest usage numbers.
-                            <div class="date">14:47:07 on 18 Jan 2022</div>
+                            <span class="mention">@joschi83</span>
+                            Just the link doesn't help. Now I will wonder what I'll miss from Proto3 or Thrift... Or even  Cap'n'Proto.
+                            <br />
+                            <a href="https://t.co/pQL34oAJeN" class="link">capnproto.org</a>
+                            <div class="date">16:16:18 on 18 Jan 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@CZ_JanecekPetr</span>
-                            I was mostly looking at ProtoBuf 3 (already tested, works, but no support and hard to get sth fixed/merged) and Thrift (easy to contribute for issues, but no compiler precompiled in mvn central. Good to platform support).
-                            <br />
-                            <br />
-                            I mostly want to replace JSON between... -&gt;
-                            <div class="date">14:45:41 on 18 Jan 2022</div>
+                            ... between Java server communication, sometimes clients. I have all in my hand. Over http(2).  Thrift and Proto seemed to have best performance and biggest usage numbers.
+                            <div class="date">14:47:07 on 18 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -1644,7 +1643,7 @@ Java/JavaEE dev s/ 2006 //
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M3.637 2.291A.75.75 0 014.23 2h7.54a.75.75 0 01.593.291l3.48 4.5a.75.75 0 01-.072.999l-7.25 7a.75.75 0 01-1.042 0l-7.25-7a.75.75 0 01-.072-.999l3.48-4.5zM4.598 3.5L1.754 7.177 8 13.207l6.246-6.03L11.402 3.5H4.598z"/>
                             </svg>
-                            44 badges
+                            45 badges
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2666,7 +2665,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 16:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 17:01:47 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
