@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3261" class="">
     <defs>
         <style/>
     </defs>
@@ -485,13 +485,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Ctrl+n to open a file (Linux).
-                            <div class="date">20:59:10 on 18 Jan 2022</div>
+                            <span class="mention">@LiaWarcraft</span>
+                            Vermutlich gibt es noch immer meinen Untoten Priester, lvl 70. Was macht man mit so alten Accounts? 😅
+                            <br />
+                            Kann man den verkaufen?
+                            <br />
+                            Habe sogar noch die Verpackung der Sammler Edition
+                            <div class="date">21:18:26 on 18 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@lukaseder</span>
-                            I wish final was the default EVERYWHERE 😪
-                            <div class="date">19:47:49 on 18 Jan 2022</div>
+                            Ctrl+n to open a file (Linux).
+                            <div class="date">20:59:10 on 18 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2662,7 +2666,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 21:01:44 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 22:01:20 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
