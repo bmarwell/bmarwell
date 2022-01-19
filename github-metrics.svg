@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3228" class="">
     <defs>
         <style/>
     </defs>
@@ -485,20 +485,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@who_is_thatgirl</span>
+                            Puh. Rausgenommen als es anfing hip zu werden! 😅
+                            <div class="date">19:22:28 on 19 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@simas_ch</span>
                             <span class="mention">@IntelliJSupport</span>
                             You can just disable kotlin tooling for each project without removing that plugin
                             <div class="date">17:33:13 on 19 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@funfried84</span>
-                            I was going to ask for archiving if no-one is interested.
-                            <br />
-                            It may in fact be easier to just use a skin in the first place instead of applying it afterwards.
-                            <br />
-                            <br />
-                            <a href="https://t.co/NxdrXzyZr4" class="link">maven.apache.org/skins/index.ht…</a>
-                            <div class="date">11:50:11 on 19 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2674,7 +2669,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2022, 19:01:46 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 20:01:32 (timezone Europe/Berlin) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
