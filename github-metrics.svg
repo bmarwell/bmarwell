@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3311" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3262" class="">
     <defs>
         <style/>
     </defs>
@@ -486,21 +486,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@CedricChampeau</span>
-                            Where did you find that tweet? I have been a Maven contributor for some time and haven't seen such rants.
+                            Release of the taglist maven plugin is postponed to next week until I get deploy access (karma) to mojohaus artifacts on sonatype Nexus. 🤷🏻‍♂️
                             <br />
-                            <br />
-                            Anyway. It's so sad. People should appreciate what they get for free. No one forces them to use our tools.
-                            <div class="date">17:40:01 on 22 Jan 2022</div>
+                            Stay tuned, it's already tagged, built and signed on my PC! ✅
+                            <div class="date">20:21:12 on 22 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@iammemeloper</span>
-                            : Recruiters be like:
-                            <br />
-                            <br />
-                            We're looking for someone who can connect to the database using CSS.
-                            <div class="date">16:20:13 on 22 Jan 2022</div>
+                            <span class="mention">@Synth_C</span>
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@CedricChampeau</span>
+                            Thanks. That shouldn't have been harvesting for comments, but feedback is noted and appreciated! 😊👍🏻
+                            <div class="date">20:19:44 on 22 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2646,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jan 2022, 20:01:26 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 21:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
