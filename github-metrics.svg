@@ -486,15 +486,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@iammemeloper</span>
+                            : Recruiters be like:
+                            <br />
+                            <br />
+                            We're looking for someone who can connect to the database using CSS.
+                            <div class="date">16:20:13 on 22 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@zowalla</span>
                             👍🏻
                             <div class="date">15:56:12 on 22 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@UroFuchs1</span>
-                            : Mit demselben Argument könnte man auch Voodoo-Zeremonien oder Schamanismus finanzieren. Eine GKV sollte ausschließlich evide…
-                            <div class="date">13:40:40 on 22 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2644,7 +2647,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jan 2022, 16:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 22 Jan 2022, 17:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
