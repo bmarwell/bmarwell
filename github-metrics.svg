@@ -2336,7 +2336,7 @@ The alternative would be to initialise all the properties.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 136k out of 277m repositories</span>
+                                    <span class="gh">ranked 137k out of 277m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 213 stars</div>
                             </div>
@@ -2651,7 +2651,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jan 2022, 04:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 23 Jan 2022, 05:01:48 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
