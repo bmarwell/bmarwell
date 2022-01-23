@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3311" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
     <defs>
         <style/>
     </defs>
@@ -486,22 +486,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@ogelpre</span>
-                            <span class="mention">@jasoncoon_</span>
-                            Sad thing: no protection against wrong polarization.
-                            <br />
-                            <br />
-                            Better use this:
-                            <br />
-                            <br />
-                            <a href="https://t.co/qQmLbc6PDb" class="link">de.m.wikipedia.org/wiki/IEC_60906…</a>
-                            <div class="date">13:54:02 on 23 Jan 2022</div>
+                            RT
+                            <span class="mention">@jvz</span>
+                            : Hey
+                            <span class="mention">@TwitterOSS</span>
+                            , isn't it odd that only
+                            <span class="mention">@ASFMavenProject</span>
+                            is verified while other Apache Projects remain at risk for impersonation?…
+                            <div class="date">20:45:05 on 23 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@shipilev</span>
-                            : Minecraft launcher default options: -Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1Reserv…
-                            <div class="date">13:36:04 on 23 Jan 2022</div>
+                            <span class="mention">@hanno</span>
+                            Mach dir keinen Kopf, Hanno. Zum Glück alles Fake. Leider ist die Bild drauf reingefallen, und jetzt glauben es alle.
+                            <br />
+                            <br />
+                            <a href="https://t.co/mhIeoQA3fu" class="link">twitter.com/GKDJournaliste…</a>
+                            <div class="date">20:44:04 on 23 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2656,7 +2656,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jan 2022, 20:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 23 Jan 2022, 21:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
