@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3244" class="">
     <defs>
         <style/>
     </defs>
@@ -486,22 +486,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@ArneBachmann</span>
-                            <span class="mention">@brunoborges</span>
-                            <span class="mention">@gunnarmorling</span>
-                            <span class="mention">@dlemmermann</span>
-                            You get used to it. It's not that bad.
-                            <br />
-                            Maven could have used attributes here and there, but it's okay they didn't.
-                            <div class="date">12:18:37 on 25 Jan 2022</div>
+                            Hey
+                            <span class="mention">@bagder</span>
+                            , you made it to the German news again. 😊
+                            <a href="https://t.co/85YBBJ0fNp" class="link">twitter.com/golem/status/1…</a>
+                            <div class="date">14:06:21 on 25 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@AndyGeeDe</span>
-                            Removed it LONG ago. It's only left in some tests. I waited for Java 11 to replace List.of() to avoid clutter.
-                            <br />
-                            <br />
-                            But yeah, Guava. ❤️
-                            <div class="date">09:56:56 on 25 Jan 2022</div>
+                            RT
+                            <span class="mention">@nottycode</span>
+                            :
+                            <span class="mention">@MattiTahvonen</span>
+                            WebSphere traditional 9.0.5 only runs on Java 8, if Java 11 is a requirement then use Liberty. Both runtimes…
+                            <div class="date">14:04:24 on 25 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2668,7 +2665,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jan 2022, 13:02:02 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 25 Jan 2022, 14:09:55 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
