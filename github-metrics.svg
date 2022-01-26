@@ -486,16 +486,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@joschi83</span>
+                            Yes, but what is wrong with JUL?
+                            <br />
+                            Most features can be added by using a custom LogManager.
+                            <div class="date">14:14:01 on 26 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@bagder</span>
                             <span class="mention">@Stenbird</span>
                             "Raise" is actually the best word to start with (according to statistics).
                             <div class="date">13:15:31 on 26 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@Polizei_RI</span>
-                            : Gestern war unser Kontaktbeamter POK Elbing zu Besuch in der KiTa Krankenhagen. Der KOB gab Tipps für eine sichere Teilnahm…
-                            <div class="date">07:13:05 on 26 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2667,7 +2668,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2022, 14:09:06 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 15:12:45 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
