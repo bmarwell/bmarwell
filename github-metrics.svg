@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3327" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3344" class="">
     <defs>
         <style/>
     </defs>
@@ -249,11 +249,11 @@ Java/JavaEE dev s/ 2006 //
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="99.57894736842105" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="99.57894736842105" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="99.57894736842105" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="99.57894736842105" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="99.57894736842105" y="0" width="120.42105263157896" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="103.88888888888889" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="103.88888888888889" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="103.88888888888889" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="103.88888888888889" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="103.88888888888889" y="0" width="116.11111111111111" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -264,14 +264,14 @@ Java/JavaEE dev s/ 2006 //
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">43 <small>open</small></span>
+                                <span class="no-wrap">51 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">52 <small>closed</small></span>
+                                <span class="no-wrap">57 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -487,6 +487,15 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             <span class="mention">@joschi83</span>
+                            <span class="mention">@Yupiik</span>
+                            So? log4j-to-jul,  log4j2-to-jul, slf4j-to-jul...
+                            <br />
+                            <br />
+                            Why would they only exist in the other directions?
+                            <div class="date">16:49:32 on 26 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@joschi83</span>
                             Hmmm. As I see it, LogManager is the framework (+implementation). JUl Is more or less an API which comes with a default log manager implementation.
                             <br />
                             <br />
@@ -497,13 +506,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/Q7Wz0HPKuX" class="link">github.com/yupiik/yupiik-…</a>
                             <div class="date">15:28:35 on 26 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@joschi83</span>
-                            Yes, but what is wrong with JUL?
-                            <br />
-                            Most features can be added by using a custom LogManager.
-                            <div class="date">14:14:01 on 26 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2675,7 +2677,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2022, 16:14:09 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 26 Jan 2022, 17:16:29 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
