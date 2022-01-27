@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3311" class="">
     <defs>
         <style/>
     </defs>
@@ -486,21 +486,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            Would you follow me on GitHub if I told you? 😜
+                            <span class="mention">@lukaseder</span>
+                            <span class="mention">@rotnroll666</span>
+                            I see a pattern! JAX-RS users usually prefer .fromString(...). This way you can use it as query parameters.
                             <br />
                             <br />
-                            Just kidding.
-                            <br />
-                            The bottom line of the image contains the hint:
-                            <br />
-                            <a href="https://t.co/RBFF73NJMJ" class="link">github.com/lowlighter/met…</a>
-                            <div class="date">12:47:18 on 27 Jan 2022</div>
+                            That's said, haven't written "of" in a while...
+                            <div class="date">17:38:29 on 27 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@EmmaBostian</span>
-                            Oh wow. At least they gave me a tasteless cheese soup after surgery. Half a bowl. 😅
-                            <div class="date">12:29:22 on 27 Jan 2022</div>
+                            <span class="mention">@helpermethod</span>
+                            nice!
+                            <br />
+                            <br />
+                            Available for hire? What are you looking for? And WHERE? 😃
+                            <a href="https://t.co/OlKbdZewaE" class="link">pic.twitter.com/OlKbdZewaE</a>
+                            <div class="date">17:33:25 on 27 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2679,7 +2680,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2022, 17:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 18:08:47 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
