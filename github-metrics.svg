@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3261" class="">
     <defs>
         <style/>
     </defs>
@@ -486,6 +486,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Come on, catch up!
+                            <a href="https://t.co/bmZHohrPVy" class="link">twitter.com/ASFMavenReleas…</a>
+                            <div class="date">06:37:22 on 28 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@fpapon2</span>
                             : If you want to raise a security issue on
@@ -496,14 +501,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <span class="hashtag">#O…</span>
                             <div class="date">22:47:12 on 27 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@igb</span>
-                            : Hey, I’m hiring a JVM engineer to help lead our work on
-                            <span class="mention">@NetflixEng</span>
-                            ’s Java runtime. My DMs are open or apply online! https://t.co/…
-                            <div class="date">21:07:51 on 27 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2648,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2022, 06:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 07:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
