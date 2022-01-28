@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
     <defs>
         <style/>
     </defs>
@@ -486,19 +486,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@diewahreHaesin</span>
-                            Fühl dich bitte nicht angegriffen. Das sollte nur eine Info sein, dass dem dieses System hat.
+                            Actually, a grocery shopping list is great to explain the difference between "final" and "unmodifiable".
                             <br />
-                            Sorry, dass es so blöd rüber kam!
-                            <div class="date">18:03:39 on 28 Jan 2022</div>
+                            Non-final: List can be swapped for another.
+                            <br />
+                            unmodifiable: you can't add or remove items.
+                            <a href="https://t.co/S1QKCDO4bs" class="link">twitter.com/omniprof/statu…</a>
+                            <div class="date">19:27:00 on 28 Jan 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@diewahreHaesin</span>
-                            9 cent kann nicht sein. Bei dem kostet alles 0 oder 5 Cent am Ende.
-                            <br />
-                            <br />
-                            Außer Fotos.
-                            <div class="date">14:12:24 on 28 Jan 2022</div>
+                            <span class="mention">@omniprof</span>
+                            <span class="mention">@BrianGoetz</span>
+                            So we get an angle bracket list (List&lt;int&gt;) and a square bracket list (int[])? Or how do you tell them apart?
+                            <div class="date">19:22:26 on 28 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2646,7 +2646,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2022, 19:01:34 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 20:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
