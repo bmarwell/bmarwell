@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3311" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3327" class="">
     <defs>
         <style/>
     </defs>
@@ -486,6 +486,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@jasondlee</span>
+                            <span class="mention">@omniprof</span>
+                            <span class="mention">@BrianGoetz</span>
+                            unmodifiableList( List.of ( 1 ) ) is also a fixed size list, no?
+                            <br />
+                            <br />
+                            Oh and we TOTALLY forgot ellipsis lists! Like so: int...
+                            <div class="date">22:33:43 on 28 Jan 2022</div>
+                        </div>
+                        <div class="tweet">
                             Worst thing:
                             <br />
                             When you write a true apology, explain why it was wrong and not meant that way and you're really sorry...
@@ -493,14 +503,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             ... and they still deliberately accuse you of trying to teach them.
                             <div class="date">20:16:47 on 28 Jan 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@nitaniti84</span>
-                            Der mit dem Löwenzahn tanzt.
-                            <br />
-                            <br />
-                            Knoblauch am Stil
-                            <div class="date">20:13:23 on 28 Jan 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2648,7 +2650,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2022, 22:01:36 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 23:01:36 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
