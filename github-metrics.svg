@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3257" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3224" class="">
     <defs>
         <style/>
     </defs>
@@ -486,19 +486,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@fozmeadows</span>
+                            : my 3rd grader came home with this today from school, excited to show me how he’d written his name in Chinese. I had to gent…
+                            <div class="date">19:05:06 on 2 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@rolyatnairb</span>
                             <span class="mention">@weg_li</span>
                             Ok, danke. Frage deshalb, weil ich zwei Anzeigen (in 5 Jahren) gestellt hatte, und es gab nie auch nur eine Eingangs-Bestätigung.
                             <div class="date">10:23:12 on 1 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@FascinatingTech</span>
-                            : Munich State Court finds use of Google Fonts in violation of GDPR and grants compensation of 100€.
-                            <br />
-                            <br />
-                            Legitimate interes…
-                            <div class="date">07:51:59 on 1 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2667,7 +2664,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Feb 2022, 19:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 20:01:36 (timezone Europe/Berlin) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
