@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3224" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3241" class="">
     <defs>
         <style/>
     </defs>
@@ -486,18 +486,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@DaliaShea</span>
-                            <span class="mention">@khmarbaise</span>
-                            <a href="https://t.co/FvDr6fEDMP" class="link">pic.twitter.com/FvDr6fEDMP</a>
-                            <div class="date">19:58:16 on 3 Feb 2022</div>
+                            <span class="mention">@Zeitich</span>
+                            <span class="mention">@CCBabcock5</span>
+                            <span class="mention">@neunermichael</span>
+                            <span class="mention">@lovinurbanism</span>
+                            War das eine bestimmte Marke? 🤔
+                            <div class="date">20:30:44 on 3 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@DaliaShea</span>
-                            That was actually
-                            <span class="mention">@DaliaShea</span>
-                            's recommendation when she was Migration lead at IBM. Still have the slides, still showing them to colleagues. 🙏🏻
-                            <div class="date">19:54:21 on 3 Feb 2022</div>
+                            <span class="mention">@Zeitich</span>
+                            <span class="mention">@CCBabcock5</span>
+                            <span class="mention">@neunermichael</span>
+                            Nein. Man testet nicht so lange, bis man einen negativen findet. Bitte nicht! Bitte, bitte, bitte! 🙏🏻
+                            <br />
+                            Falsch positive Tests sind selten. Falsch negativ ist eher wahrscheinlich.
+                            <div class="date">20:28:37 on 3 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2671,7 +2674,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2022, 20:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 3 Feb 2022, 21:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
