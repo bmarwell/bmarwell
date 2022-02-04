@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3257" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3241" class="">
     <defs>
         <style/>
     </defs>
@@ -486,23 +486,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@benoitc</span>
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@giteaio</span>
+                            <a href="https://t.co/XYOwp6q40Y" class="link">alternativeto.net/software/bugzi…</a>
+                            <br />
+                            <br />
+                            Track, Mantis, Bugzilla, Redline, etc
+                            <div class="date">08:32:31 on 4 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@chongma</span>
                             <span class="mention">@ApacheShiro</span>
                             <span class="mention">@rmannibucau</span>
                             <span class="mention">@TheASF</span>
                             Which phone and resolution do you have? Can you post a screenshot or even open an issue?
                             <div class="date">22:13:12 on 3 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@ApacheShiro</span>
-                            : New website based on JBake generator is online:
-                            <br />
-                            <a href="https://t.co/QMoHZ0w2qR" class="link">shiro.apache.org</a>
-                            <br />
-                            <br />
-                            Don't hesitate to contribute if you find some iss…
-                            <div class="date">22:12:19 on 3 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2644,7 +2643,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Feb 2022, 08:01:32 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 4 Feb 2022, 09:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
