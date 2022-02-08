@@ -486,17 +486,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@LadyLiana1986</span>
-                            Andere Seminare/Kurse etc., Kündigungsfristen, usw...
-                            <div class="date">08:53:51 on 8 Feb 2022</div>
+                            RT
+                            <span class="mention">@tagir_valeev</span>
+                            : $ alias java = echo 'Exception in thread "main" java.lang.NullPointerException.'
+                            <a href="https://t.co/7GKztpXyj0" class="link">pic.twitter.com/7GKztpXyj0</a>
+                            <div class="date">09:22:36 on 8 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@LadyLiana1986</span>
-                            Oh wow!
+                            Halswirbel 1 oder 2 (Atlas/Axis) blockiert seit Freitag.
                             <br />
-                            <br />
-                            Geht das "einfach so"?
-                            <div class="date">08:33:13 on 8 Feb 2022</div>
+                            Aauuaaaaa! 😭😭
+                            <div class="date">09:21:01 on 8 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2660,7 +2660,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2022, 09:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 8 Feb 2022, 10:01:17 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
