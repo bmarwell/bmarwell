@@ -487,18 +487,18 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@beatngu1101</span>
+                            :
+                            <span class="mention">@OliverLibutzki</span>
+                            Surrounded by legacy APIs (I'm working for a bank…), that's unfortunately not always possible. Nevertheles…
+                            <div class="date">20:51:22 on 8 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@rz0r</span>
                             :
                             <a href="https://t.co/mbnVRWOWjj" class="link">pic.twitter.com/mbnVRWOWjj</a>
                             <div class="date">14:49:43 on 8 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@CedricChampeau</span>
-                            : I think I'm a bit spoiled by
-                            <span class="mention">@spockframework</span>
-                            <a href="https://t.co/oSF3oyEPHV" class="link">pic.twitter.com/oSF3oyEPHV</a>
-                            <div class="date">14:26:23 on 8 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2662,7 +2662,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2022, 20:01:37 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 8 Feb 2022, 21:01:36 (timezone Europe/Berlin) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
