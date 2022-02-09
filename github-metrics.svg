@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3228" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3277" class="">
     <defs>
         <style/>
     </defs>
@@ -486,17 +486,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            Welche App ist das?
-                            <div class="date">09:46:21 on 9 Feb 2022</div>
+                            <span class="mention">@omniprof</span>
+                            <span class="mention">@Kiview</span>
+                            For this special case, you could extend scanner to not close the
+                            <a href="https://t.co/rZpBe2zaGF" class="link">System.in</a>
+                            or write your own Scanner, I guess.
+                            <div class="date">15:53:59 on 9 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@beatngu1101</span>
-                            :
-                            <span class="mention">@OliverLibutzki</span>
-                            Surrounded by legacy APIs (I'm working for a bank…), that's unfortunately not always possible. Nevertheles…
-                            <div class="date">20:51:22 on 8 Feb 2022</div>
+                            <span class="mention">@MoStueck</span>
+                            Einige Sparkassen und Volksbanken. Hier gilt das Regionalprinzip. Jede SPK/VoBa hat eigene Tarife.
+                            <br />
+                            Theoretisch auch die ING, Einzahlung aber nur bei den Reisebanken. Die sind aber selten.
+                            <div class="date">15:51:49 on 9 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2671,7 +2673,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2022, 15:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 9 Feb 2022, 16:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
