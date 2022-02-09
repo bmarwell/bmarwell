@@ -486,19 +486,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@bisonfute</span>
+                            Welche App ist das?
+                            <div class="date">09:46:21 on 9 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@beatngu1101</span>
                             :
                             <span class="mention">@OliverLibutzki</span>
                             Surrounded by legacy APIs (I'm working for a bank…), that's unfortunately not always possible. Nevertheles…
                             <div class="date">20:51:22 on 8 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@rz0r</span>
-                            :
-                            <a href="https://t.co/mbnVRWOWjj" class="link">pic.twitter.com/mbnVRWOWjj</a>
-                            <div class="date">14:49:43 on 8 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2673,7 +2671,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2022, 09:01:34 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 9 Feb 2022, 10:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
