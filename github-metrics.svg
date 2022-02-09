@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3244" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3211" class="">
     <defs>
         <style/>
     </defs>
@@ -486,18 +486,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Quote of the day by
-                            <span class="mention">@BrianGoetz</span>
-                            . Answer to the question why compilers don't add missing semicolons themselves. It's too good to miss!
-                            <a href="https://t.co/8GU6tpZQ7E" class="link">twitter.com/MakeItAQuote/s…</a>
-                            <div class="date">18:57:36 on 9 Feb 2022</div>
+                            <span class="mention">@briandemers</span>
+                            Is it already &gt; 55°F over there?
+                            <div class="date">20:13:47 on 9 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@BrianGoetz</span>
-                            <span class="mention">@AndrewCMyers</span>
-                            <span class="mention">@_joemag_</span>
-                            <span class="mention">@MakeItAQuote</span>
-                            <div class="date">18:55:36 on 9 Feb 2022</div>
+                            RT
+                            <span class="mention">@xkcd</span>
+                            : Tractor Beam
+                            <a href="https://t.co/ObK3TeWzMM" class="link">xkcd.com/2579</a>
+                            <a href="https://t.co/qtedf1qBY6" class="link">pic.twitter.com/qtedf1qBY6</a>
+                            <div class="date">20:10:37 on 9 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2672,7 +2671,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Feb 2022, 20:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 9 Feb 2022, 21:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
