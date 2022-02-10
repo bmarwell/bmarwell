@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3257" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3291" class="">
     <defs>
         <style/>
     </defs>
@@ -486,19 +486,23 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@DaliaShea</span>
-                            Hint 2: the Search API also supports the "lang:" tag.
-                            <div class="date">18:48:08 on 10 Feb 2022</div>
+                            <span class="mention">@WordleQuarant</span>
+                            <br />
+                            <br />
+                            Wordle 236 3/6
+                            <br />
+                            <br />
+                            ⬛🟩⬛🟩🟩
+                            <br />
+                            🟩⬛⬛⬛⬛
+                            <br />
+                            🟩🟩🟩🟩🟩
+                            <div class="date">19:58:45 on 10 Feb 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@DaliaShea</span>
-                            Here's something which hasn't been brought up yet.
-                            <br />
-                            Twitter will prefer languages you know in your timeline. If someone you follow writes french, and it's not part of your profile, it's way less likely to be shown.
-                            <br />
-                            <br />
-                            So just go ahead, Twitter will fix it for you.
-                            <div class="date">18:47:41 on 10 Feb 2022</div>
+                            Hint 2: the Search API also supports the "lang:" tag.
+                            <div class="date">18:48:08 on 10 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2672,7 +2676,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2022, 19:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 10 Feb 2022, 20:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
