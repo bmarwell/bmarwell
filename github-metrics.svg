@@ -482,14 +482,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Raumzeitfalle</span>
+                            <span class="mention">@ActualRaptuno</span>
+                            <span class="mention">@AlmasBaim</span>
+                            I heard so many good things about VSCode. What's wrong with it and where does it excel?
+                            <div class="date">22:36:53 on 13 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@nixcraft</span>
                             The one with curl on it.
                             <div class="date">21:59:02 on 13 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Auf diesem Tattoo steht "MSMSPTTH MTHRF". Hahaha 🤣
-                            <a href="https://t.co/fAMf09SzVr" class="link">twitter.com/CSMFHT/status/…</a>
-                            <div class="date">19:51:40 on 13 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2647,7 +2649,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2022, 22:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 13 Feb 2022, 23:01:34 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
