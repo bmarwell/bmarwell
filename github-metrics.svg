@@ -482,17 +482,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@GeherRetep</span>
+                            Moin
+                            <div class="date">09:30:10 on 13 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Sharat_Chander</span>
                             That's great! The second one is close to this famous knowledge - I like it! 👍🏻
                             <br />
                             <br />
                             <a href="https://t.co/ZcgvhX8iwg" class="link">twitter.com/ProfFeynman/st…</a>
                             <div class="date">20:43:59 on 12 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Sharat_Chander</span>
-                            24. I think it will tell us a lot about you. 😊
-                            <div class="date">20:28:31 on 12 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2650,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2022, 09:01:20 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 13 Feb 2022, 10:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
