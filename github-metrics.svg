@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3382" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3215" class="">
     <defs>
         <style/>
     </defs>
@@ -483,35 +483,17 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@speakjava</span>
+                            : TIL how to potentially save myself money by deleting cookies. Why had this never occurred to me?
+                            <div class="date">09:38:43 on 15 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@grobmeier</span>
                             : When I read messages from some people I remember that not all in
                             <span class="hashtag">#opensource</span>
                             is nice and shiny. Some people think they don't…
                             <div class="date">07:07:33 on 15 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            I gave up.
-                            <br />
-                            <br />
-                            Wordle 240 X/6
-                            <br />
-                            <br />
-                            ⬛⬛🟨⬛⬛
-                            <br />
-                            ⬛🟨⬛⬛⬛
-                            <br />
-                            ⬛⬛⬛⬛🟨
-                            <br />
-                            🟨🟨⬛⬛⬛
-                            <br />
-                            ⬛🟨🟩⬛🟨
-                            <br />
-                            ⬛⬛🟨⬛⬛
-                            <br />
-                            <br />
-                            <span class="mention">@WordleQuarant</span>
-                            <div class="date">19:31:58 on 14 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2681,7 +2663,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Feb 2022, 09:01:33 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 15 Feb 2022, 10:01:40 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
