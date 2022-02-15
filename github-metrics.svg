@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3249" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3215" class="">
     <defs>
         <style/>
     </defs>
@@ -482,20 +482,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@hanno</span>
-                            Nein, aber Nachrichten wie "was letzte Preis".
-                            <br />
-                            <br />
-                            Ja, bei Sachen die zu verschenken sind.
-                            <br />
-                            Kein Witz.
-                            <div class="date">12:49:13 on 15 Feb 2022</div>
+                            <span class="mention">@8bitsound</span>
+                            <span class="mention">@GeherRetep</span>
+                            Ich nehme jede Sardelle, die bei euch übrig bleibt. 😋😋
+                            <div class="date">15:47:45 on 15 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@shipilev</span>
-                            : Would be nice to have EU recognize the unhinged US-centrism of software defaulting to "Letter" instead of "A4" page format an…
-                            <div class="date">11:33:08 on 15 Feb 2022</div>
+                            <span class="mention">@GeherRetep</span>
+                            +2 für viele Kapern!
+                            <br />
+                            Mit oder ohne Sardellen? 😋
+                            <div class="date">15:34:15 on 15 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2665,7 +2662,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Feb 2022, 15:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 15 Feb 2022, 16:01:40 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
