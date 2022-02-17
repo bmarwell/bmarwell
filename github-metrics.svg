@@ -482,16 +482,26 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Kizito5</span>
-                            Das ist ja wirklich ein widerlicher Kommentar! 🤮 Das sind Leute, die ungeborene Menschen als Parasiten bezeichnen. Solche Kommentare:  🚮
-                            <div class="date">19:44:19 on 17 Feb 2022</div>
+                            <span class="mention">@mraible</span>
+                            <span class="mention">@okta</span>
+                            <span class="mention">@sdkman_</span>
+                            Well, no better time than now to start using
+                            <span class="mention">@openj9</span>
+                            with jlink and CRIU!
+                            <br />
+                            <br />
+                            <a href="https://t.co/eLFWSIP2u2" class="link">medium.com/@mehra.ashutos…</a>
+                            <div class="date">22:58:10 on 17 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@berlinfoxtech</span>
-                            <span class="mention">@katze_sonne</span>
-                            <span class="mention">@DJGummikuh</span>
-                            Binaries gehören meiner Meinung nach nicht ins VCS, weder git noch svn noch sonstiges. git-lfs ist für kleine statische Dateien, der Rest gehört signiert in ein spezielles Repo, wie Maven oder einen eigenen Web-Server.
-                            <div class="date">16:53:01 on 17 Feb 2022</div>
+                            RT
+                            <span class="mention">@openj9</span>
+                            :
+                            <span class="mention">@bmarwell</span>
+                            <span class="mention">@gunnarmorling</span>
+                            <span class="mention">@chrishantha</span>
+                            AsyncGetCallTrace should work with OpenJ9 now.  Last set of fixes went in about a month a…
+                            <div class="date">22:07:16 on 17 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2671,7 +2681,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2022, 22:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 23:01:21 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
