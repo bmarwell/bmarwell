@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3199" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3249" class="">
     <defs>
         <style/>
     </defs>
@@ -482,17 +482,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@berlinfoxtech</span>
+                            <span class="mention">@katze_sonne</span>
+                            <span class="mention">@DJGummikuh</span>
+                            Binaries gehören meiner Meinung nach nicht ins VCS, weder git noch svn noch sonstiges. git-lfs ist für kleine statische Dateien, der Rest gehört signiert in ein spezielles Repo, wie Maven oder einen eigenen Web-Server.
+                            <div class="date">16:53:01 on 17 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@marcan42</span>
                             : Well, this is unfortunate. It turns out Apple's custom NVMe drives are amazingly fast - if you don't care about data integrit…
                             <div class="date">13:59:42 on 17 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@lukaseder</span>
-                            Feel you. We just ported the
-                            <span class="mention">@ApacheShiro</span>
-                            website to jbake. 🙄😁
-                            <div class="date">22:39:25 on 16 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2672,7 +2672,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2022, 16:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 17:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
