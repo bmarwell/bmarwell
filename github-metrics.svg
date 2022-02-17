@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3182" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3199" class="">
     <defs>
         <style/>
     </defs>
@@ -482,16 +482,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@marcan42</span>
+                            : Well, this is unfortunate. It turns out Apple's custom NVMe drives are amazingly fast - if you don't care about data integrit…
+                            <div class="date">13:59:42 on 17 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@lukaseder</span>
                             Feel you. We just ported the
                             <span class="mention">@ApacheShiro</span>
                             website to jbake. 🙄😁
                             <div class="date">22:39:25 on 16 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            <a href="https://t.co/pOKJ4BeqAQ" class="link">pic.twitter.com/pOKJ4BeqAQ</a>
-                            <div class="date">22:38:14 on 16 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2671,7 +2672,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2022, 13:01:46 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 14:09:05 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
