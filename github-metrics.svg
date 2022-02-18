@@ -482,6 +482,12 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@Martin_Moder</span>
+                            : Das mit Abstand wichtigste Interview zur Pandemie findet man in der Aktuellen Ausgabe von WOMAN rofl https://t.co/HO1zuCJ…
+                            <div class="date">20:09:45 on 18 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@thibaudlepretre</span>
                             <span class="mention">@brunoborges</span>
                             <span class="mention">@jasonhand</span>
@@ -491,13 +497,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@b0rk</span>
                             Same. 🙄
                             <div class="date">18:43:12 on 18 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Adam_Aioak</span>
-                            <span class="mention">@DejanFreiburg</span>
-                            <span class="mention">@BenHambrecht</span>
-                            Warum? Telefonie ist verschlüsselt. Fax ist es nicht.
-                            <div class="date">12:51:58 on 18 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2645,7 +2644,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Feb 2022, 20:01:03 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 18 Feb 2022, 21:01:26 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
