@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3179" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3229" class="">
     <defs>
         <style/>
     </defs>
@@ -482,14 +482,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            Bei mir scheitert es oft an der Schreibweise der englischen Namen 🤣
-                            <div class="date">20:41:08 on 19 Feb 2022</div>
+                            <span class="mention">@mthmulders</span>
+                            <a href="https://t.co/jCGOMgqSSb" class="link">twitter.com/bmarwell/statu…</a>
+                            <br />
+                            <br />
+                            🤦🏻‍♂️🤷🏻‍♂️
+                            <div class="date">21:29:43 on 19 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            <a href="https://t.co/Wx9AednE26" class="link">ioccc.org</a>
-                            💖
-                            <div class="date">12:16:50 on 19 Feb 2022</div>
+                            <span class="mention">@mthmulders</span>
+                            TÜV is a car checking company (mandatory), and the Rheinland TÜV also verifies websites. But not very thoroughly. So they sit on being verified without giving the actual problem to their IT department.
+                            <div class="date">21:29:21 on 19 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2636,7 +2639,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Feb 2022, 21:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 19 Feb 2022, 22:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
