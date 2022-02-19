@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3212" class="">
     <defs>
         <style/>
     </defs>
@@ -483,20 +483,20 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@AndreiPangin</span>
+                            :
+                            <span class="mention">@openj9</span>
+                            <span class="mention">@bmarwell</span>
+                            <span class="mention">@gunnarmorling</span>
+                            <span class="mention">@chrishantha</span>
+                            Perfect. Meanwhile, async-profiler supports pre-AGCT versions of OpenJ9, to…
+                            <div class="date">09:03:10 on 19 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@Martin_Moder</span>
                             : Das mit Abstand wichtigste Interview zur Pandemie findet man in der Aktuellen Ausgabe von WOMAN rofl https://t.co/HO1zuCJ…
                             <div class="date">20:09:45 on 18 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@thibaudlepretre</span>
-                            <span class="mention">@brunoborges</span>
-                            <span class="mention">@jasonhand</span>
-                            <span class="mention">@jldeen</span>
-                            <span class="mention">@bridgetkromhout</span>
-                            <span class="mention">@BrendanB</span>
-                            <span class="mention">@b0rk</span>
-                            Same. 🙄
-                            <div class="date">18:43:12 on 18 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2643,7 +2643,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Feb 2022, 09:00:56 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 19 Feb 2022, 10:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
