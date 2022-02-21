@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3246" class="">
     <defs>
         <style/>
     </defs>
@@ -482,6 +482,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Wir sind verloren ☹️
+                            <a href="https://t.co/aDIc2lmNjY" class="link">twitter.com/DLFNachrichten…</a>
+                            <div class="date">17:28:39 on 21 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@DrOetkerPizzaDE</span>
                             Nein, alle nicht. Aber bitte die Rezeptur von
                             <span class="mention">@nitaniti84</span>
@@ -494,14 +499,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Bitte Bitte 🙄
                             <div class="date">16:25:35 on 21 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            I still use a lot of svn, and I had used bazaar/bzr and IBM Rational ClearCase before. All of them are still around!
-                            <br />
-                            <br />
-                            But yes, git 💖
-                            <a href="https://t.co/sO5LPcb1cX" class="link">twitter.com/MarisaBrantley…</a>
-                            <div class="date">16:24:19 on 21 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2660,7 +2657,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2022, 17:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 18:02:17 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
