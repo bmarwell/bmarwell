@@ -482,17 +482,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@mthmulders</span>
-                            <a href="https://t.co/jCGOMgqSSb" class="link">twitter.com/bmarwell/statu…</a>
-                            <br />
-                            <br />
-                            🤦🏻‍♂️🤷🏻‍♂️
-                            <div class="date">21:29:43 on 19 Feb 2022</div>
+                            RT
+                            <span class="mention">@kadikraman</span>
+                            : When a picture reads your mind
+                            <a href="https://t.co/egMzrRdp4m" class="link">pic.twitter.com/egMzrRdp4m</a>
+                            <div class="date">11:11:49 on 21 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@mthmulders</span>
-                            TÜV is a car checking company (mandatory), and the Rheinland TÜV also verifies websites. But not very thoroughly. So they sit on being verified without giving the actual problem to their IT department.
-                            <div class="date">21:29:21 on 19 Feb 2022</div>
+                            RT
+                            <span class="mention">@Tantacrul</span>
+                            : Just put up our project ideas for Audacity's involvement in Google Summer of Code this year.
+                            <br />
+                            <br />
+                            <a href="https://t.co/eqeMT03tAr" class="link">wiki.audacityteam.org/wiki/GSoC_Idea…</a>
+                            <div class="date">11:10:05 on 21 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2654,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2022, 11:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 12:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
