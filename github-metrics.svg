@@ -482,18 +482,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@nitaniti84</span>
+                            : Wenn man eine Überschrift falsch schreibt….
+                            <a href="https://t.co/u9XpPDP6ZU" class="link">pic.twitter.com/u9XpPDP6ZU</a>
+                            <div class="date">15:08:48 on 22 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@8bitsound</span>
                             AHH.. yes. Before Git_*HUB*, we had sourceforge, berlios, GNU savannah, Canonical launchpad. I used SF and launchpad for two test projects, but then GitHub came around. 😁
                             <div class="date">13:44:43 on 22 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@belobregovic</span>
-                            :
-                            <span class="mention">@Nell781</span>
-                            Ich sach nur. 45% ist schon ein spürbarer Finger.
-                            <a href="https://t.co/YmnQdAsTnc" class="link">pic.twitter.com/YmnQdAsTnc</a>
-                            <div class="date">12:57:36 on 22 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2655,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Feb 2022, 15:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 22 Feb 2022, 16:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
