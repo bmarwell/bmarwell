@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3229" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3262" class="">
     <defs>
         <style/>
     </defs>
@@ -482,17 +482,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@slecache</span>
-                            <span class="mention">@openj9</span>
-                            As Mark already said: a lot of IBM customers. I can assure you, of you look into the automotive and banking industry, you'll find a LOT of (Open)J9 VMs. But they'll never tell you, because they're not allowed to (competition, regulation, etc).
+                            <span class="mention">@ashleygjovik</span>
+                            <span class="mention">@mr21_</span>
+                            It's now called Oblast Kaliningrad. It's the Russian name for Königsberg.
                             <br />
-                            Be assured, it's used world-wide.
-                            <div class="date">18:31:16 on 24 Feb 2022</div>
+                            <br />
+                            <a href="https://t.co/K61fVS6GsB" class="link">en.m.wikipedia.org/wiki/East_Prus…</a>
+                            <div class="date">20:00:04 on 24 Feb 2022</div>
                         </div>
                         <div class="tweet">
-                            Thanks IBM for making me an IBM Champion!
-                            <a href="https://t.co/xqj9L9u3mO" class="link">credly.com/badges/0985a57…</a>
-                            <div class="date">08:08:28 on 24 Feb 2022</div>
+                            <span class="mention">@ashleygjovik</span>
+                            <span class="mention">@mr21_</span>
+                            It was a former German region, East Prussia. After WW2, Poland was nudged to the west, losing territory East of the Ural. Thus, East Prussia lost its connection to Germany and was taken by Russia. But only the upper half. The lower half went to Poland as well
+                            <div class="date">19:58:17 on 24 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2666,7 +2668,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Feb 2022, 19:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 20:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
