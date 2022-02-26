@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3212" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3179" class="">
     <defs>
         <style/>
     </defs>
@@ -482,19 +482,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@thetaph1</span>
+                            Ich glaube nicht, dass Putin das alles nicht mit eingerechnet hat. 😓
+                            <div class="date">14:55:59 on 26 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@deutschetelekom</span>
                             : Für das, was aktuell in der Ukraine passiert, fehlen uns die Worte. 🙏 Bis auf weiteres werden wir Anrufe und SMS von F…
                             <div class="date">11:48:18 on 26 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@javarevisited</span>
-                            "How Garbage Collection works in Hotspot".
-                            <br />
-                            <br />
-                            <span class="mention">@openj9</span>
-                            for example has different regions and different collection algorithms.
-                            <div class="date">10:16:14 on 26 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2641,7 +2637,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Feb 2022, 14:03:46 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 26 Feb 2022, 15:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
