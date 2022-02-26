@@ -483,14 +483,14 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@Chemguy2_0</span>
-                            : Aus der Ukraine dürfen Männer zwischen 18 und 60 nicht mehr ausreisen, weil der Russe einmarschiert ist und hierzulande fab…
-                            <div class="date">16:00:33 on 26 Feb 2022</div>
+                            <span class="mention">@RaykAnders</span>
+                            : Baerbock warnt vor SWIFT-Ausschluss Russlands. Dann könnte zB eine "Enkelin, die in Europa lebt, ihrer Großmutter in Russla…
+                            <div class="date">16:09:49 on 26 Feb 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@struberg</span>
-                            Der hat Wochenende. 🤡
-                            <div class="date">15:59:56 on 26 Feb 2022</div>
+                            <a href="https://t.co/KGNuBtKZJQ" class="link">change.org/p/sanktionen-g…</a>
+                            <div class="date">16:04:06 on 26 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2637,7 +2637,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Feb 2022, 16:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 26 Feb 2022, 17:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
