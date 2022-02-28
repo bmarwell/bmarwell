@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3229" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3212" class="">
     <defs>
         <style/>
     </defs>
@@ -482,6 +482,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Uuuhhhh that's big!
+                            <a href="https://t.co/lIEe84YYnw" class="link">twitter.com/HayesBrown/sta…</a>
+                            <div class="date">20:56:50 on 28 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Spatzengepiepe</span>
                             Habe ich auch schon dran gedacht.
                             <br />
@@ -491,12 +496,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             🤷🏻‍♂️
                             <div class="date">17:19:30 on 28 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@DLFNachrichten</span>
-                            : +++ EIL: Schweiz schließt sich nun doch EU-Sanktionen gegen Russland an +++
-                            <div class="date">15:07:01 on 28 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2656,7 +2655,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Feb 2022, 20:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 28 Feb 2022, 21:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
