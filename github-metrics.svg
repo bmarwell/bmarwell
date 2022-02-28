@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3229" class="">
     <defs>
         <style/>
     </defs>
@@ -482,16 +482,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Spatzengepiepe</span>
+                            Habe ich auch schon dran gedacht.
+                            <br />
+                            Oder die Warn-App.
+                            <br />
+                            Oder die Radiodurchsagen.
+                            <br />
+                            🤷🏻‍♂️
+                            <div class="date">17:19:30 on 28 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@DLFNachrichten</span>
                             : +++ EIL: Schweiz schließt sich nun doch EU-Sanktionen gegen Russland an +++
                             <div class="date">15:07:01 on 28 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@ApacheLog4j</span>
-                            : Log4j 2.17.2 now available! Check out our improved compatibility with Log4j 1.x along with numerous other improvements: ht…
-                            <div class="date">09:44:29 on 28 Feb 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2656,7 @@ The alternative would be to initialise all the properties.
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Feb 2022, 17:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 28 Feb 2022, 18:03:37 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
