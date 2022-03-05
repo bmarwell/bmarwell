@@ -482,6 +482,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Tyrrrz</span>
+                            I think this doesn't make it OSS anymore, if I'm not mistaken? 🤔 It's like an additional term in the license.
+                            <div class="date">18:31:29 on 5 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             Tried
                             <span class="hashtag">#skipbo</span>
                             the dice
@@ -489,11 +494,6 @@ Java/JavaEE dev s/ 2006 //
                             . Not really excited to play it again.
                             <a href="https://t.co/C7VKU1UeI7" class="link">pic.twitter.com/C7VKU1UeI7</a>
                             <div class="date">18:00:11 on 5 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@hanno</span>
-                            Ja, ich habe noch welche. Muss nochmal drauf schauen, kannst dann aber haben. Ist es sehr eilig?
-                            <div class="date">15:41:55 on 5 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2071,7 +2071,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2915811088295683 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.37645448323069 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2659,7 +2659,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2022, 18:01:55 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 5 Mar 2022, 19:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
