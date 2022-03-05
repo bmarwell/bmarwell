@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3267" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3301" class="">
     <defs>
         <style/>
     </defs>
@@ -482,17 +482,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@paulwberg</span>
+                            <span class="mention">@Tyrrrz</span>
+                            Ok. I mixed up terms. It is still open source. You can study it compile it, etc.
+                            <br />
+                            But it is not free anymore (as in freedom). Only free (as in free beer).
+                            <div class="date">23:57:25 on 5 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@GazaSubaltern</span>
                             We all know it's easier to denounce someone who is "more clearly your enemy" than some nation where everyone things they're "your friends".
                             <br />
                             <br />
                             Let's hope everyone who deserves it gets a trial. Even if we don't speak up as loudly.
                             <div class="date">20:21:20 on 5 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@GazaSubaltern</span>
-                            Why is it nonsense in your opinion?
-                            <div class="date">20:06:08 on 5 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2658,7 +2661,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2022, 23:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 6 Mar 2022, 00:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
