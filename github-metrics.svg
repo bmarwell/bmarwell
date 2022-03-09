@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3331" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3364" class="">
     <defs>
         <style/>
     </defs>
@@ -482,6 +482,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            nerdlegame 49 4/6
+                            <br />
+                            <br />
+                            ⬛⬛🟩⬛⬛🟩🟪⬛
+                            <br />
+                            🟪🟩🟩🟪⬛🟩⬛⬛
+                            <br />
+                            ⬛🟩🟩⬛🟩🟩🟩🟩
+                            <br />
+                            🟩🟩🟩🟩🟩🟩🟩🟩
+                            <div class="date">18:47:51 on 9 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             Ok, Dritter Versuch: Wallbox.
                             <br />
                             Darf ich mir an den gemieteten Stellplatz anbauen. Auf meine Kosten. Zweiter Stromzähler Grundgebühr plus Anchluss plus Kabel in den Boden legen. Und Rückbau bei Auszug.
@@ -492,13 +505,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             😭
                             <div class="date">12:55:09 on 9 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Ein Elektro-Mietwagen scheint mir da sinnvoller, zumindest wirtschaftlich und zeitlich ab 2 Personen.
-                            <br />
-                            <br />
-                            ... Wenn es die doch nur in der Nähe gäbe! 🤷🏻‍♂️ Ich würde ja gerne...
-                            <div class="date">12:53:48 on 9 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2092,7 +2098,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.08487337440112164 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2680,7 +2686,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2022, 18:03:12 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 19:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
