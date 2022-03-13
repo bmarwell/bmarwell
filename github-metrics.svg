@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3264" class="">
     <defs>
         <style/>
     </defs>
@@ -478,20 +478,31 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@MassDOTSafety</span>
-                            : Here is what a multiple-threat scenario looks like⬇️
+                            <span class="mention">@AdamBien</span>
+                            <span class="mention">@java</span>
+                            <span class="mention">@ApacheShiro</span>
+                            <span class="mention">@MicroProfileIO</span>
+                            <span class="mention">@JakartaEE</span>
+                            Thanks Adam!
                             <br />
                             <br />
-                            Be careful when approaching
-                            <span class="hashtag">#crosswalks</span>
-                            . If another driver has sto…
-                            <div class="date">20:12:35 on 11 Mar 2022</div>
+                            One thing which came to my mind after this episode:
+                            <span class="mention">@ApacheShiro</span>
+                            does have annotations for JAX-RS, which Jakarta Security API does not have (yet). That's another big advantage in my opinion I totally forgot about.
+                            <div class="date">10:17:58 on 13 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bagder</span>
-                            Hmmm.. maybe -🚮 is more of a mnemonic choice?
-                            <div class="date">12:33:12 on 11 Mar 2022</div>
+                            RT
+                            <span class="mention">@emilyfhjiang</span>
+                            : A quick poll on
+                            <span class="mention">@MicroProfileIO</span>
+                            <span class="hashtag">#metrics</span>
+                            : please respond if you use
+                            <span class="mention">@MicroProfileIO</span>
+                            in your
+                            <span class="hashtag">#applications</span>
+                            please spread…
+                            <div class="date">10:16:27 on 13 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2656,7 +2667,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Mar 2022, 10:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 11:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
