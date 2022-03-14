@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3231" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3264" class="">
     <defs>
         <style/>
     </defs>
@@ -478,6 +478,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@GZabos</span>
+                            Habe mit der ganzen Familie (6 Leute) YouTube Premium. Keine Werbung, auch nicht bei Videos.
+                            <br />
+                            <br />
+                            Hach. 😊
+                            <div class="date">18:58:48 on 14 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@UroFuchs1</span>
                             : Werbefreiheit war bislang immer ein Verkaufsargument von Streaming-Diensten. Doch das könnte sich ändern.
@@ -485,13 +493,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             https://t.co/h1pk…
                             <div class="date">11:06:43 on 14 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@PYMundGenealogy</span>
-                            <span class="mention">@_anarchivist</span>
-                            <span class="mention">@derGenealoge</span>
-                            How is Lwiw called back then, already Lemberg?
-                            <div class="date">19:49:09 on 13 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2075,7 +2076,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.42436687200549805 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2663,7 +2664,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Mar 2022, 18:02:51 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 14 Mar 2022, 19:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
