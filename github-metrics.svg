@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3201" class="">
     <defs>
         <style/>
     </defs>
@@ -478,16 +478,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Tag 9: Schnelltest negativ. Ab zum Freitesten!
-                            <div class="date">10:51:31 on 16 Mar 2022</div>
+                            <span class="mention">@GZabos</span>
+                            Gute Besserung!
+                            <br />
+                            Unsere Tochter war interessanterweise die ganze Zeit negativ. 🤷🏻‍♂️
+                            <div class="date">11:07:16 on 16 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@bmarwell</span>
-                            : Oh, I already ported the awesome Author theme by
-                            <span class="mention">@CompeteThemes</span>
-                            . It's free version is GPL'd, and I removed all jQuery stuff.…
-                            <div class="date">19:09:41 on 15 Mar 2022</div>
+                            Tag 9: Schnelltest negativ. Ab zum Freitesten!
+                            <div class="date">10:51:31 on 16 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2675,7 +2674,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Mar 2022, 11:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 16 Mar 2022, 12:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
