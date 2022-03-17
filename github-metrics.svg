@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3184" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
     <defs>
         <style/>
     </defs>
@@ -478,13 +478,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Wohooo, webex at work! :)
-                            <div class="date">09:37:14 on 17 Mar 2022</div>
+                            <span class="mention">@zowalla</span>
+                            <a href="https://t.co/GjtxnfhPhG" class="link">w3.org/2013/dwbp/wiki…</a>
+                            <br />
+                            <br />
+                            JSON-LD FTW
+                            <div class="date">11:52:01 on 17 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@zowalla</span>
-                            Isn't JSON-LD semantic enough? 😓😅
-                            <div class="date">08:45:51 on 17 Mar 2022</div>
+                            Wohooo, webex at work! :)
+                            <div class="date">09:37:14 on 17 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2677,7 +2680,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2022, 11:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 17 Mar 2022, 12:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
