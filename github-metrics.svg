@@ -478,17 +478,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@AndyGeeDe</span>
-                            <a href="https://t.co/WWfIjk8N2W" class="link">twitter.com/bmarwell/statu…</a>
-                            <div class="date">09:40:56 on 19 Mar 2022</div>
+                            RT
+                            <span class="mention">@nixcraft</span>
+                            : Lost TV remote? No need to worry. Just use the curl command from your terminal to control it
+                            <a href="https://t.co/zvJrt7vPnP" class="link">reddit.com/r/linuxmasterr…</a>
+                            You can…
+                            <div class="date">12:47:28 on 19 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Raumzeitfalle</span>
-                            <span class="mention">@helpermethod</span>
-                            Click on a request. It's the tool a web dev has open 90% of the time.
+                            RT
+                            <span class="mention">@LadyLiana1986</span>
+                            : Ich bin immernoch nicht über die 100 Mrd.€ Für die Bundeswehr hinweg.
                             <br />
-                            You can see all request headers, responses (raw and parsed), timing, list of domains, filter by type (xhr, image, etc) and other useful stuff. It's like a full blown IDE!
-                            <div class="date">09:18:19 on 19 Mar 2022</div>
+                            <br />
+                            Ich will nie wieder von unserer Regierung hören,…
+                            <div class="date">12:45:44 on 19 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2648,7 +2652,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Mar 2022, 12:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 19 Mar 2022, 13:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
