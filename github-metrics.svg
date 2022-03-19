@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3231" class="">
     <defs>
         <style/>
     </defs>
@@ -478,15 +478,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@hannover</span>
-                            warum gibt es in den zwei nahegelegenen Bürgerämtern keine Termine für einen neuen Perso? Das kann doch nicht sein.
-                            <div class="date">08:40:50 on 19 Mar 2022</div>
+                            <span class="mention">@AndyGeeDe</span>
+                            <a href="https://t.co/WWfIjk8N2W" class="link">twitter.com/bmarwell/statu…</a>
+                            <div class="date">09:40:56 on 19 Mar 2022</div>
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Raumzeitfalle</span>
                             <span class="mention">@helpermethod</span>
-                            <span class="mention">@simas_ch</span>
-                            I was fiddling with it for the first time and replaced one of the "yield" statements when IntelliJ complained. That's all there is to it 😅
-                            <div class="date">23:53:11 on 18 Mar 2022</div>
+                            Click on a request. It's the tool a web dev has open 90% of the time.
+                            <br />
+                            You can see all request headers, responses (raw and parsed), timing, list of domains, filter by type (xhr, image, etc) and other useful stuff. It's like a full blown IDE!
+                            <div class="date">09:18:19 on 19 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2646,7 +2648,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Mar 2022, 09:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 19 Mar 2022, 10:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
