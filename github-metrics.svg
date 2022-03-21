@@ -478,14 +478,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@EerikNKross</span>
+                            : A friend asked for an explanation why "It's just Putin" is wrong and dangerous. I felt it needs a longer response. Here it…
+                            <div class="date">06:53:00 on 21 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Raumzeitfalle</span>
                             Hehe, steht auf meiner TODO-Liste. Da ist alles drauf, was böse ist 😁
                             <div class="date">20:23:40 on 20 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Auto-Import and shared settings/checkstyle FTW 😁👍🏻
-                            <a href="https://t.co/FxsDx5Y9yV" class="link">twitter.com/JavaCodeDaily/…</a>
-                            <div class="date">18:40:56 on 20 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2658,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2022, 06:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 21 Mar 2022, 07:01:20 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
