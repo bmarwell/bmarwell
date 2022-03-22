@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3401" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
     <defs>
         <style/>
     </defs>
@@ -478,42 +478,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@TheMasterWorkLP</span>
-                            : Foto und Realität gehen ziemlich weit auseinander. 🤔
-                            <br />
-                            Soll das so sein
-                            <span class="mention">@DrOetkerPizzaDE</span>
-                            und
-                            <span class="mention">@an_dy_wand</span>
-                            ? https://t.co/…
-                            <div class="date">17:23:23 on 22 Mar 2022</div>
+                            <span class="mention">@helpermethod</span>
+                            <span class="mention">@EliteGentleman</span>
+                            <span class="mention">@linux_china</span>
+                            Exactly. But why create an option when you already have javaArgs?
+                            <div class="date">22:57:06 on 22 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Bluwyn</span>
-                            <span class="mention">@rjjago</span>
-                            <span class="mention">@MikePrevost3</span>
-                            <span class="mention">@BezecnyJiri</span>
-                            <span class="mention">@KyivPost</span>
-                            Maybe Roberts comparison was wrong to begin with.
+                            <span class="mention">@rflob</span>
+                            <span class="mention">@EliteGentleman</span>
+                            <span class="mention">@linux_china</span>
+                            Good for you, but preview features in production? I guess there's a reason why they are called PREVIEW, not HIDDEN: They do change (e.g. break vs yield in switch).
                             <br />
-                            In Germany, we are currently removing German (partly Nazi) city names from our vocabulary.
-                            <br />
-                            Instead of
-                            <br />
-                            Reval we say Talin,
-                            <br />
-                            Jadera =&gt; Zadar,
-                            <br />
-                            Lemberg =&gt; Lwiw,
-                            <br />
-                            Peking =&gt; Beijing,
-                            <br />
-                            etc
-                            <br />
-                            <br />
-                            Russia should do the same. Respect Ukrainian.
-                            <div class="date">11:18:01 on 22 Mar 2022</div>
+                            But then, your production is not bank accounts, so I am very biased. 😁
+                            <div class="date">22:48:31 on 22 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2696,7 +2674,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Mar 2022, 22:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 22 Mar 2022, 23:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
