@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
     <defs>
         <style/>
     </defs>
@@ -474,20 +474,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@bagder</span>
+                            : Today we celebrate that curl's git repository has been hosted on
+                            <span class="mention">@github</span>
+                            for 12 years. Before that it was on Sourceforge for 10…
+                            <div class="date">10:38:59 on 23 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@helpermethod</span>
                             <span class="mention">@EliteGentleman</span>
                             <span class="mention">@linux_china</span>
                             Exactly. But why create an option when you already have javaArgs?
                             <div class="date">22:57:06 on 22 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@rflob</span>
-                            <span class="mention">@EliteGentleman</span>
-                            <span class="mention">@linux_china</span>
-                            Good for you, but preview features in production? I guess there's a reason why they are called PREVIEW, not HIDDEN: They do change (e.g. break vs yield in switch).
-                            <br />
-                            But then, your production is not bank accounts, so I am very biased. 😁
-                            <div class="date">22:48:31 on 22 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2675,7 +2674,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Mar 2022, 10:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 23 Mar 2022, 11:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
