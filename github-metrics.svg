@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3264" class="">
     <defs>
         <style/>
     </defs>
@@ -474,15 +474,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@ThreatNotation</span>
-                            I learned from Lego how to do this.
-                            <a href="https://t.co/cXLqu0OhBr" class="link">pic.twitter.com/cXLqu0OhBr</a>
-                            <div class="date">19:53:11 on 24 Mar 2022</div>
+                            <span class="mention">@helpermethod</span>
+                            <span class="mention">@brunoborges</span>
+                            <a href="https://t.co/x54D9SVvKn" class="link">twitter.com/filochowsk1/st…</a>
+                            <br />
+                            <br />
+                            Most likely confirmed
+                            <div class="date">23:00:53 on 24 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@brunoborges</span>
-                            You need to quote parameters as I learned from GH actions
-                            <div class="date">19:50:35 on 24 Mar 2022</div>
+                            <span class="mention">@mkarg</span>
+                            😢
+                            <br />
+                            Ich warte schon zwei Jahre auf die Abdichtung einer Muffe trotz
+                            <span class="mention">@Telekom_hilft</span>
+                            Unterstützung. Ich kriege als Privatkunde mein Geld zurück WENN ES DENN MAL GELÖST wäre. Aber ich würde lieber bei Regen arbeiten können. Die kriegen kein Geld für Business von mir.
+                            <div class="date">22:12:20 on 24 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2669,7 +2676,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2022, 22:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Mar 2022, 23:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
