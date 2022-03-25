@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3364" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
     <defs>
         <style/>
     </defs>
@@ -474,30 +474,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Telekom_hilft</span>
-                            <span class="mention">@mkarg</span>
-                            Naja, es hat zwei Jahre gedauert, bis der Support mich mal zu einem Service Engineer durchgestellt hat. Die Muffe liegt nicht frei, aber saugt sich mit Wasser voll.
-                            <br />
-                            Seit zwei Jahren bei jedem Regen Ausfall.
-                            <br />
-                            <br />
-                            Aber nach 32 Anrufen und 16 Technikern endlich Aussicht auf Besserung.
-                            <div class="date">15:18:10 on 25 Mar 2022</div>
+                            Die Nachbarn werden sich bestimmt freuen 😁
+                            <a href="https://t.co/crmCndIAm4" class="link">pic.twitter.com/crmCndIAm4</a>
+                            <div class="date">17:35:59 on 25 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            Hello
-                            <span class="mention">@hallouberspace</span>
-                            ,
-                            <br />
-                            You PHP 7.4 brings a psr module which causes applications to fail, and it is a known bug:
-                            <br />
-                            <a href="https://t.co/KMaXONCNKR" class="link">magento.stackexchange.com/a/353631</a>
-                            <br />
-                            <br />
-                            Other web apps (webtrees) will also fail if they are expecting PSR to be implemented by a PHP library instead.
-                            <br />
-                            Is it possible to disable it?
-                            <div class="date">10:05:47 on 25 Mar 2022</div>
+                            Gerade eben kam der Anruf. Vielen Dank an das top social media team von
+                            <span class="mention">@Telekom_hilft</span>
+                            ! Es ist ein sehr deutlicher Lichtblick zu sehen! DANKE! 🙏🏻
+                            <a href="https://t.co/d6AoVN0KQQ" class="link">twitter.com/Telekom_hilft/…</a>
+                            <div class="date">17:04:26 on 25 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2652,7 +2638,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2022, 17:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 18:03:54 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
