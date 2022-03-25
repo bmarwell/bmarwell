@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3247" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3214" class="">
     <defs>
         <style/>
     </defs>
@@ -475,22 +475,13 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             <span class="mention">@hallouberspace</span>
-                            That would work for me.
-                            <br />
-                            Don't install any phalcon versions with such a dependency anymore.
-                            <div class="date">19:57:51 on 25 Mar 2022</div>
+                            Yes and no. I updated webtrees to 2.0.19, and it stopped working. Laravel is now using some PSR standard with a specific implementation which is now being overriden by the module.
+                            <div class="date">20:50:37 on 25 Mar 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@hallouberspace</span>
-                            <span class="mention">@hallouberspace</span>
-                            here you go
-                            <br />
-                            <br />
-                            <a href="https://t.co/xTrjcJM9Eu" class="link">github.com/fisharebest/we…</a>
-                            <br />
-                            <br />
-                            You broke some user installations...
-                            <div class="date">19:46:00 on 25 Mar 2022</div>
+                            <span class="mention">@omniprof</span>
+                            It bugs me that a mutable state is needed here, BUT you explained why you use it. And it makes perfect sense to me in that case.
+                            <div class="date">20:13:23 on 25 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2645,7 +2636,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Mar 2022, 20:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Mar 2022, 21:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
