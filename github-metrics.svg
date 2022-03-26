@@ -474,6 +474,12 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@RolliFraeulein</span>
+                            <span class="mention">@LadyLiana1986</span>
+                            Danke. Ansonsten kommen wir in eine Euphemismen-Tretmühle.
+                            <div class="date">19:10:16 on 26 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@nottycode</span>
                             :
@@ -482,11 +488,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@jarek000000</span>
                             I would not use var in that case, however there maybe cases where it would be fine, for…
                             <div class="date">18:06:46 on 26 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@omniprof</span>
-                            Yes. I saw slides from Azul when this was new. They use it mostly within try-with-resources iirc.
-                            <div class="date">17:15:45 on 26 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2646,7 +2647,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Mar 2022, 19:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 26 Mar 2022, 20:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
