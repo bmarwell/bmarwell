@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3301" class="">
     <defs>
         <style/>
     </defs>
@@ -474,6 +474,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Endlich frei von Wordpress. 😁
+                            <br />
+                            <br />
+                            ----
+                            <br />
+                            <br />
+                            WordPress durch PHP-Everywhere-Plugin verwundbar
+                            <a href="https://t.co/DVj2k4nG9e" class="link">linux-magazin.de/news/wordpress…</a>
+                            <div class="date">18:27:27 on 28 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@8bitsound</span>
                             <span class="mention">@FiLiS</span>
                             Also by the extremely talented
@@ -482,12 +493,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/cqo4PskHr6" class="link">youtu.be/2I-8pXalgGI</a>
                             <div class="date">14:51:49 on 28 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@8bitsound</span>
-                            <span class="mention">@FiLiS</span>
-                            <a href="https://t.co/B1PxHJdX7V" class="link">youtu.be/CQLM62r5nLI</a>
-                            <div class="date">14:50:40 on 28 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2665,7 +2670,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2022, 18:01:01 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 19:03:53 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
