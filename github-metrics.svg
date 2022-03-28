@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
     <defs>
         <style/>
     </defs>
@@ -475,20 +475,21 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@ApacheShiro</span>
+                            : You might have already seen it on central: Apache Shiro 1.9.0 got released!
+                            <br />
+                            We overhauled our build and fixed two bugs.
+                            <br />
+                            h…
+                            <div class="date">07:36:14 on 28 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@beatngu1101</span>
                             : Today we removed
                             <span class="hashtag">#JUnitPioneer</span>
                             's contributor license agreement (CLA). Why? A short 🧵 (1/10)
                             <div class="date">23:27:11 on 27 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Since exactly 10 seconds my blog is now statically created using
-                            <span class="hashtag">#jbake</span>
-                            :)
-                            <br />
-                            <br />
-                            <a href="https://t.co/fgkeHjxyD4" class="link">blog.bmarwell.de</a>
-                            <div class="date">22:34:00 on 27 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2666,7 +2667,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2022, 07:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 08:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
