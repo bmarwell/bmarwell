@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3201" class="">
     <defs>
         <style/>
     </defs>
@@ -474,19 +474,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Oh wow! 😱 👇🏻
+                            <a href="https://t.co/hjW26ytf0p" class="link">twitter.com/matthew_d_gree…</a>
+                            <div class="date">19:12:05 on 31 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@maciejwalkowiak</span>
                             <span class="mention">@speakjava</span>
                             <span class="mention">@Apple</span>
                             Haha I hate my work I-Phone for that reason and find Android much more comfortable to use 🤣
                             <div class="date">20:49:43 on 30 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@ApacheShiro</span>
-                            In case you wonder what we changed in our build system and why, here's some explanation.
-                            <br />
-                            <br />
-                            <a href="https://t.co/HDKO7xl3XW" class="link">twitter.com/bmarwell/statu…</a>
-                            <div class="date">19:37:22 on 30 Mar 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2091,7 +2088,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.8672142368240703 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.952087611225192 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2679,7 +2676,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Mar 2022, 19:04:15 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 31 Mar 2022, 20:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
