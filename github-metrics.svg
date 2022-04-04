@@ -2425,7 +2425,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 385k out of 88m users</span>
+                                    <span class="gh">ranked 384k out of 88m users</span>
                                 </div>
                                 <div class="text">Followed by 22 users</div>
                             </div>
@@ -2657,7 +2657,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2022, 15:06:50 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 4 Apr 2022, 16:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
