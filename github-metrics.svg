@@ -474,18 +474,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@MalwareTechBlog</span>
+                            Start putting your money on the new account and deal with transferring later. It doesn't make much of a difference in interest/performance, if I am not mistaken.
+                            <div class="date">16:05:05 on 6 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@joschi83</span>
                             <span class="mention">@BenediktRitter</span>
                             <span class="mention">@ApacheCommons</span>
                             Huh? Migration to a new library takes days, creating an issue and asking for a release is likely less work..?
                             <div class="date">12:42:51 on 6 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Most of my colleagues are not on Twitter. But some are. So here goes out a big "thank you!" for being such a great and helpful GitHub admin! =&gt;
-                            <span class="mention">@azmodude</span>
-                            🎉
-                            <a href="https://t.co/P3sWgfkxqu" class="link">pic.twitter.com/P3sWgfkxqu</a>
-                            <div class="date">08:22:59 on 6 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2674,7 +2672,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Apr 2022, 16:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 17:01:21 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
