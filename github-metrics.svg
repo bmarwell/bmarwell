@@ -474,17 +474,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Most of my colleagues are not on Twitter. But some are. So here goes out a big "thank you!" for being such a great and helpful GitHub admin! =&gt;
+                            <span class="mention">@azmodude</span>
+                            🎉
+                            <a href="https://t.co/P3sWgfkxqu" class="link">pic.twitter.com/P3sWgfkxqu</a>
+                            <div class="date">08:22:59 on 6 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@MalwareTechBlog</span>
                             Did you try calling your bank? What's wrong with keeping it at the other bank?
                             <div class="date">22:52:10 on 5 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@8bitsound</span>
-                            Darum.
-                            <br />
-                            <br />
-                            <a href="https://t.co/aYvk5ZouD1" class="link">twitter.com/grumpygamer/st…</a>
-                            <div class="date">21:32:10 on 4 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2673,7 +2672,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Apr 2022, 08:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 09:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
