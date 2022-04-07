@@ -474,15 +474,23 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@DLFNachrichten</span>
-                            : +++ EIL +++ Krieg in der Ukraine: Russland räumt große Verluste ein - Kreml spricht von "Tragödie"
-                            <div class="date">19:14:08 on 7 Apr 2022</div>
+                            <span class="mention">@SteveFi04457564</span>
+                            Bitte auch mal in Hannover... Da wird nicht umgesetzt, wegen Verhältnismäßigkeit oder so.
+                            <br />
+                            Gelle,
+                            <span class="mention">@andieckeparkt</span>
+                            ?
+                            <div class="date">20:15:30 on 7 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@MalwareTechBlog</span>
-                            Start putting your money on the new account and deal with transferring later. It doesn't make much of a difference in interest/performance, if I am not mistaken.
-                            <div class="date">16:05:05 on 6 Apr 2022</div>
+                            <span class="mention">@FiveFt7Scowl</span>
+                            <span class="mention">@ThreatNotation</span>
+                            Give
+                            <span class="mention">@FiveFt7Scowl</span>
+                            a medal!
+                            <br />
+                            You deserve a medal!
+                            <div class="date">20:01:20 on 7 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2670,7 +2678,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Apr 2022, 20:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 7 Apr 2022, 21:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
