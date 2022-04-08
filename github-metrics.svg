@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3202" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3185" class="">
     <defs>
         <style/>
     </defs>
@@ -474,14 +474,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@andyman3000</span>
+                            <span class="mention">@bisonfute</span>
+                            Aber bitte mit weiß/braun!
+                            <div class="date">21:12:19 on 8 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Read this 🧶. AGPL is a very ☣️ license.
                             <a href="https://t.co/sbEjQCKIH5" class="link">twitter.com/marcan42/statu…</a>
                             <div class="date">19:00:58 on 8 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            Ich habe nur zwei User und migriere weg. Schwer genug die Mails zu retten
-                            <div class="date">18:13:46 on 8 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2643,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2022, 21:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 22:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
