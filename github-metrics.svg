@@ -474,21 +474,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Oh well, I started a branch in my blog repository.
+                            <br />
+                            <br />
+                            I have to admit, blogging using AsciiDoc is great!
+                            <a href="https://t.co/u1Mu0QzkDR" class="link">twitter.com/zowalla/status…</a>
+                            <div class="date">15:44:52 on 8 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@grobmeier</span>
                             I'm using Iiyama. At work we use both NEC and Eizo. Can't complain either.
                             <div class="date">12:45:51 on 8 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@mtnrbq65</span>
-                            <span class="mention">@jrsofty</span>
-                            <span class="mention">@Murkrage</span>
-                            <span class="mention">@EmmaBostian</span>
-                            I got a response, too.
-                            <br />
-                            <br />
-                            Happy to help.
-                            <a href="https://t.co/tAJ5lduFZi" class="link">pic.twitter.com/tAJ5lduFZi</a>
-                            <div class="date">12:40:48 on 8 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2646,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Apr 2022, 15:08:58 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 16:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
