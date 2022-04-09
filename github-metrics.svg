@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
     <defs>
         <style/>
     </defs>
@@ -476,13 +476,16 @@ Java/JavaEE dev s/ 2006 //
                         <div class="tweet">
                             <span class="mention">@rotty3000</span>
                             <span class="mention">@ApacheShiro</span>
-                            Feel very welcome to discuss this with us on slack and/or the mailing lists! I see some work for logging in via @'POST or expressions in annotation values.
-                            <div class="date">20:54:59 on 9 Apr 2022</div>
+                            I'd love to see
+                            <span class="mention">@pkriens</span>
+                            on this, he also worked on/with Shiro!
+                            <div class="date">21:01:28 on 9 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@_tallison</span>
-                            Yeah I closed some Jira issues as well in "my" Apache project. 🤦🏻‍♂️
-                            <div class="date">00:10:25 on 9 Apr 2022</div>
+                            <span class="mention">@rotty3000</span>
+                            <span class="mention">@ApacheShiro</span>
+                            Feel very welcome to discuss this with us on slack and/or the mailing lists! I see some work for logging in via @'POST or expressions in annotation values.
+                            <div class="date">20:54:59 on 9 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2046,7 +2049,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 112k out of 88m users</span>
+                                    <span class="gh">ranked 113k out of 88m users</span>
                                 </div>
                                 <div class="text">Published 107 public repositories</div>
                             </div>
@@ -2649,7 +2652,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Apr 2022, 21:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 9 Apr 2022, 22:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
