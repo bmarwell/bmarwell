@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3264" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3281" class="">
     <defs>
         <style/>
     </defs>
@@ -474,22 +474,23 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@hallouberspace</span>
+                            Cool! What was it?
+                            <br />
+                            <br />
+                            I might downgrade for a month or so... One of my apps is still on PHP 7.4.
+                            <br />
+                            <br />
+                            Thanks!
+                            <div class="date">12:30:50 on 13 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Oh well, just 5 votes.
                             <br />
                             <br />
                             Anyway, will create a profile for mpJWT and use the jjwt implementation as default
                             <a href="https://t.co/x491hmKt89" class="link">twitter.com/bmarwell/statu…</a>
                             <div class="date">10:16:54 on 13 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@JavaCodeDaily</span>
-                            Did you know there's ULID?
-                            <br />
-                            <br />
-                            👇🏻
-                            <br />
-                            <a href="https://t.co/l3rdsHdpJT" class="link">github.com/ulid/spec</a>
-                            <div class="date">14:32:15 on 12 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2672,7 +2673,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Apr 2022, 12:01:01 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 13 Apr 2022, 13:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
