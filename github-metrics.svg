@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3284" class="">
     <defs>
         <style/>
     </defs>
@@ -475,19 +475,27 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@TylerHyliard</span>
+                            :
+                            <span class="mention">@xssfox</span>
+                            Good dates to take work off:
+                            <br />
+                            <br />
+                            February 7th, 2036
+                            <br />
+                            January 19th, 2038
+                            <br />
+                            November 20th, 2038
+                            <br />
+                            January 1st, 1970
+                            <div class="date">19:28:43 on 14 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@svblxyz</span>
                             : That leaves them with "Comic Sans". 😅
                             <a href="https://t.co/9m7n9Vq8oO" class="link">pic.twitter.com/9m7n9Vq8oO</a>
                             <div class="date">13:58:11 on 14 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@brunoborges</span>
-                            : YOLO!
-                            <br />
-                            <br />
-                            <a href="https://t.co/fPPnrco6qu" class="link">twitter.com/chrisbranch/st…</a>
-                            <div class="date">07:37:35 on 14 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2093,7 +2101,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5941136208076863 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6789869952087528 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2681,7 +2689,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Apr 2022, 19:05:00 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 14 Apr 2022, 20:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
