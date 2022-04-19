@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3264" class="">
     <defs>
         <style/>
     </defs>
@@ -474,19 +474,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            <span class="mention">@bmuskalla</span>
-                            ... or just log it, if you can continue.
-                            <div class="date">19:14:00 on 19 Apr 2022</div>
+                            <span class="mention">@jjenkov</span>
+                            --release for javac.
+                            <br />
+                            Still too many Java 7 and 8 projects around. Yuck.
+                            <div class="date">23:30:36 on 19 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@briandemers</span>
-                            <span class="mention">@xkcd</span>
-                            Nah with Matt it's probably more like this one:
+                            Oh look,
+                            <span class="mention">@heisedc</span>
+                            thinks that git is equal to GitHub! Now if the press is saying it... (Hint: Title picture)
                             <br />
                             <br />
-                            <a href="https://t.co/y788Gpp6aE" class="link">xkcd.com/208/</a>
-                            <div class="date">19:12:31 on 19 Apr 2022</div>
+                            heise online: Versionsverwaltung: Git 2.36 bietet mehr Hilfe beim Lösen von Merge-Konflikten.
+                            <br />
+                            <a href="https://t.co/LDqrqmtgZq" class="link">heise.de/news/Versionsv…</a>
+                            <div class="date">23:29:27 on 19 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2432,7 +2435,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 387k out of 89m users</span>
+                                    <span class="gh">ranked 388k out of 89m users</span>
                                 </div>
                                 <div class="text">Followed by 22 users</div>
                             </div>
@@ -2664,7 +2667,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Apr 2022, 23:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 00:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
