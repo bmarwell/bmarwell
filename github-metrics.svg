@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3184" class="">
     <defs>
         <style/>
     </defs>
@@ -474,21 +474,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@gunnarmorling</span>
-                            is something missing for a moditect 1.0.0 release? Just asking out of curiosity. Seems pretty stable by now.
-                            <br />
-                            <br />
-                            <a href="https://t.co/oqJsKqMBjz" class="link">github.com/moditect/modit…</a>
-                            <div class="date">07:14:18 on 20 Apr 2022</div>
+                            <span class="mention">@joschi83</span>
+                            Lol! Great!
+                            <div class="date">08:49:33 on 20 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@suckup_de</span>
-                            Honestly?
-                            <br />
-                            1. chmod differs between AIX, Mac, Linux, BSD.
-                            <br />
-                            2. Anyone dealing with keys *really* should have enough knowledge on how to do that.
-                            <div class="date">06:33:56 on 20 Apr 2022</div>
+                            <span class="mention">@gunnarmorling</span>
+                            Sounds great! Thanks a lot! :)
+                            <div class="date">08:10:53 on 20 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2677,7 +2670,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Apr 2022, 08:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 09:01:03 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
