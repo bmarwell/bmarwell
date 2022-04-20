@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
     <defs>
         <style/>
     </defs>
@@ -474,22 +474,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@suckup_de</span>
+                            Honestly?
+                            <br />
+                            1. chmod differs between AIX, Mac, Linux, BSD.
+                            <br />
+                            2. Anyone dealing with keys *really* should have enough knowledge on how to do that.
+                            <div class="date">06:33:56 on 20 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@jjenkov</span>
                             --release for javac.
                             <br />
                             Still too many Java 7 and 8 projects around. Yuck.
                             <div class="date">23:30:36 on 19 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Oh look,
-                            <span class="mention">@heisedc</span>
-                            thinks that git is equal to GitHub! Now if the press is saying it... (Hint: Title picture)
-                            <br />
-                            <br />
-                            heise online: Versionsverwaltung: Git 2.36 bietet mehr Hilfe beim Lösen von Merge-Konflikten.
-                            <br />
-                            <a href="https://t.co/LDqrqmtgZq" class="link">heise.de/news/Versionsv…</a>
-                            <div class="date">23:29:27 on 19 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2678,7 +2676,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Apr 2022, 06:16:13 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 20 Apr 2022, 07:14:08 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
