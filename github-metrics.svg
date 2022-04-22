@@ -474,21 +474,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@DaKine511</span>
-                            <span class="mention">@ZalandoTech</span>
-                            👆🏻 this!!
-                            <br />
-                            <br />
-                            Especially the last two sentences!
-                            <div class="date">23:53:56 on 21 Apr 2022</div>
+                            RT
+                            <span class="mention">@hanno</span>
+                            : Das beste sind die ganzen replies die irgendwie widersprechen wollen und damit eigentlich nur die aussage bestätigen https://t.c…
+                            <div class="date">22:51:20 on 22 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@cameronmcnz</span>
-                            <span class="mention">@ZalandoTech</span>
-                            Yes
+                            RT
+                            <span class="mention">@Tantacrul</span>
+                            : Tell me this new look for Audacity doesn't look damn swish.
                             <br />
-                            <a href="https://t.co/BwizMYsi6A" class="link">github.com/zalando/restfu…</a>
-                            <div class="date">17:52:57 on 21 Apr 2022</div>
+                            <br />
+                            Courtesy (again) of
+                            <span class="mention">@JessJWilliamson</span>
+                            <a href="https://t.co/7hlXFGDSxT" class="link">pic.twitter.com/7hlXFGDSxT</a>
+                            <div class="date">22:49:46 on 22 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2650,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2022, 22:01:17 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 23:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
