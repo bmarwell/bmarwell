@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
     <defs>
         <style/>
     </defs>
@@ -474,17 +474,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            I'm asking because they are using different crypto providers (to my knowledge). Wasn't able to get to a PC by now.
-                            <div class="date">18:06:52 on 23 Apr 2022</div>
+                            <span class="mention">@javahippie</span>
+                            Nicht nachmachen 😬
+                            <br />
+                            <br />
+                            <a href="https://t.co/34j4HhwPQV" class="link">youtu.be/i83W7LY9z1I</a>
+                            <div class="date">19:48:32 on 23 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            Are IBM's
-                            <span class="mention">@OpenJ9</span>
-                            Semeru and J9 affected?
+                            <span class="mention">@javahippie</span>
+                            Ja, gut möglich. Es gibt aber Videos (Kaffeemacher etc), die schneiden den Boden weg und sind Happy.
                             <br />
-                            <br />
-                            <a href="https://t.co/W8fmC7w5uk" class="link">arstechnica.com/information-te…</a>
-                            <div class="date">18:00:04 on 23 Apr 2022</div>
+                            Das "ungleich" kenne ich eher von den billig-Pads im normalen Sieb.
+                            <div class="date">19:48:12 on 23 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2063,7 +2065,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.3579739904175057 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.4428473648186273 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2651,7 +2653,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2022, 19:03:23 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 20:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
