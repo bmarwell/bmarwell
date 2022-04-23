@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3284" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
     <defs>
         <style/>
     </defs>
@@ -474,6 +474,10 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            I'm asking because they are using different crypto providers (to my knowledge). Wasn't able to get to a PC by now.
+                            <div class="date">18:06:52 on 23 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             Are IBM's
                             <span class="mention">@OpenJ9</span>
                             Semeru and J9 affected?
@@ -481,16 +485,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/W8fmC7w5uk" class="link">arstechnica.com/information-te…</a>
                             <div class="date">18:00:04 on 23 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            23:15 und im Autoscooter sind 5jährige mit ihren Eltern.
-                            <br />
-                            <br />
-                            Das ist auf so vielen Ebenen... 🤬
-                            <br />
-                            <br />
-                            Ach, deren Problem. 🙄
-                            <div class="date">23:14:31 on 22 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Apr 2022, 18:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 19:03:23 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
