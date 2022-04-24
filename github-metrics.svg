@@ -474,19 +474,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Schade eigentlich, dass Öffis so teuer sind und selten fahren, dass €300 immer noch günstiger ist...
-                            <br />
-                            Vom Taxi wollen wir gar nicht erst anfangen.
-                            <br />
-                            <br />
-                            ... zum Glück fahr ich (auch) Rad! 🚴🏻‍♂️
-                            <a href="https://t.co/8pUVoakm30" class="link">twitter.com/Kricke1905/sta…</a>
-                            <div class="date">23:27:08 on 23 Apr 2022</div>
+                            <span class="mention">@LadyLiana1986</span>
+                            Die Rechnung von dir geht nur auf, wenn man das Auto nicht sowieso aus anderen Gründen hat. Braucht man es nicht für anderes, hast du völlig Recht.
+                            <div class="date">09:25:23 on 24 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Tyrrrz</span>
-                            That's ONE Markdown flavour. You can use AsciiDoc if you need consistency.
-                            <div class="date">23:03:26 on 23 Apr 2022</div>
+                            <span class="mention">@LadyLiana1986</span>
+                            Monatskarte € 70
+                            <br />
+                            Tageskarte € 6,10
+                            <br />
+                            ... da bist du leider unglaublich schnell bei € 300. Und das Auto ist trotz Parken noch viel zu günstig. 🙄
+                            <div class="date">09:14:08 on 24 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2658,7 +2657,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2022, 09:00:57 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 10:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
