@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
     <defs>
         <style/>
     </defs>
@@ -474,18 +474,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@brianwhelton</span>
+                            : What a great idea!
+                            <br />
+                            I’m going to start putting Ip addresses on random things.
+                            <a href="https://t.co/4aYGAHRFg1" class="link">pic.twitter.com/4aYGAHRFg1</a>
+                            <div class="date">18:17:42 on 24 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@mkarg</span>
                             <span class="mention">@shipilev</span>
                             Sending lots of pictures. Lots of them. I hate waiting. 😉
                             <br />
                             No, of course there's no "need" in that sense.
                             <div class="date">17:56:37 on 24 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@mkarg</span>
-                            <span class="mention">@shipilev</span>
-                            I need more upload. I need line 40/50 Mbits of upload. That's why. 100/1000 would be preferable to 200/20 to me.
-                            <div class="date">17:52:29 on 24 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2660,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2022, 18:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 19:03:33 (timezone Europe/Berlin) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
