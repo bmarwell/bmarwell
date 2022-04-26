@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
     <defs>
         <style/>
     </defs>
@@ -474,18 +474,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@omniprof</span>
-                            Old but gold...
+                            <span class="mention">@HornyBrainPosts</span>
+                            Red currant aka red gooseberry.
                             <br />
-                            Why do they always write "IT engineer" when they mean "Windows engineer"?
-                            <div class="date">00:09:29 on 26 Apr 2022</div>
+                            <br />
+                            <a href="https://t.co/Yu1biElYGO" class="link">en.m.wikipedia.org/wiki/Redcurrant</a>
+                            <div class="date">15:38:07 on 26 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@hanno</span>
-                            Thanks! 👍🏻
-                            <br />
-                            Can you make it a bit more mobile friendly, please?
-                            <div class="date">00:03:58 on 26 Apr 2022</div>
+                            <span class="mention">@Spatzengepiepe</span>
+                            Bitteschön, einen kann ich entbehren. 😉
+                            <a href="https://t.co/V4xVD7oJ9X" class="link">pic.twitter.com/V4xVD7oJ9X</a>
+                            <div class="date">15:29:05 on 26 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2670,7 +2670,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Apr 2022, 15:13:31 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 Apr 2022, 16:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
