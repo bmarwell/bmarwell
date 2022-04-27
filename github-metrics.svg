@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3201" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3267" class="">
     <defs>
         <style/>
     </defs>
@@ -474,16 +474,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@lukaseder</span>
-                            <span class="mention">@ImmutablesOrg</span>
-                            Ah I see. Well, no bytecode magic with immutables. 🤷🏻‍♂️
-                            <div class="date">13:46:33 on 27 Apr 2022</div>
+                            <span class="mention">@ashleygjovik</span>
+                            Recommended read:
+                            <br />
+                            <a href="https://t.co/J0kPAHpLjU" class="link">fsf.org/campaigns/open…</a>
+                            <div class="date">18:24:56 on 27 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@lukaseder</span>
-                            Just use
-                            <span class="mention">@ImmutablesOrg</span>
-                            <div class="date">13:11:48 on 27 Apr 2022</div>
+                            <span class="mention">@ashleygjovik</span>
+                            As a Linux user:
+                            <br />
+                            Avoid it. Both OOXML and MSOXML are certified standards. Both can open the other format.
+                            <br />
+                            It's usually less work to just convert macros. Send PDFs to clients. That's all about it.
+                            <div class="date">18:24:06 on 27 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2673,7 +2677,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Apr 2022, 18:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 19:07:11 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
