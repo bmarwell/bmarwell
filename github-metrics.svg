@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3247" class="">
     <defs>
         <style/>
     </defs>
@@ -474,22 +474,27 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@briandemers</span>
+                            :
                             <span class="mention">@aalmiray</span>
-                            <span class="mention">@Raumzeitfalle</span>
                             <span class="mention">@rotnroll666</span>
                             <span class="mention">@mraible</span>
                             <span class="mention">@electronjs</span>
-                            <span class="mention">@ApacheShiro</span>
-                            <a href="https://t.co/geOixGB9Mj" class="link">twitter.com/briandemers/st…</a>
-                            <div class="date">20:54:00 on 29 Apr 2022</div>
+                            A browser is required. The browser doesn't need to be on the same device.
+                            <br />
+                            Ther…
+                            <div class="date">21:15:50 on 29 Apr 2022</div>
                         </div>
                         <div class="tweet">
+                            Btw, haven't investigated yet. But if I were to reuse my testcontainer a lot and used Liberty's
+                            <a href="https://t.co/dBDmmzndz4" class="link">configure.sh</a>
+                            for SCC, it might even be faster than traditional tests. Right?
+                            <br />
                             <span class="mention">@scott_kurz</span>
-                            <span class="mention">@OpenLibertyIO</span>
-                            <span class="mention">@ASFMavenProject</span>
-                            <span class="mention">@testcontainers</span>
-                            Haven't tried microshed yet. 🤔
-                            <div class="date">20:53:06 on 29 Apr 2022</div>
+                            ? 😅
+                            <a href="https://t.co/UaLsdeZgiY" class="link">twitter.com/scott_kurz/sta…</a>
+                            <div class="date">21:15:01 on 29 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2646,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2022, 21:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Apr 2022, 22:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
