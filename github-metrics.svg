@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3214" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
     <defs>
         <style/>
     </defs>
@@ -474,19 +474,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Who's on mastodon and what's your user name/identifier?
-                            <div class="date">13:11:27 on 29 Apr 2022</div>
+                            <span class="mention">@aalmiray</span>
+                            <span class="mention">@Raumzeitfalle</span>
+                            <span class="mention">@rotnroll666</span>
+                            <span class="mention">@mraible</span>
+                            <span class="mention">@electronjs</span>
+                            <span class="mention">@ApacheShiro</span>
+                            <a href="https://t.co/geOixGB9Mj" class="link">twitter.com/briandemers/st…</a>
+                            <div class="date">20:54:00 on 29 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@jvz</span>
+                            <span class="mention">@scott_kurz</span>
+                            <span class="mention">@OpenLibertyIO</span>
+                            <span class="mention">@ASFMavenProject</span>
                             <span class="mention">@testcontainers</span>
-                            Oohh that's a good catch! They use samba, and the file
-                            <a href="https://t.co/wRVbfC0mGC" class="link">custom.sh</a>
-                            contains examples! Thanks!
-                            <br />
-                            <br />
-                            <a href="https://t.co/s8GXMu4MJT" class="link">github.com/jenkinsci/acti…</a>
-                            <div class="date">21:48:16 on 28 Apr 2022</div>
+                            Haven't tried microshed yet. 🤔
+                            <div class="date">20:53:06 on 29 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2643,7 +2646,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2022, 20:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Apr 2022, 21:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
