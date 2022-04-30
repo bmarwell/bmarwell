@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3201" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3284" class="">
     <defs>
         <style/>
     </defs>
@@ -474,19 +474,24 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@sormuras</span>
-                            :
-                            <span class="mention">@bmarwell</span>
-                            <span class="mention">@rmannibucau</span>
-                            &gt; An alternative to guarded pattern labels is to support guarded patterns directly as a special patter…
-                            <div class="date">09:29:12 on 30 Apr 2022</div>
+                            <span class="mention">@Kiview</span>
+                            <span class="mention">@aalmiray</span>
+                            <span class="mention">@briandemers</span>
+                            <span class="mention">@rotnroll666</span>
+                            <span class="mention">@mraible</span>
+                            <span class="mention">@electronjs</span>
+                            <a href="https://t.co/MrZrFAPOE3" class="link">mastodon.social/@overheadhunte…</a>
+                            <div class="date">16:50:47 on 30 Apr 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@sormuras</span>
-                            <span class="mention">@rmannibucau</span>
-                            Oohhhh interesting!
-                            <div class="date">09:09:23 on 30 Apr 2022</div>
+                            <span class="mention">@blume_bob</span>
+                            Computer an- und ausschalten und irgendwelche Kabel tauschen.
+                            <br />
+                            <br />
+                            Oder spezifischer:
+                            <br />
+                            Mit Hoodie und Pizza im Keller sitzen, grüne Matrix-Schrift auf dem Bildschirm angucken. Und am Ende kommt eine Webseite bei raus.
+                            <div class="date">16:33:44 on 30 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2654,7 +2659,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Apr 2022, 16:00:59 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 Apr 2022, 17:01:26 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
