@@ -474,6 +474,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@joschi83</span>
+                            <span class="mention">@LineageAndroid</span>
+                            Yeah. But maybe the camera works better at night, the distance sensor will work and some settings aren't hidden anymore.
+                            <br />
+                            I don't like Xiaomi UI and their companion apps. They're nagging all the way.
+                            <div class="date">13:56:07 on 1 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@bmarwell</span>
                             :
@@ -485,12 +493,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/l3rdsHdpJT" class="link">github.com/ulid/spec</a>
                             <div class="date">09:33:09 on 1 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Does someone own a
-                            <span class="mention">@Xiaomi</span>
-                            Poco F3 and has experiences with LineageOS or similar? I don't like the slow updates of the manufacturer. Today I got the February patch level. 🙄
-                            <div class="date">09:16:51 on 1 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2663,7 +2665,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2022, 13:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 1 May 2022, 14:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
