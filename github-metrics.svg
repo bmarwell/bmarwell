@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3267" class="">
     <defs>
         <style/>
     </defs>
@@ -475,15 +475,22 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
-                            <span class="mention">@MelnykAndrij</span>
-                            : Hi Alice Schwarzer, Ihr Aufruf zur Kapitulation der Ukraine bedeutet, dass Ihr gefeierter Feminismus nur eine Fassade, ei…
-                            <div class="date">00:03:23 on 1 May 2022</div>
+                            <span class="mention">@bmarwell</span>
+                            :
+                            <span class="mention">@JavaCodeDaily</span>
+                            Did you know there's ULID?
+                            <br />
+                            <br />
+                            👇🏻
+                            <br />
+                            <a href="https://t.co/l3rdsHdpJT" class="link">github.com/ulid/spec</a>
+                            <div class="date">09:33:09 on 1 May 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@jodastephen</span>
-                            <span class="mention">@intellijidea</span>
-                            should flag multiple uses of any "now()" in the same method, or even in the same call stack!
-                            <div class="date">21:11:21 on 30 Apr 2022</div>
+                            Does someone own a
+                            <span class="mention">@Xiaomi</span>
+                            Poco F3 and has experiences with LineageOS or similar? I don't like the slow updates of the manufacturer. Today I got the February patch level. 🙄
+                            <div class="date">09:16:51 on 1 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2656,7 +2663,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 May 2022, 09:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 1 May 2022, 10:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
