@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3214" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
     <defs>
         <style/>
     </defs>
@@ -474,23 +474,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@kitlangton</span>
+                            : A friendly Scala challenge for my clever followers
+                            <a href="https://t.co/WMnmOQmzUP" class="link">pic.twitter.com/WMnmOQmzUP</a>
+                            <div class="date">23:21:02 on 5 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@chongma</span>
                             <span class="mention">@ApacheShiro</span>
                             <span class="mention">@rmannibucau</span>
                             <span class="mention">@TheASF</span>
-                            Are they better now?
-                            <div class="date">21:53:51 on 5 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@mraible</span>
-                            <span class="mention">@ApacheShiro</span>
-                            <span class="mention">@briandemers</span>
-                            <span class="mention">@TheASF</span>
-                            Yup, but at least we now have an article mentioning him on the feathercast.
-                            <br />
-                            <br />
-                            <a href="https://t.co/vlK1BDwxgi" class="link">shiro.apache.org/blog/2020/05/2…</a>
-                            <div class="date">21:53:31 on 5 May 2022</div>
+                            Thanks, will have another look! Works on my phone was not good enough 😅
+                            <div class="date">23:12:10 on 5 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2679,7 +2675,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 May 2022, 23:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 6 May 2022, 00:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
