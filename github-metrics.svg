@@ -474,19 +474,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@kitlangton</span>
-                            : A friendly Scala challenge for my clever followers
-                            <a href="https://t.co/WMnmOQmzUP" class="link">pic.twitter.com/WMnmOQmzUP</a>
-                            <div class="date">23:21:02 on 5 May 2022</div>
+                            <span class="mention">@arungupta</span>
+                            Did you try starting a Linux live distro? You might see some interesting information there.
+                            <div class="date">07:05:29 on 6 May 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@chongma</span>
-                            <span class="mention">@ApacheShiro</span>
-                            <span class="mention">@rmannibucau</span>
-                            <span class="mention">@TheASF</span>
-                            Thanks, will have another look! Works on my phone was not good enough 😅
-                            <div class="date">23:12:10 on 5 May 2022</div>
+                            <span class="mention">@SakuraTsubasa</span>
+                            ... and I always thought, it couldn't get worse than in Germany... 😅
+                            <div class="date">07:04:20 on 6 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2649,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 May 2022, 07:01:52 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 6 May 2022, 08:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
