@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3181" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3214" class="">
     <defs>
         <style/>
     </defs>
@@ -474,14 +474,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@nixcraft</span>
-                            Too bad they say they support Linux, but then they don't support proper CPU architectures Linux runs on. 🙄
-                            <div class="date">19:28:28 on 7 May 2022</div>
+                            How do you test your shell scripts which don't run on your PC but only on your server environment?
+                            <br />
+                            Do you have them in your CI/CD? Does it write junit files or similar?
+                            <div class="date">20:06:40 on 7 May 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@nixcraft</span>
-                            <a href="https://t.co/Qa36w4VtfA" class="link">github.com/Dr-Noob/cpufet…</a>
-                            <div class="date">19:19:04 on 7 May 2022</div>
+                            Too bad they say they support Linux, but then they don't support proper CPU architectures Linux runs on. 🙄
+                            <div class="date">19:28:28 on 7 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2643,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 May 2022, 20:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 7 May 2022, 21:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
