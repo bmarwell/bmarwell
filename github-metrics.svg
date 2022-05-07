@@ -90,7 +90,7 @@ Java/JavaEE dev s/ 2006 //
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2401 Commits
+                            2451 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -474,14 +474,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@LadyLiana1986</span>
+                            : Eine Kundin hat mir neulich am Telefon (!) gesagt, dass man einen kleinen Akzent hören würde, ich aber ansonsten ein ric…
+                            <div class="date">10:40:57 on 7 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@arungupta</span>
                             Did you try starting a Linux live distro? You might see some interesting information there.
                             <div class="date">07:05:29 on 6 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@SakuraTsubasa</span>
-                            ... and I always thought, it couldn't get worse than in Germany... 😅
-                            <div class="date">07:04:20 on 6 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2643,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 May 2022, 10:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 7 May 2022, 11:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
