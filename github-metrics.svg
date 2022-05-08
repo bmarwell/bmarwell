@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -109,13 +109,13 @@ Java/JavaEE dev s/ 2006 //
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            122 Issues opened
+                            123 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1322 issue comments
+                            1324 issue comments
                         </div>
                     </section>
                     <section>
@@ -474,17 +474,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@8bitsound</span>
+                            <span class="mention">@hiway</span>
+                            The FS I won't trust my data.
+                            <br />
+                            <br />
+                            <a href="https://t.co/qOIS9PurR9" class="link">serverfault.com/a/476293</a>
+                            <div class="date">13:25:06 on 8 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@joschi83</span>
                             Yup. That would make error handling and output easier. Need to check if we have it on AIX. And no additional modules
                             <br />
                             <br />
                             Other testing solutions in my mind: Docker, or fake test systems and create junit output or similar. 🤔
                             <div class="date">00:46:31 on 8 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@joschi83</span>
-                            Yes, I know bats. I could only use it for 2% of the code b/c it makes assumptions of the file system layout. But it might work, with some extra variables and setup. Is it worth it?
-                            <div class="date">23:43:21 on 7 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2661,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2022, 13:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 14:00:58 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
