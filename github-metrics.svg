@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3201" class="">
     <defs>
         <style/>
     </defs>
@@ -474,19 +474,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@heiseonline</span>
+                            : Antibiotika-Resistenzen: Neue Strategie gegen tödliche Krankenhauskeime
+                            <a href="https://t.co/4jfDeBOblm" class="link">heise.de/hintergrund/An…</a>
+                            <span class="hashtag">#AntibiotikaResistenzen</span>
+                            <span class="hashtag">#B…</span>
+                            <div class="date">08:12:47 on 9 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@joschi83</span>
                             Merci!
                             <div class="date">18:46:41 on 8 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@LadyLiana1986</span>
-                            : Ich verkaufe ein paar Spiele und Filme. Einfach melden, falls ihr interesse an etwas habt.
-                            <br />
-                            <br />
-                            RT erwünscht.
-                            <span class="hashtag">#FollowerPowe…</span>
-                            <div class="date">17:57:29 on 8 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2666,7 +2665,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2022, 08:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 9 May 2022, 09:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
