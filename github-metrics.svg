@@ -475,6 +475,18 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@rmannibucau</span>
+                            :
+                            <span class="mention">@jakartaee</span>
+                            <span class="hashtag">#jaxrs</span>
+                            <span class="hashtag">#sebootstrap</span>
+                            is an error since it duplicates launchers whereas youcan leverage
+                            <span class="hashtag">#cdi</span>
+                            by specifying its sc…
+                            <div class="date">08:18:33 on 12 May 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@IBMChampions</span>
                             : Meeting the
                             <span class="hashtag">#IBMChampion</span>
@@ -484,15 +496,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@bmarwell</span>
                             will be onstage soon! https://t.co…
                             <div class="date">19:31:10 on 10 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@heiseonline</span>
-                            : Antibiotika-Resistenzen: Neue Strategie gegen tödliche Krankenhauskeime
-                            <a href="https://t.co/4jfDeBOblm" class="link">heise.de/hintergrund/An…</a>
-                            <span class="hashtag">#AntibiotikaResistenzen</span>
-                            <span class="hashtag">#B…</span>
-                            <div class="date">08:12:47 on 9 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2402,7 +2405,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 139k out of 305m repositories</span>
+                                    <span class="gh">ranked 139k out of 306m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 217 stars</div>
                             </div>
@@ -2564,7 +2567,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.72m out of 305m repositories</span>
+                                    <span class="gh">ranked 1.72m out of 306m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2681,7 +2684,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2022, 08:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 12 May 2022, 09:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
