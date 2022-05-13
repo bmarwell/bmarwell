@@ -2042,7 +2042,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 110k out of 90m users</span>
+                                    <span class="gh">ranked 111k out of 90m users</span>
                                 </div>
                                 <div class="text">Published 109 public repositories</div>
                             </div>
@@ -2645,7 +2645,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2022, 02:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 03:28:53 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
