@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
     <defs>
         <style/>
     </defs>
@@ -474,6 +474,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@AdamBien</span>
+                            Why &lt;groupId&gt;org.glassfish&lt;/groupId&gt; and not the Jakarta ones?
+                            <br />
+                            <br />
+                            <a href="https://t.co/7q8xYwnUor" class="link">search.maven.org/artifact/jakar…</a>
+                            <div class="date">19:50:34 on 13 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@GZabos</span>
                             :
@@ -485,12 +493,6 @@ Java/JavaEE dev s/ 2006 //
                             )
                             <a href="https://t.co/Js8nPgEsDZ" class="link">xs2a.sparkassen-hub.com/home</a>
                             <div class="date">15:25:21 on 13 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@nottycode</span>
-                            Oh yes! But I still wonder where I picked up the 3rd way of saying it...
-                            <a href="https://t.co/VEwHQ1qyDK" class="link">pic.twitter.com/VEwHQ1qyDK</a>
-                            <div class="date">07:18:01 on 13 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2065,7 +2067,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.42436687200549805 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2653,7 +2655,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2022, 19:07:42 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 13 May 2022, 20:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
