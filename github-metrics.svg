@@ -470,6 +470,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Herr_Rz</span>
+                            Oh Gott bin ich froh, dass ich keine Folien mehr bedrucken muss. Die klebten immer so im Laserdrucker...
+                            <div class="date">22:06:38 on 17 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@azmodude</span>
                             Ging.
                             <span class="hashtag">#IBMThink</span>
@@ -477,15 +482,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="hashtag">#Boston</span>
                             . Siehe retweets. 😉
                             <div class="date">15:37:51 on 17 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            I use
-                            <span class="hashtag">#jshell</span>
-                            to calculate my travel times. :)
-                            <br />
-                            Seems easy enough.
-                            <a href="https://t.co/jGCI0yzJnL" class="link">pic.twitter.com/jGCI0yzJnL</a>
-                            <div class="date">11:22:47 on 17 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2671,7 +2667,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 22:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 23:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
