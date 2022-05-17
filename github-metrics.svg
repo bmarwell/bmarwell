@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3218" class="">
     <defs>
         <style/>
     </defs>
@@ -470,6 +470,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            I use
+                            <span class="hashtag">#jshell</span>
+                            to calculate my travel times. :)
+                            <br />
+                            Seems easy enough.
+                            <a href="https://t.co/jGCI0yzJnL" class="link">pic.twitter.com/jGCI0yzJnL</a>
+                            <div class="date">11:22:47 on 17 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@ian__robinson</span>
                             :
@@ -478,14 +487,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="hashtag">#WebSphere</span>
                             breakout to see what's coming…
                             <div class="date">23:56:46 on 16 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <a href="https://t.co/AMTO4CJgqc" class="link">icr.io/appcafe/ibm-se…</a>
-                            <br />
-                            <br />
-                            GA and production ready. Sadly, no nice web interface.
-                            <a href="https://t.co/05280VvmVT" class="link">twitter.com/gunnarmorling/…</a>
-                            <div class="date">23:55:57 on 16 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2670,7 +2671,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 11:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 12:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
