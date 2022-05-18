@@ -470,17 +470,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@grobmeier</span>
+                            <a href="https://t.co/M4S26YBIm2" class="link">pic.twitter.com/M4S26YBIm2</a>
+                            <div class="date">22:59:38 on 18 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@rmannibucau</span>
                             In JS though, threading works different to my knowledge. Event based.
                             <br />
                             <br />
                             But I agree it would enable certain coding conventions. But sticking to what we already have to not confuse devs? 😅
                             <div class="date">21:55:54 on 18 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Ran an die Fässer! 😇
-                            <a href="https://t.co/ypVtAB3gYl" class="link">twitter.com/DLFNachrichten…</a>
-                            <div class="date">20:54:31 on 18 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2665,7 +2665,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2022, 22:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 18 May 2022, 23:01:21 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
