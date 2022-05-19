@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3251" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3234" class="">
     <defs>
         <style/>
     </defs>
@@ -470,17 +470,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@grobmeier</span>
-                            <a href="https://t.co/M4S26YBIm2" class="link">pic.twitter.com/M4S26YBIm2</a>
-                            <div class="date">22:59:38 on 18 May 2022</div>
+                            <span class="mention">@rmannibucau</span>
+                            ⬇️
+                            <a href="https://t.co/3qKJEy24vt" class="link">twitter.com/myfear/status/…</a>
+                            <div class="date">08:50:36 on 19 May 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@rmannibucau</span>
-                            In JS though, threading works different to my knowledge. Event based.
+                            I mean, if it comes, Brian Goetz
+                            <a href="https://t.co/FewdAhhx4K" class="link">et.al</a>
+                            . will have given it a lot of thought. Otherwise it would not have been implemented.
                             <br />
-                            <br />
-                            But I agree it would enable certain coding conventions. But sticking to what we already have to not confuse devs? 😅
-                            <div class="date">21:55:54 on 18 May 2022</div>
+                            So, let's just lean back and watch the show aka read the blog posts "state of Valhalla". 😉
+                            <div class="date">08:43:20 on 19 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2676,7 +2678,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 May 2022, 08:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 19 May 2022, 09:01:38 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
