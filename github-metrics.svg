@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3231" class="">
     <defs>
         <style/>
     </defs>
@@ -466,18 +466,24 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@jomoespe</span>
-                            <span class="mention">@vlad_mihalcea</span>
-                            <span class="mention">@myfear</span>
-                            Why 10, not 11 which is an LTS release?
-                            <div class="date">10:47:22 on 22 May 2022</div>
+                            <span class="mention">@MarcusBiel</span>
+                            Yup. Exactly.
+                            <br />
+                            <br />
+                            Question: you do watch in English, don't you?
+                            <div class="date">20:59:32 on 22 May 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@juanantoniobm</span>
-                            I would love to see results from Semeru, too! It's the only JVM which uses
-                            <span class="mention">@openj9</span>
-                            instead of hotspot.
-                            <div class="date">00:02:00 on 20 May 2022</div>
+                            RT
+                            <span class="mention">@casusebastian</span>
+                            : Liebe
+                            <span class="mention">@DB_Bahn</span>
+                            ,
+                            <br />
+                            trotz aller „Widrigkeiten“ im Alltag der DB. sitze ich oft in Euren Zügen.
+                            <br />
+                            Jetzt wollte ich eine Prämie…
+                            <div class="date">20:57:06 on 22 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2645,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2022, 20:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 21:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
