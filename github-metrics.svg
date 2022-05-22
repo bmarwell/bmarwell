@@ -466,24 +466,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@MarcusBiel</span>
-                            Yup. Exactly.
+                            <span class="mention">@hhariri</span>
+                            Oh? I'm not reading everything? I'd be interested to hear more.
                             <br />
                             <br />
-                            Question: you do watch in English, don't you?
-                            <div class="date">20:59:32 on 22 May 2022</div>
+                            (Read from Germany)
+                            <div class="date">22:00:20 on 22 May 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@casusebastian</span>
-                            : Liebe
-                            <span class="mention">@DB_Bahn</span>
-                            ,
-                            <br />
-                            trotz aller „Widrigkeiten“ im Alltag der DB. sitze ich oft in Euren Zügen.
-                            <br />
-                            Jetzt wollte ich eine Prämie…
-                            <div class="date">20:57:06 on 22 May 2022</div>
+                            <span class="mention">@MarcusBiel</span>
+                            I wouldn't go that far, but "recycling" actors again and again was not clever. Good entertainment, but the story arc left a lot of plot holes open. Average at best, but not necessarily "bs".
+                            <div class="date">21:52:08 on 22 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 May 2022, 21:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 22:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
