@@ -90,7 +90,7 @@ Java/JavaEE dev s/ 2006 //
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2170 Commits
+                            2464 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -466,18 +466,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@UroFuchs1</span>
+                            Digitalisierung in Deutschland. War das so verwunderlich?  😅
+                            <div class="date">08:08:10 on 23 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@bsideup</span>
                             <span class="mention">@omniprof</span>
                             <span class="mention">@normanmaurer</span>
                             <span class="mention">@forked_franz</span>
                             Oh right, sorry for mixing those up.
                             <div class="date">22:24:18 on 22 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@bsideup</span>
-                            <span class="mention">@omniprof</span>
-                            <a href="https://t.co/Unam93xRv4" class="link">twitter.com/myfear/status/…</a>
-                            <div class="date">22:03:55 on 22 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2652,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2022, 08:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 09:02:38 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
