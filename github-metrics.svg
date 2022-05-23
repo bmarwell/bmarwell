@@ -466,17 +466,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@sebastian_dra</span>
+                            : 85 jähriger Autofahrer Überfahrt 4 jährigen Jungen der sich im Straßenverkehr korrekt verhalten hat. Strafe für 85 Jähri…
+                            <div class="date">09:32:06 on 23 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@UroFuchs1</span>
                             Digitalisierung in Deutschland. War das so verwunderlich?  😅
                             <div class="date">08:08:10 on 23 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@bsideup</span>
-                            <span class="mention">@omniprof</span>
-                            <span class="mention">@normanmaurer</span>
-                            <span class="mention">@forked_franz</span>
-                            Oh right, sorry for mixing those up.
-                            <div class="date">22:24:18 on 22 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2649,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2022, 09:02:38 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 10:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
