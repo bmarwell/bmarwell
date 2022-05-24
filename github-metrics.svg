@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3198" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3181" class="">
     <defs>
         <style/>
     </defs>
@@ -466,17 +466,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            About to create a
+                            <span class="mention">@OpenLibertyIO</span>
+                            feature. Just the integration test is still missing and I hit a bug. But so often it's just a documentation nit. ☺️
+                            <div class="date">18:15:13 on 24 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@javinpaul</span>
                             No drawbacks like bytecode modification?
                             <div class="date">17:20:00 on 24 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@bagder</span>
-                            : Tell us about your views and curl usage in the curl survey:
-                            <a href="https://t.co/lJtkWgMMg3" class="link">daniel.haxx.se/blog/2022/05/1…</a>
-                            - because you are awesome and we need feedb…
-                            <div class="date">17:04:26 on 24 May 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2656,7 +2654,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2022, 18:03:57 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 24 May 2022, 19:06:11 (timezone Europe/Berlin) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
