@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3222" class="">
     <defs>
         <style/>
     </defs>
@@ -456,18 +456,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@lukaseder</span>
-                            Nah. Not risking tan lines shaped like my phone. 😛 Let's wait for someone else to come up with the answer.
-                            <div class="date">12:33:30 on 31 May 2022</div>
+                            <span class="mention">@GeoffreyDeSmet</span>
+                            <span class="mention">@giltene</span>
+                            Both not entirely true.
+                            <br />
+                            OpenJ9 also supports -Xverbose:class, and it output differs from hotspot VMs at times.
+                            <br />
+                            <br />
+                            Have you ever tried -Xfuture? OpenJ9 will more aggressively load classes due to checking, hotspot VMs will not.
+                            <br />
+                            <a href="https://t.co/L6M3OEK4TJ" class="link">eclipse.org/openj9/docs/cm…</a>
+                            <div class="date">12:27:25 on 1 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@bmarwell</span>
-                            :
-                            <span class="mention">@lukaseder</span>
-                            Sorry. No PC around here. 😇☀️🏖️
-                            <a href="https://t.co/StCjU5OjYo" class="link">pic.twitter.com/StCjU5OjYo</a>
-                            <div class="date">12:12:32 on 31 May 2022</div>
+                            <span class="mention">@tagir_valeev</span>
+                            The best think in No.2: you'd be peeking at the future! 😇
+                            <div class="date">12:16:36 on 1 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2652,7 +2656,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jun 2022, 12:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jun 2022, 13:02:32 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
