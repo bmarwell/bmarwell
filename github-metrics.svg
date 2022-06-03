@@ -456,15 +456,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@azmodude</span>
-                            <span class="mention">@sabrinaesaquino</span>
-                            <a href="https://t.co/Fbs2cytktb" class="link">pic.twitter.com/Fbs2cytktb</a>
-                            <div class="date">20:27:25 on 2 Jun 2022</div>
+                            <span class="mention">@der_GOGO</span>
+                            <span class="mention">@Spatzengepiepe</span>
+                            Gibt's bei mastodon.
+                            <div class="date">07:41:12 on 3 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            You deploy this Friday.
-                            <a href="https://t.co/QDl6wrKrgF" class="link">twitter.com/sabrinaesaquin…</a>
-                            <div class="date">20:23:54 on 2 Jun 2022</div>
+                            <span class="mention">@struberg</span>
+                            <span class="mention">@aalmiray</span>
+                            Oh yes, the forking invocation! 👍🏻
+                            <div class="date">07:36:37 on 3 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2628,7 +2629,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jun 2022, 07:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 Jun 2022, 08:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
