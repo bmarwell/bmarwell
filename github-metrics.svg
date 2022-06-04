@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
     <defs>
         <style/>
     </defs>
@@ -456,25 +456,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@CiesekSandra</span>
-                            : Offtopic: Danke an
-                            <span class="mention">@Katapultmagazin</span>
-                            für diese anschaulichen Grafiken. 🇺🇦
-                            <a href="https://t.co/iJHgl7WriX" class="link">katapult-magazin.de/de/artikel/125…</a>
-                            <div class="date">20:31:05 on 3 Jun 2022</div>
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@b0rk</span>
+                            Yup, switches to switch a year ago and did not regret it.
+                            <div class="date">09:23:05 on 4 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            Hallo
-                            <span class="mention">@heisec</span>
-                            , euer Potenzzeichen ist irgendwie verlustig gegangen im Artikel von
-                            <span class="mention">@hanno</span>
-                            's Primzahlen.
-                            <br />
-                            <br />
-                            a2 wird bei a=107 nicht 1072... 😉
-                            <a href="https://t.co/YPn7Z6or5E" class="link">pic.twitter.com/YPn7Z6or5E</a>
-                            <div class="date">20:25:38 on 3 Jun 2022</div>
+                            <span class="mention">@Fuchstool</span>
+                            Einer der wenigen Accounts, die nicht nur gemuted sondern richtig blockiert sind. Da hilft auch kein Fax. 😉
+                            <div class="date">09:22:04 on 4 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2637,7 +2627,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jun 2022, 09:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 4 Jun 2022, 10:00:59 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
