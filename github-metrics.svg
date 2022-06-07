@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3192" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3175" class="">
     <defs>
         <style/>
     </defs>
@@ -456,14 +456,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Ich habe übrigens mal eine Absage bekommen, weil der Vermieter mich in einem Orchester Posaune hat spielen sehen. Er meinte, irgendwie müsse man ja vorsortieren. Auch, wenn ich in der Wohnung nicht übe.
-                            <a href="https://t.co/fd8vQhK6lr" class="link">twitter.com/anwaltsgelaber…</a>
-                            <div class="date">17:47:36 on 7 Jun 2022</div>
+                            <span class="mention">@DJGummikuh</span>
+                            <span class="mention">@olithissen</span>
+                            Oh wie cool! 👍🏻
+                            <div class="date">20:34:35 on 7 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@lukaseder</span>
-                            Konsequenz heißt auch, Holzwege zu Ende zu gehen!
-                            <div class="date">14:38:12 on 7 Jun 2022</div>
+                            <span class="mention">@DJGummikuh</span>
+                            <span class="mention">@olithissen</span>
+                            Keine Ahnung was das ist. Für Kakao streuen?
+                            <br />
+                            <br />
+                            Die Sandalen sehen noch gut aus! Was letzte Preis? 😅
+                            <div class="date">20:19:26 on 7 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2649,7 +2654,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2022, 20:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 7 Jun 2022, 21:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
