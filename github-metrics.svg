@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3159" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3192" class="">
     <defs>
         <style/>
     </defs>
@@ -456,15 +456,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@julejopa</span>
+                            Aber immerhin halbwegs gesund 😅
+                            <br />
+                            <br />
+                            Merkt man beim EKG eigentlich, wenn jemand Situs inversus hat?
+                            <div class="date">13:22:01 on 11 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@akatztwit</span>
                             <span class="mention">@quarkswdr</span>
                             Das wurde aber vorher gebunden bei der Herstellung von Methanol. Ist es damit nicht neutral?
                             <div class="date">09:19:38 on 11 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@mthmulders</span>
-                            <a href="https://t.co/LI7C5pshNY" class="link">pic.twitter.com/LI7C5pshNY</a>
-                            <div class="date">09:15:30 on 11 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2633,7 +2636,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jun 2022, 13:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 14:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
