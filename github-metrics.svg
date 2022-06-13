@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3159" class="">
     <defs>
         <style/>
     </defs>
@@ -456,22 +456,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@TheDonRaab</span>
                             <span class="mention">@CoderGrammer</span>
                             <span class="mention">@tagir_valeev</span>
-                            I'd bet
-                            <span class="mention">@TheDonRaab</span>
-                            already has some work done.
-                            <div class="date">20:44:38 on 13 Jun 2022</div>
+                            I don't think
+                            <span class="mention">@CoderGrammer</span>
+                            was thinking of limiting such tests to the mentioned class.
+                            <div class="date">21:53:42 on 13 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            If you're in competition with a github integrated function, and your software does exactly the same thing, here's a free tip for you:
-                            <br />
-                            <br />
-                            Don't scare away your users with impolite comments. It *will* hurt your reputation and doesn't help sales.
-                            <br />
-                            <br />
-                            Just saying.
-                            <div class="date">20:39:28 on 13 Jun 2022</div>
+                            <span class="mention">@gunnarmorling</span>
+                            <a href="https://t.co/k0qBWVeKcZ" class="link">pic.twitter.com/k0qBWVeKcZ</a>
+                            <div class="date">21:30:30 on 13 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2435,7 +2431,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.346733668341708 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.125628140703519 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2455,7 +2451,7 @@ I have configured it like so:
                                     <span class="prefix"></span>
                                     Chatter
                                 </div>
-                                <div class="text">Participated in discussions 13 times</div>
+                                <div class="text">Participated in discussions 14 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2652,7 +2648,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jun 2022, 21:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Jun 2022, 22:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
