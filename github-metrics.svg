@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3292" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3242" class="">
     <defs>
         <style/>
     </defs>
@@ -456,25 +456,23 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            I always forget about unzip -o (overwrite WITHOUT PROMPT).
+                            <span class="mention">@pe_weha</span>
+                            Hä? Fährst du Automatik?
+                            <br />
+                            Links Kupplung, rechts vorne.
                             <br />
                             <br />
-                            And every few month I wonder, why my bash script hangs and does not continue.
+                            Und bei Oldtimer ist links doppelt:
                             <br />
+                            Links unten: Kupplung, Links oben: vorne, rechts: hinten.
                             <br />
-                            Yes, it is another
-                            <br />
-                            unzip -q /opt/ibm/wlp/...
-                            <br />
-                            <br />
-                            :(
-                            <div class="date">11:23:46 on 14 Jun 2022</div>
+                            Fuß: Kupplung 2.
+                            <div class="date">15:58:51 on 14 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@anaisbetts</span>
-                            <span class="mention">@ChelseyxLynn</span>
-                            Looks like the terminal was restarted without internet connection and no RTC. Classic!
-                            <div class="date">10:33:46 on 14 Jun 2022</div>
+                            <span class="mention">@pe_weha</span>
+                            Links vorne, rechts hinten. Ist das nicht normal, wenn man Leerlauf hat?
+                            <div class="date">15:22:32 on 14 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2660,7 +2658,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jun 2022, 15:12:09 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 14 Jun 2022, 16:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
