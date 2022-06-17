@@ -456,6 +456,12 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@simas_ch</span>
+                            <span class="mention">@JavaForumNord</span>
+                            Oh ich komme! 👋🏻 Schnell anmelden!
+                            <div class="date">20:50:04 on 17 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@khmarbaise</span>
                             <span class="mention">@thokuest</span>
                             <span class="mention">@lofidewanto</span>
@@ -464,13 +470,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="hashtag">#mvnd</span>
                             (maven Daemon)! It's like Gradle!
                             <div class="date">09:54:35 on 17 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@dsaezgil</span>
-                            : Ask for trees in your city 🌳
-                            <a href="https://t.co/GT2QcoAPb7" class="link">pic.twitter.com/GT2QcoAPb7</a>
-                            <div class="date">21:51:28 on 16 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2628,7 +2627,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jun 2022, 20:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 17 Jun 2022, 21:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
