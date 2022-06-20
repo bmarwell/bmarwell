@@ -456,20 +456,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@Telekom_hilft</span>
-                            <span class="mention">@Botoxnotfall</span>
-                            <span class="mention">@caillean41</span>
-                            <span class="mention">@Zalando</span>
-                            Hallo
-                            <span class="mention">@Telekom_hilft</span>
-                            , wie macht man das bei Magenta Mail war die Frage. Ist da was in Planung?
-                            <div class="date">13:35:36 on 20 Jun 2022</div>
+                            <span class="mention">@3muecken</span>
+                            <span class="mention">@farbenstau</span>
+                            Bitte ein rückwirkendes Fax von
+                            <span class="mention">@anwaltsgelaber</span>
+                            <div class="date">20:48:25 on 20 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@javahippie</span>
-                            Haha 🤣😂😂😂
-                            <a href="https://t.co/TGbLDQBpaq" class="link">pic.twitter.com/TGbLDQBpaq</a>
-                            <div class="date">23:26:26 on 19 Jun 2022</div>
+                            <span class="mention">@kerstinPe3</span>
+                            <span class="mention">@GeherRetep</span>
+                            VOR DEM ERSTEN KAFFEE!
+                            <a href="https://t.co/3ELbG3bGSo" class="link">pic.twitter.com/3ELbG3bGSo</a>
+                            <div class="date">20:41:35 on 20 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2644,7 +2642,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 20:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 21:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
