@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
     <defs>
         <style/>
     </defs>
@@ -456,15 +456,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@zowalla</span>
+                            <span class="mention">@EclipseCon</span>
+                            !
+                            <div class="date">23:46:15 on 20 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@hanno</span>
                             Gefühlt gibt's einfach für zu viele Sachen grundsätzlich zu wenig Empörung.
                             <div class="date">21:23:32 on 20 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@drguidoknapp</span>
-                            : 1996: Bundeskanzler Helmut Kohl reist nach Kiew. Zitat aus seiner Rede beim Staatsbankett: „Niemand könnte heute die Unab…
-                            <div class="date">21:16:48 on 20 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2639,7 +2639,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 23:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Jun 2022, 00:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
