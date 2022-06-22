@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
     <defs>
         <style/>
     </defs>
@@ -456,15 +456,25 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@jvz</span>
-                            Good Lord, who's using that? ksh99 all the way! We also need to support AIX! 😂
-                            <a href="https://t.co/GLUyGom9xn" class="link">pic.twitter.com/GLUyGom9xn</a>
-                            <div class="date">21:58:33 on 22 Jun 2022</div>
+                            <span class="mention">@DaliaShea</span>
+                            <span class="mention">@USPS</span>
+                            That would ALSO exclude all Spanish and Portuguese people, most of them have two surnames.
+                            <br />
+                            I wonder how they could miss it!
+                            <div class="date">22:56:16 on 22 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            No brew.
-                            <div class="date">20:27:15 on 22 Jun 2022</div>
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@octopress</span>
+                            <span class="mention">@GoHugoIO</span>
+                            Actually,
+                            <span class="mention">@briandemers</span>
+                            and
+                            <span class="mention">@fpapon2</span>
+                            did a lot of the content migration for Shiro.
+                            <br />
+                            And yes, I, too wrote a lot of Java to migrate my wordpress blog. 😁
+                            <div class="date">22:54:40 on 22 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2649,7 +2659,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jun 2022, 22:01:39 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Jun 2022, 23:01:01 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
