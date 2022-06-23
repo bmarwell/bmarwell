@@ -456,6 +456,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@brunoborges</span>
+                            <span class="mention">@DaliaShea</span>
+                            <span class="mention">@USPS</span>
+                            Oh I can relate. Haven't heard much of
+                            <span class="mention">@lukaseder</span>
+                            's middle name either. It's just hidden on some legal websites about his company. 😛
+                            <div class="date">14:05:08 on 23 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@khmarbaise</span>
                             <span class="mention">@jvz</span>
                             Maybe performance? I settled with shasum for now and can still switch to openssl.
@@ -464,14 +473,6 @@ Java/JavaEE dev s/ 2006 //
                             About my relationship with Perl though...
                             <a href="https://t.co/2SxwGjGlFX" class="link">pic.twitter.com/2SxwGjGlFX</a>
                             <div class="date">12:53:03 on 23 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@DaliaShea</span>
-                            <span class="mention">@USPS</span>
-                            That would ALSO exclude all Spanish and Portuguese people, most of them have two surnames.
-                            <br />
-                            I wonder how they could miss it!
-                            <div class="date">22:56:16 on 22 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2661,7 +2662,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jun 2022, 14:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 23 Jun 2022, 15:13:53 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
