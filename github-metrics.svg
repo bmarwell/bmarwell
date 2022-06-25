@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
     <defs>
         <style/>
     </defs>
@@ -458,19 +458,16 @@ Java/JavaEE dev s/ 2006 //
                         <div class="tweet">
                             <span class="mention">@mkarg</span>
                             <span class="mention">@khmarbaise</span>
-                            I did it for the jlink plugin. But only because it works only with a JDK9 or toolchain. I see no benefit in coding things twice.
+                            I wonder what would benefit the most. My gut says: maybe annotation processing and surefire (?).
                             <br />
-                            <br />
-                            Besides,
-                            <span class="mention">@khmarbaise</span>
-                            is the new chairman of maven.
-                            <div class="date">09:50:17 on 25 Jun 2022</div>
+                            I need to add: I usually use a dedicated execution for APT, and I use immutables and jpa metamodel.
+                            <div class="date">10:11:45 on 25 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@LibSocRants</span>
-                            <span class="mention">@Tantacrul</span>
-                            Good luck getting past Joachim. 😉
-                            <div class="date">09:07:40 on 25 Jun 2022</div>
+                            <span class="mention">@mkarg</span>
+                            <span class="mention">@khmarbaise</span>
+                            Oops, I mis-read "we should discuss with Robert". Hadn't had my morning coffee yet. 🙈
+                            <div class="date">10:07:19 on 25 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2633,7 +2630,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2022, 10:00:59 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jun 2022, 11:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
