@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
     <defs>
         <style/>
     </defs>
@@ -456,6 +456,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@alsargent</span>
+                            <span class="mention">@SateleShan5</span>
+                            <span class="mention">@SFMTA_Muni</span>
+                            That's good to know, and which is exactly why I asked! That implies the letter didn't reach you (legally spoken) before you returned, right?
+                            <div class="date">23:42:57 on 25 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@cowtowncoder</span>
                             Cannot believe this, your library is by far the most popular one! Maybe comment by
                             <span class="mention">@hboutemy</span>
@@ -463,11 +470,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@andrew_guibert</span>
                             ? Andrew was maintainer of yasson.
                             <div class="date">18:39:35 on 25 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            Never understood why running MacOS on excellent hardware is a thing. 🤷🏻‍♂️
-                            <div class="date">13:37:06 on 25 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2630,7 +2632,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2022, 23:01:20 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 26 Jun 2022, 00:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
