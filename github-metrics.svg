@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
     <defs>
         <style/>
     </defs>
@@ -456,16 +456,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@alsargent</span>
-                            <span class="mention">@SateleShan5</span>
-                            <span class="mention">@SFMTA_Muni</span>
-                            Not sure about the States, but at least in most European Countries you're expected to check your mail daily even when absent. That might mean asking your neighbours to check your mail. The letter is submitted the day after it reaches your house, no matter what.
-                            <div class="date">19:04:42 on 24 Jun 2022</div>
+                            RT
+                            <span class="mention">@FWWinterberg</span>
+                            : (S+) »20 Minuten in sozialer Umgebung«: Apple lädt Mitarbeiter zu Datenparty – um Gesichter zu scannen https://t.co/SHTrX…
+                            <div class="date">08:59:57 on 25 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@GZabos</span>
-                            St. Veit ist eine schöne Stadt! 😍
-                            <div class="date">17:00:44 on 24 Jun 2022</div>
+                            <span class="mention">@khmarbaise</span>
+                            Markdown. I converted everything to AsciiDoc. 😉
+                            <div class="date">08:53:59 on 25 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2344,7 +2343,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 140k out of 317m repositories</span>
+                                    <span class="gh">ranked 140k out of 318m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 218 stars</div>
                             </div>
@@ -2475,7 +2474,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.73m out of 317m repositories</span>
+                                    <span class="gh">ranked 1.74m out of 318m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2628,7 +2627,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2022, 08:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jun 2022, 09:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
