@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
     <defs>
         <style/>
     </defs>
@@ -456,17 +456,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@khmarbaise</span>
+                            Great to hear! Don't want to push you into anything. If Markdown works for you, that's totally fine!
+                            <div class="date">13:05:09 on 26 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Looked through
                             <span class="mention">@weirddalle</span>
                             and laughed Harder than I probably should 😁
                             <div class="date">10:06:59 on 26 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@alsargent</span>
-                            <span class="mention">@SateleShan5</span>
-                            <span class="mention">@SFMTA_Muni</span>
-                            That's good to know, and which is exactly why I asked! That implies the letter didn't reach you (legally spoken) before you returned, right?
-                            <div class="date">23:42:57 on 25 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2634,7 +2632,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jun 2022, 13:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 26 Jun 2022, 14:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
