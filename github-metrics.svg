@@ -456,17 +456,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Today's the day again where there are bloons on my profile page. 😅
+                            <a href="https://t.co/ggRtTxLfNo" class="link">pic.twitter.com/ggRtTxLfNo</a>
+                            <div class="date">06:38:04 on 27 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Raumzeitfalle</span>
                             <span class="mention">@gnupg</span>
                             Yes, I intentionally started with signing only. SCEA, Sign, Certificate, Encrypt, Authenticate.
                             <div class="date">20:57:24 on 26 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@quarkswdr</span>
-                            Hi
-                            <span class="mention">@quarkswdr</span>
-                            ! Danke, ist euch da versehentlich ein Link durchgerutscht? 😊
-                            <div class="date">20:23:29 on 26 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2641,7 +2639,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jun 2022, 06:20:16 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 27 Jun 2022, 07:09:58 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
