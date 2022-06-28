@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3222" class="">
     <defs>
         <style/>
     </defs>
@@ -456,17 +456,24 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Dankeschön allen, die hier oder woanders gratuliert haben! 😊
-                            <div class="date">11:19:44 on 28 Jun 2022</div>
+                            <span class="mention">@Edin_Citaku</span>
+                            <span class="mention">@khmarbaise</span>
+                            Type safety. You wouldn't want to pass List of lines where list of keywords are expected or vice versa.
+                            <div class="date">22:41:42 on 28 Jun 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@JamesKirkDev</span>
                             <span class="mention">@nipafx</span>
                             <span class="mention">@openj9</span>
-                            (pssst, I know that).
+                            Yes. Of course. My original intention was to make
+                            <span class="mention">@nipafx</span>
+                            aware of
+                            <span class="mention">@OpenJ9</span>
+                            so he includes it in his clarifications. That's all.
                             <br />
-                            I'd love to hear more about how hotspot and OpenJ9 are separated from OpenJDK and how they are built, developed and tested (not) together.
-                            <div class="date">07:27:25 on 28 Jun 2022</div>
+                            <br />
+                            ... I myself am a user of OpenJ9 for 8 years now. 😊 I want others to hear about it!
+                            <div class="date">22:35:09 on 28 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2646,7 +2653,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jun 2022, 22:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 28 Jun 2022, 23:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
