@@ -456,6 +456,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Read this Twitter thread between the Maven Chair and the language engineer. Learn from it..! ⬇️⬇️⬇️
+                            <a href="https://t.co/cffLdmZpaY" class="link">twitter.com/khmarbaise/sta…</a>
+                            <div class="date">07:53:28 on 29 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@CedricChampeau</span>
                             <span class="mention">@gradle</span>
                             <span class="mention">@webguy</span>
@@ -463,12 +468,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             It's good to have competitors to learn from. I guess, that works in both directions. 😉
                             <div class="date">23:39:21 on 28 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Edin_Citaku</span>
-                            <span class="mention">@khmarbaise</span>
-                            Type safety. You wouldn't want to pass List of lines where list of keywords are expected or vice versa.
-                            <div class="date">22:41:42 on 28 Jun 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2653,7 +2652,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2022, 07:09:55 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 29 Jun 2022, 08:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
