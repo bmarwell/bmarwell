@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
     <defs>
         <style/>
     </defs>
@@ -457,14 +457,15 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             <span class="mention">@brunoborges</span>
-                            You didn't notice one thing. I'm European and grew up using Celsius only. I don't use Fahrenheit. I'm just suggesting that Celsius is as arbitrary as any scale. 100° body temp is as valid as boiling water in arbitrary pressure. 🤷🏻‍♂️
-                            <div class="date">00:43:19 on 2 Jul 2022</div>
+                            Yes, that's why I created
+                            <span class="mention">@metricbot1</span>
+                            <div class="date">07:57:49 on 2 Jul 2022</div>
                         </div>
                         <div class="tweet">
+                            <span class="mention">@nottycode</span>
                             <span class="mention">@brunoborges</span>
-                            🤔
-                            <a href="https://t.co/0kpnFicOZR" class="link">pic.twitter.com/0kpnFicOZR</a>
-                            <div class="date">00:22:29 on 2 Jul 2022</div>
+                            I wish we had a duodecimal counting system and THEN metric. Wouldn't that be great? Best of both worlds!
+                            <div class="date">07:56:57 on 2 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2627,7 +2628,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2022, 07:04:14 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 08:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
