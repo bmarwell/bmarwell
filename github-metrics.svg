@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3122" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
     <defs>
         <style/>
     </defs>
@@ -452,15 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@ApacheShiro</span>
+                            : The Shiro team is pleased to announce the release of Apache Shiro version 1.9.1!
+                            <br />
+                            <br />
+                            More detail can be found on the release…
+                            <div class="date">13:06:05 on 3 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@GZabos</span>
                             <span class="hashtag">#Laibach</span>
                             😎
                             <div class="date">10:16:00 on 3 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@bisonfute</span>
-                            Mal gucken, wie es noch wird 😁
-                            <div class="date">10:15:09 on 3 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2628,7 +2632,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jul 2022, 13:01:43 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 14:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
