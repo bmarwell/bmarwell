@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
     <defs>
         <style/>
     </defs>
@@ -452,17 +452,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@ashleygjovik</span>
-                            : Before my Apple whistleblower saga, I became an environmental whistleblower in 2020 when I exposed that toxic waste under…
-                            <div class="date">12:56:37 on 7 Jul 2022</div>
+                            <span class="mention">@kepuexe</span>
+                            <span class="mention">@vsg_DE</span>
+                            Übrigens sind viele Spiele auch inzwischen OpenSource erhältlich. Zumindest die Engine. OpenRA etwa. 😊
+                            <div class="date">21:27:18 on 7 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            Mentioning
-                            <span class="mention">@v_language</span>
-                            <span class="mention">@vala_lang</span>
-                            . 🤔 No one has compared the both of you yet! 😱
-                            <div class="date">20:31:48 on 5 Jul 2022</div>
+                            <span class="mention">@kepuexe</span>
+                            <span class="mention">@vsg_DE</span>
+                            Oh, als 1994er hast du echt was verpasst! Wir haben mit 14 mit einem Hex-Editor versucht, die Beschränkung zu umgehen. Oft wenig erfolgreich. Ich weiß noch, wie ich Hefte wegen der SW-Programme auf CD gekauft habe.
+                            <div class="date">21:26:37 on 7 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2652,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jul 2022, 21:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 7 Jul 2022, 22:01:32 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
