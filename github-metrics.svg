@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
     <defs>
         <style/>
     </defs>
@@ -452,15 +452,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@DLFNachrichten</span>
+                            Hallo
+                            <span class="mention">@DLFNachrichten</span>
+                            . Soweit ich weiß, fallen Züge mit mehr als 120 Minuten Verspätung in die Kategorie "ausgefallen" und werden daher nicht als verspätet gezählt. Das könntet ihr gerne noch erwähnen.
+                            <div class="date">16:55:42 on 8 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@8bitsound</span>
                             I just have away a pine64. They're not too expensive...
                             <div class="date">13:47:08 on 8 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@kepuexe</span>
-                            <span class="mention">@vsg_DE</span>
-                            Übrigens sind viele Spiele auch inzwischen OpenSource erhältlich. Zumindest die Engine. OpenRA etwa. 😊
-                            <div class="date">21:27:18 on 7 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2618,7 +2619,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jul 2022, 16:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 8 Jul 2022, 17:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
