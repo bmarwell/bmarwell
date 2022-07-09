@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
     <defs>
         <style/>
     </defs>
@@ -453,13 +453,13 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             <span class="mention">@grobmeier</span>
-                            Luckily, they usually get much better meat compared to 2010. With better I mean better treatment of animals and better food and less drugs.
-                            <div class="date">20:28:45 on 9 Jul 2022</div>
+                            I see. I blame it on the income gap. The wealthiest do not need to change their lifestyle as much as money matters. Which in turn is not good for the environment.
+                            <div class="date">22:29:56 on 9 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@KinderdocNina</span>
-                            Gerne Link zum Originaltweet 😊
-                            <div class="date">14:58:41 on 9 Jul 2022</div>
+                            <span class="mention">@grobmeier</span>
+                            Luckily, they usually get much better meat compared to 2010. With better I mean better treatment of animals and better food and less drugs.
+                            <div class="date">20:28:45 on 9 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2622,7 +2622,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2022, 22:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 23:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
