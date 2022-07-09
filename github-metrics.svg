@@ -452,15 +452,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@grobmeier</span>
+                            Luckily, they usually get much better meat compared to 2010. With better I mean better treatment of animals and better food and less drugs.
+                            <div class="date">20:28:45 on 9 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@KinderdocNina</span>
                             Gerne Link zum Originaltweet 😊
                             <div class="date">14:58:41 on 9 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@wimdeblauwe</span>
-                            <span class="mention">@GoHugoIO</span>
-                            That said, I only used it because of Java, Freemarker and AsciiDoc. I'm not happy with jbake itself.
-                            <div class="date">14:45:44 on 9 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2623,7 +2622,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jul 2022, 20:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 21:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
