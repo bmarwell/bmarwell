@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3222" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3239" class="">
     <defs>
         <style/>
     </defs>
@@ -452,6 +452,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Danke liebe
+                            <span class="mention">@DieTechniker</span>
+                            , dass ihr krank sein so belohnt. Aber jetzt weiß ich endlich, dass grippale Infekte haben einfach nur faul sein ist.
+                            <a href="https://t.co/5IGHpZ24o8" class="link">pic.twitter.com/5IGHpZ24o8</a>
+                            <div class="date">11:09:43 on 11 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@Franticpixel</span>
                             <span class="mention">@RyderDesignS8</span>
                             But he points out exactly, what choices makes this a poor design. For my reading, he just appends his personal overall &amp; professional opinion. That's okay!
@@ -459,12 +466,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Also bear in mind, Germans are very direct. That's not as disrespectful as in UK/US.
                             <div class="date">19:18:10 on 10 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@RyderDesignS8</span>
-                            : Some fairly disrespectful &amp; some distasteful comments in this thread (both sides). He’s out spoken – always has been – b…
-                            <div class="date">19:15:56 on 10 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2639,7 +2640,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Jul 2022, 11:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 11 Jul 2022, 12:01:37 (timezone Europe/Berlin) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
