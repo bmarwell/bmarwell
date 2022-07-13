@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3175" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3225" class="">
     <defs>
         <style/>
     </defs>
@@ -452,14 +452,24 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@kepuexe</span>
-                            Ja, ich bearbeite 1x im Jahr Videos und sitze dann auch immer wie der Ochs vorm Berg. 😂
-                            <div class="date">20:57:35 on 13 Jul 2022</div>
+                            <span class="mention">@omniprof</span>
+                            <span class="mention">@brunoborges</span>
+                            <span class="mention">@aalmiray</span>
+                            <span class="mention">@ASFMavenProject</span>
+                            <span class="mention">@netbeans</span>
+                            You meant "one of the reasons I use any IDE", probably. AFAICT all major IDEs and editors do support this.
+                            <div class="date">22:38:10 on 13 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@kepuexe</span>
-                            Warum Magix? Linux+Kdenlive und los. 😁 Gibt auch andere brauchbare Software. Läuft aber oft nur auf Linux.
-                            <div class="date">20:54:16 on 13 Jul 2022</div>
+                            <span class="mention">@brunoborges</span>
+                            <span class="mention">@aalmiray</span>
+                            <span class="mention">@ASFMavenProject</span>
+                            There's a plugin by
+                            <span class="mention">@georgberky</span>
+                            for this.
+                            <br />
+                            I think it's similar (but not entirely) to the version:show-xyz-updates where xyz := { plugin, dependency}.
+                            <div class="date">22:37:03 on 13 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2660,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2022, 22:01:32 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 23:01:17 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
