@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3175" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3159" class="">
     <defs>
         <style/>
     </defs>
@@ -453,17 +453,18 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@janskudlarek</span>
+                            :
+                            <a href="https://t.co/76XuTfFzZa" class="link">pic.twitter.com/76XuTfFzZa</a>
+                            <div class="date">07:31:52 on 13 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@LadyLiana1986</span>
                             : Arbeitskollegin hatte sich einen gehäkelten Purple aus
                             <span class="hashtag">#DayOfTheTentacle</span>
                             gewünscht. Und somit habe ich Wolle und Häkelna…
                             <div class="date">19:05:45 on 12 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@NASAWebb</span>
-                            : 👀 Sneak a peek at the deepest &amp; sharpest infrared image of the early universe ever taken — all in a day’s work for the Webb t…
-                            <div class="date">00:30:29 on 12 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2654,7 +2655,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2022, 07:05:02 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Jul 2022, 08:01:53 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
