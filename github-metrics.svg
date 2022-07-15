@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3209" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3175" class="">
     <defs>
         <style/>
     </defs>
@@ -452,17 +452,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@TheCrazyDogLady</span>
-                            Sure! Would love to contribute in any way!
-                            <div class="date">17:42:32 on 15 Jul 2022</div>
+                            <span class="mention">@JulianKlode</span>
+                            How do you pronounce "sHöhe"? 😮
+                            <div class="date">19:49:06 on 15 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@TheCrazyDogLady</span>
-                            Yes, if course I do! I just consider it a regression, because my build gets flooded in a way that it takes considerably longer. I'd thought such issues had higher priority.
-                            <br />
-                            <br />
-                            Anyway, keep up the good work! 👍🏻👋🏻
-                            <div class="date">16:50:55 on 15 Jul 2022</div>
+                            On second thought, it was not very clever to phrase it like this. But I love when a discussion turns out in a way that we can contribute (even if only by adding more information to a bug report).
+                            <a href="https://t.co/Pshvdr3Jj2" class="link">twitter.com/bmarwell/statu…</a>
+                            <div class="date">19:38:15 on 15 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2038,7 +2035,7 @@ I have configured it like so:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5941136208076863 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.6789869952087528 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2626,7 +2623,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2022, 19:06:47 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 20:01:03 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
