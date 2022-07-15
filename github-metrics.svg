@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3192" class="">
     <defs>
         <style/>
     </defs>
@@ -452,27 +452,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@brunoborges</span>
-                            <span class="mention">@aalmiray</span>
-                            <span class="mention">@ASFMavenProject</span>
-                            <span class="mention">@georgberky</span>
-                            <span class="mention">@brunoborges</span>
-                            isn't this what
-                            <span class="mention">@lukaseder</span>
-                            suggested but as CLI?
-                            <br />
-                            <br />
-                            <a href="https://t.co/Nb0l0HnYT5" class="link">github.com/georgberky/dep…</a>
-                            <div class="date">07:04:01 on 14 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
                             <span class="mention">@omniprof</span>
                             <span class="mention">@brunoborges</span>
                             <span class="mention">@aalmiray</span>
                             <span class="mention">@ASFMavenProject</span>
                             <span class="mention">@netbeans</span>
-                            You meant "one of the reasons I use any IDE", probably. AFAICT all major IDEs and editors do support this.
-                            <div class="date">22:38:10 on 13 Jul 2022</div>
+                            I'm not sure though it qualifies. He's asking for a CLI tool. Even if "code . --update-maven-versions" worked, I can hardly see us installing an IDE + plugins just for this action.
+                            <div class="date">07:47:42 on 15 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@javinpaul</span>
+                            Is there a higher quality version?
+                            <div class="date">07:33:19 on 15 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2636,7 +2627,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2022, 07:25:33 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 15 Jul 2022, 08:01:39 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
