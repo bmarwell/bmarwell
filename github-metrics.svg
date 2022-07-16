@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3192" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3209" class="">
     <defs>
         <style/>
     </defs>
@@ -452,18 +452,25 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@garybernhardt</span>
-                            : No company that I've owned has ever worked with PayPal. This is a great example of why. There are endless stories like t…
-                            <div class="date">19:02:16 on 16 Jul 2022</div>
+                            <span class="mention">@thepwnicorn</span>
+                            <span class="mention">@AkuokoBrandon</span>
+                            <span class="mention">@j_opdenakker</span>
+                            Depends on salting.
+                            <br />
+                            <br />
+                            ...
+                            <br />
+                            <br />
+                            ... Just kidding. Don't do it.
+                            <div class="date">22:34:01 on 16 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@grobmeier</span>
-                            Picked for you!
-                            <br />
-                            <br />
-                            <a href="https://t.co/grnnuMV4t1" class="link">twitter.com/ProfFeynman/st…</a>
-                            <div class="date">23:43:29 on 15 Jul 2022</div>
+                            <span class="mention">@svblxyz</span>
+                            <span class="mention">@j_opdenakker</span>
+                            That's also the password of
+                            <span class="mention">@FakeUnicode</span>
+                            !
+                            <div class="date">22:32:57 on 16 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2632,7 +2639,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jul 2022, 22:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 16 Jul 2022, 23:01:00 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
