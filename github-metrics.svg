@@ -452,16 +452,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@shipilev</span>
-                            <a href="https://t.co/lV8OsFn5vC" class="link">pic.twitter.com/lV8OsFn5vC</a>
-                            <div class="date">19:12:08 on 17 Jul 2022</div>
+                            <span class="mention">@EM_RESUS</span>
+                            <span class="mention">@RemindMe_OfThis</span>
+                            in 24 hours
+                            <div class="date">20:52:18 on 17 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            Does anyone know a Linux distribution where I can compile in arbitrary fixes into arbitrary programs?
+                            <span class="mention">@htmleverything</span>
+                            first app is always paru so I can install packages from AUR easily. IntelliJ,
+                            <span class="mention">@sdkman_</span>
+                            ,
+                            <span class="mention">@musescore</span>
+                            .
                             <br />
-                            Possibly no updates in months. Needs to be easy.
-                            <a href="https://t.co/BpzKCywcVf" class="link">twitter.com/bmarwell/statu…</a>
-                            <div class="date">15:52:01 on 17 Jul 2022</div>
+                            <br />
+                            Oh wait, you meant HW upgrade, not OS upgrade to Linux? 😛
+                            <div class="date">20:39:27 on 17 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2629,7 +2635,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jul 2022, 20:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 17 Jul 2022, 21:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
