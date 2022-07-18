@@ -452,16 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@PR0GRAMMERHUM0R</span>
+                            : Finally wrote "Hello world" in JavaScript. Want to tell me assembly is harder?
+                            <a href="https://t.co/JSTedkIPwK" class="link">reddit.com/r/programmerhu…</a>
+                            https://t.co/sC…
+                            <div class="date">17:53:02 on 18 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             Warum ich Menschen hasse, Folge
                             <span class="hashtag">#368953358</span>
                             ...
                             <a href="https://t.co/28EX78mZ2s" class="link">twitter.com/chaosundkater/…</a>
                             <div class="date">10:24:28 on 18 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@ashleygjovik</span>
-                            Now that you mention it, there definitely should be a Twitter account about lady birds as well! 🐞🐞🐞+🐣🐤🐥🦆
-                            <div class="date">23:40:20 on 17 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2636,7 +2639,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jul 2022, 17:06:29 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 18 Jul 2022, 18:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
