@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3239" class="">
     <defs>
         <style/>
     </defs>
@@ -452,16 +452,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@BoxenIude</span>
+                            <span class="mention">@Nell781</span>
+                            Das geht gerade rum auf Twitter.
+                            <br />
+                            Eigentlich teile ich ja nichts mit solcher Wortwahl, aber der Thread darunter ist durchaus lesenswert. 😁
+                            <br />
+                            <br />
+                            <a href="https://t.co/YDKtBfHVlI" class="link">twitter.com/temberaubend/s…</a>
+                            <div class="date">20:35:15 on 18 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@purijatin7</span>
                             <span class="mention">@brunoborges</span>
                             Give ita try. I've been a Maven user since ~2011 and I never had any issues. Use sdkman, homebrew, or manual installation. But you will have two settings.xml files. One in your user directory, another one from the installation (which is basically empty).
                             <div class="date">18:45:06 on 18 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@mthmulders</span>
-                            <span class="mention">@brunoborges</span>
-                            Yes, wrapper is OBVIOUSLY missing! But I use sdkman for bootstrapping.
-                            <div class="date">18:42:54 on 18 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2636,7 +2641,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jul 2022, 20:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 18 Jul 2022, 21:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
