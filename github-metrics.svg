@@ -452,16 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@rotnroll666</span>
+                            Dear
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@rfscholte</span>
+                            what is the intended behaviour? Should plugins use slf4j or the `getLogger()` Logger? Nothing is mentioned on maven.a.o.
+                            <div class="date">09:19:30 on 20 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@xstefank</span>
                             <span class="mention">@ASFMavenProject</span>
                             <a href="https://t.co/iRzNKex2nf" class="link">github.com/jcgay/maven-pr…</a>
                             <div class="date">07:18:29 on 20 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@rotnroll666</span>
-                            Hiding stuff. We had multiple discussions on slack and and the mailing list whether to use Maven logger or slf4j directly. If slf4j was hidden, it would be clear.
-                            <div class="date">07:09:27 on 20 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2652,7 +2655,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jul 2022, 09:01:21 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 10:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
