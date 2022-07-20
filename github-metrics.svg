@@ -452,18 +452,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@JFabianMeier</span>
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@rfscholte</span>
+                            <span class="mention">@Yupiik</span>
+                            There are companies with policies that demand support for everything you use. In such a case, ask in one of the above.
+                            <div class="date">07:07:24 on 20 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@rotnroll666</span>
                             <span class="mention">@khmarbaise</span>
                             Will maven 4 even be modularized? Imagine you could just not export entire packages...
                             <div class="date">20:33:19 on 19 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Yuriy_Artamonov</span>
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@rfscholte</span>
-                            <span class="mention">@Yupiik</span>
-                            I cannot believe this is seriously cheaper than upgrading. It might be, but I really don't understand the reasoning.
-                            <div class="date">20:32:10 on 19 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2654,7 +2654,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jul 2022, 06:14:49 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 07:08:33 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
