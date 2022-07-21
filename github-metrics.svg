@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3175" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3159" class="">
     <defs>
         <style/>
     </defs>
@@ -452,21 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            I unlocked Pair Extraordinaire on
-                            <span class="mention">@github</span>
-                            with
-                            <span class="mention">@rmannibucau</span>
-                            !
-                            <a href="https://t.co/WlwAJGQPh9" class="link">github.com/users/bmarwell…</a>
-                            <div class="date">20:07:02 on 20 Jul 2022</div>
+                            <span class="mention">@hot_girl_spring</span>
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@ASFMavenProject</span>
+                            <span class="mention">@gradle</span>
+                            <span class="mention">@CedricChampeau</span>
+                            👋🏻
+                            <div class="date">06:53:46 on 21 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@haddii</span>
-                            <span class="mention">@khmarbaise</span>
-                            Die sind auch hier auf Twitter!
-                            <span class="mention">@sdkman_</span>
-                            . Ich nutze selbst nur noch mvnw und mvnd, kaum noch das "normale" Maven...
-                            <div class="date">19:47:20 on 20 Jul 2022</div>
+                            <span class="mention">@timtoks</span>
+                            <span class="mention">@hot_girl_spring</span>
+                            Not at all! We'd love to help!
+                            <div class="date">06:52:40 on 21 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2662,7 +2660,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2022, 06:14:41 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 07:11:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
