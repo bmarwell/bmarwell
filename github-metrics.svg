@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3209" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3259" class="">
     <defs>
         <style/>
     </defs>
@@ -452,25 +452,23 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@rmannibucau</span>
-                            <span class="mention">@tedneward</span>
-                            The YAML spec is 23,449 words; for comparison, TOML is 3,339 words, JSON is 1,969 words, and XML is 20,603 words.
+                            🍿 Grab your popcorn and watch JVM devs wonder about the German language (and a local drug stores). I love it!
                             <br />
                             <br />
-                            But big +1 for native schema support.
-                            <div class="date">19:44:28 on 22 Jul 2022</div>
+                            ⬇️⬇️⬇️
+                            <br />
+                            <br />
+                            <a href="https://t.co/Umv3ihx1wy" class="link">twitter.com/BrianGoetz/sta…</a>
+                            <div class="date">21:40:27 on 22 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@_patlego</span>
-                            :
-                            <span class="mention">@bmarwell</span>
-                            <span class="mention">@rmannibucau</span>
-                            <span class="mention">@ApacheJohnzon</span>
-                            I have nothing but positive things to say about
-                            <span class="mention">@rmannibucau</span>
-                            . Answered all my questions…
-                            <div class="date">17:45:29 on 22 Jul 2022</div>
+                            <span class="mention">@RealNeilC</span>
+                            <span class="mention">@crichardson</span>
+                            <span class="mention">@tedneward</span>
+                            Nice! Like HOCON without the complicated stuff!
+                            <br />
+                            Let's write a Java library for thisñ
+                            <div class="date">21:13:42 on 22 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2634,7 +2632,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Jul 2022, 21:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 22:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
