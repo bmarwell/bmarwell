@@ -452,14 +452,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@kepuexe</span>
+                            <span class="mention">@BluemanSL</span>
+                            PCMCIA = People cannot memorize computer industry acronyms
+                            <div class="date">21:42:09 on 23 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@LeaRosema</span>
                             No it's not devaluation. I consider it a 🔝 important markup language. But it's not touring complete. There is nothing wrong with markup languages, so no devaluation. I don't consider myself less valuable bc I consider a part of my frontend creating markup. You shouldn't either.
                             <div class="date">20:54:38 on 23 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            Nothing. Truth just has nicer messages and fewer methods to choose from (without actually missing anything), so it's more uniform.
-                            <div class="date">17:56:53 on 23 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2622,7 +2623,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jul 2022, 21:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 22:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
