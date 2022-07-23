@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3205" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
     <defs>
         <style/>
     </defs>
@@ -84,7 +84,7 @@ Java/JavaEE dev s/ 2006 //
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2535 Commits
+                            2537 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -452,18 +452,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@helpermethod</span>
+                            Nothing. Truth just has nicer messages and fewer methods to choose from (without actually missing anything), so it's more uniform.
+                            <div class="date">17:56:53 on 23 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             Hint. I decided to not use
                             <a href="https://t.co/7h8AwmkucA" class="link">truth.dev</a>
                             , as it is maintained by Google and it is sometimes hard to get a PR in they don't need. It's an excellent alternative, otherwise.
                             <a href="https://t.co/v6BNZPlCS3" class="link">twitter.com/bmarwell/statu…</a>
                             <div class="date">16:33:46 on 23 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@lofidewanto</span>
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@baldram</span>
-                            Depends. I mostly create stubs, not (verified) mocks. You have the choice between "watch changed behaviour fail your unit tests" (mocks) or "ignore changed behaviour as long as the output is right" (stubs).
-                            <div class="date">15:08:55 on 23 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2626,7 +2624,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jul 2022, 17:01:36 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 18:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
