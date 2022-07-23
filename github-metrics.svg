@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3205" class="">
     <defs>
         <style/>
     </defs>
@@ -452,6 +452,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@baldram</span>
+                            Wow. I'm happy I removed powermock and hamcrest from all code bases...
+                            <div class="date">11:14:33 on 23 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@pharmaren</span>
                             <span class="mention">@DB_Bahn</span>
                             Als Arbeitnehmer wird einem gesagt "nimm eine Bahn früher". Bei mir war das damals 1h.
@@ -459,11 +464,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Die Bahn ist echt das Beste Argument aufs Auto umzusteigen. War leider schon immer so.
                             <div class="date">08:17:56 on 23 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@kepuexe</span>
-                            Welcome to the matrix 😎
-                            <div class="date">00:24:32 on 23 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2626,7 +2626,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Jul 2022, 11:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 12:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
