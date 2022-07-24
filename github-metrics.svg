@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3139" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
     <defs>
         <style/>
     </defs>
@@ -452,16 +452,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@kepuexe</span>
-                            Vielleicht hat der Akku ja die Form einer Flagge 🙄
-                            <div class="date">19:48:26 on 24 Jul 2022</div>
+                            <span class="mention">@ashleygjovik</span>
+                            <span class="mention">@lgeurts</span>
+                            That's why "Breaking Bad" didn't work well in Europe.
+                            <br />
+                            Hope to see you around here sooner than later!
+                            <div class="date">22:24:30 on 24 Jul 2022</div>
                         </div>
                         <div class="tweet">
+                            <span class="mention">@BrianGoetz</span>
                             <span class="mention">@brunoborges</span>
-                            Maybe abuse something loaded early. E.g.
-                            <a href="https://t.co/zLmvspR6hW" class="link">java.net</a>
-                            .spi.InetAddressResolverProvider from Java 18.
-                            <div class="date">19:17:30 on 24 Jul 2022</div>
+                            <span class="mention">@PeterLawrey</span>
+                            And yet it is possible... Will look though more JDK native service loaders soon. 😉
+                            <br />
+                            <br />
+                            <a href="https://t.co/dKwwjBVkvZ" class="link">twitter.com/bmarwell/statu…</a>
+                            <div class="date">22:12:41 on 24 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2629,7 +2635,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2022, 22:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 23:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
