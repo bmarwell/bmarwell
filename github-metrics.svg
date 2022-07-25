@@ -452,19 +452,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Guess what. Some people do!
-                            <a href="https://t.co/dfK2m7N17j" class="link">twitter.com/jimmymcarthur/…</a>
-                            <div class="date">09:35:08 on 25 Jul 2022</div>
+                            <span class="mention">@helpermethod</span>
+                            <span class="mention">@schneider_chris</span>
+                            <span class="mention">@skohlmann</span>
+                            <span class="mention">@khmarbaise</span>
+                            YAGNI vs lose Kopplung.
+                            <div class="date">18:47:15 on 25 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@brunoborges</span>
-                            <span class="mention">@BrianGoetz</span>
-                            <span class="mention">@PeterLawrey</span>
-                            That provider class is being loaded by the JDK for the first DNS Name resolution.
+                            "Müller gab zu bedenken, dass die Füllstände in vielen Nachbarländern niedriger seien."
                             <br />
                             <br />
-                            You should be able to set some properties, or do some reflection stuff, right? Or write a file somewhere... Now that the security manager goes away even more so.
-                            <div class="date">06:35:16 on 25 Jul 2022</div>
+                            Äh, und? Die sind auch nicht so abhängig vom Gas wie wir. Außer zB Ungarn.
+                            <a href="https://t.co/0tPXS1ei9s" class="link">twitter.com/DLFNachrichten…</a>
+                            <div class="date">18:45:04 on 25 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2645,7 +2646,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jul 2022, 18:01:20 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 19:05:26 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
