@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3275" class="">
     <defs>
         <style/>
     </defs>
@@ -452,18 +452,27 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            Unbedingt Vorfahrt in der Engstelle erzwingen um 3s zu sparen.
+                            Made my day. Not.
                             <br />
                             <br />
-                            Aber zum Aussteigen, Schimpfen und sogar verfolgen hat er dann doch noch Zeit. 🤷🏻‍♂️
-                            <div class="date">07:53:12 on 26 Jul 2022</div>
+                            if [ "$(uname)" = "AIX" ]; then
+                            <br />
+                            # AIX
+                            <br />
+                            export LANG=en_US.UTF-8
+                            <br />
+                            else
+                            <br />
+                            # Linux
+                            <br />
+                            export LANG=en_US.utf8
+                            <br />
+                            fi
+                            <div class="date">08:51:37 on 26 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            Autofahrer erzwingt Vorfahrt an Engstelle. Ich schüttel den Kopf. Er schimpft und verfolgt mich. Bis zum Firmengelände. Steigt sogar aus und will zu Fuß weiter und schimpft noch mehr.
-                            <br />
-                            <br />
-                            Genug für heute. Ich will nicht mehr.
-                            <div class="date">07:52:09 on 26 Jul 2022</div>
+                            Die Dashcam hätte ich lieber fürs Fahrrad bestellen sollen. 🤔
+                            <div class="date">08:13:36 on 26 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2649,7 +2658,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2022, 08:02:23 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 09:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
