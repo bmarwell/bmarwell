@@ -452,6 +452,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <a href="https://t.co/6eaG3PSwxx" class="link">pic.twitter.com/6eaG3PSwxx</a>
+                            <a href="https://t.co/GKPOv1KQk9" class="link">twitter.com/LadyLiana1986/…</a>
+                            <div class="date">12:12:53 on 26 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             Made my day. Not.
                             <br />
                             <br />
@@ -469,10 +474,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             fi
                             <div class="date">08:51:37 on 26 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Die Dashcam hätte ich lieber fürs Fahrrad bestellen sollen. 🤔
-                            <div class="date">08:13:36 on 26 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2658,7 +2659,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jul 2022, 12:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 13:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
