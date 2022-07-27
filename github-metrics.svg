@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3225" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3259" class="">
     <defs>
         <style/>
     </defs>
@@ -452,21 +452,26 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@drguidoknapp</span>
-                            : 1964: Der US-Sanitätsinspekteur präsentiert eine Studie, die zeigt, dass Rauchen Lungenkrebs verursacht. Beim
-                            <span class="mention">@DerSPIEGEL</span>
-                            …
-                            <div class="date">22:01:56 on 26 Jul 2022</div>
+                            Interessante Werbung bei
+                            <span class="mention">@Kachelmannwettr</span>
+                            <br />
+                            <br />
+                            Ist nicht schlimm, aber mal eine nette Abwechslung 😉
+                            <br />
+                            <br />
+                            Vorschlag: Transparenz gegen weiß ersetzen.
+                            <a href="https://t.co/uFxChmOdkT" class="link">pic.twitter.com/uFxChmOdkT</a>
+                            <div class="date">07:06:11 on 27 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@simontunnat</span>
-                            <span class="mention">@khmarbaise</span>
-                            This is what locale -a printed on SLES 12. I was confused, too.
+                            <span class="mention">@kepuexe</span>
+                            "altes pixel 4a".
+                            <br />
+                            Das hat eine bessere Kamera als das iPhone 11 und ist noch voll im Support.
                             <br />
                             <br />
-                            I guess even if they change it, they would keep this for backwards compatibility.
-                            <div class="date">21:59:59 on 26 Jul 2022</div>
+                            Alter!
+                            <div class="date">06:27:51 on 27 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2657,7 +2662,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2022, 06:21:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 07:11:38 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
