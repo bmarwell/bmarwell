@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3342" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3242" class="">
     <defs>
         <style/>
     </defs>
@@ -452,34 +452,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@mkarg</span>
                             <span class="mention">@LadyLiana1986</span>
-                            <span class="mention">@mkarg</span>
-                            Ah warte.
-                            <br />
-                            <br />
-                            So ist es richtig:
-                            <br />
-                            <br />
-                            "Autofahrer erzwingt sich Vorfahrt, DIE ER NICHT HATTE".
-                            <br />
-                            Er war wartepflichtig.
-                            <br />
-                            <br />
-                            Macht mein Tweet jetzt mehr Sinn,
-                            <span class="mention">@mkarg</span>
-                            ?
-                            <div class="date">08:27:36 on 27 Jul 2022</div>
+                            Danke. Und sorry, dass es weder mir noch anderen aufgefallen ist, dass es eindeutig war. Passiert... 🫤
+                            <div class="date">11:32:58 on 27 Jul 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@mkarg</span>
-                            Geil wie du keine Ahnung von der Situation hast und alles besser weißt.
+                            <span class="mention">@LadyLiana1986</span>
+                            Nein, keine Haterkultur. Es haben einfach alle anderen zufällig den Tweet anders verstanden. Da kannst du denen retrospektiv wohl kaum einen Vorwurf machen.
                             <br />
                             <br />
-                            Ich war schon halb durch. Autos auf der anderen Seite.
-                            <br />
-                            <br />
-                            Wenn man keine Ahnung hat...
-                            <div class="date">08:24:03 on 27 Jul 2022</div>
+                            War übrigens auch der Grund, warum ich sachlich geblieben bin und
+                            <span class="mention">@LadyLiana1986</span>
+                            auch. Wir waren verwundert. That's all.
+                            <div class="date">11:32:02 on 27 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2670,7 +2657,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jul 2022, 11:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 12:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
