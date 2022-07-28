@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3275" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3242" class="">
     <defs>
         <style/>
     </defs>
@@ -452,6 +452,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@LadyLiana1986</span>
+                            Die Rückzahlung ist doch eine tolle Motivation! 😊
+                            <div class="date">07:02:54 on 28 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@simas_ch</span>
                             I'd like to know how Michaels file works
                             <br />
@@ -464,17 +469,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/r8eDXp87DB" class="link">github.com/diceroll-dev/r…</a>
                             <div class="date">21:59:13 on 27 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Why
-                            <span class="mention">@</span>
-                            'ParameterizedTest when you can have a
-                            <span class="mention">@</span>
-                            'CartesianTest? :D
-                            <br />
-                            <br />
-                            <a href="https://t.co/ABVBci9uCI" class="link">github.com/georgberky/dep…</a>
-                            <div class="date">21:14:54 on 27 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2670,7 +2664,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jul 2022, 06:15:37 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 28 Jul 2022, 07:09:08 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
