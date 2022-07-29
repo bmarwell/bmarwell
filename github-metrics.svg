@@ -452,14 +452,14 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@JenMsft</span>
+                            What's a drive letter? 🤔
+                            <div class="date">17:32:28 on 29 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@LadyLiana1986</span>
                             <a href="https://t.co/bsCDwulOQE" class="link">pic.twitter.com/bsCDwulOQE</a>
                             <div class="date">15:26:34 on 29 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@kepuexe</span>
-                            Jumper nicht vergessen zu setzen!
-                            <div class="date">15:16:11 on 29 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2623,7 +2623,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jul 2022, 17:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 18:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
