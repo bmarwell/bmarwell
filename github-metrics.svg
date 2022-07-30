@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3292" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3209" class="">
     <defs>
         <style/>
     </defs>
@@ -452,6 +452,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@khmarbaise</span>
+                            <span class="mention">@vikasrajputin</span>
+                            <span class="mention">@NaveenS16</span>
+                            Definitely much better than Lombok! Before records I used immutables which don't modify bytecode...
+                            <div class="date">12:43:36 on 30 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@_benjamintd</span>
                             : Isochrones 😍 ! This map shows you how far a 5h train ride will take you, departing from any city in Europe.
@@ -459,19 +466,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             https://t.co/…
                             <div class="date">10:05:32 on 30 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            "Java is a bit verbose"
-                            <br />
-                            <br />
-                            It's exactly the verbosity you are looking for! Too short, and you wouldn't understand a thing at first glance.
-                            <br />
-                            Too verbose, and you'd be tired of reading and writing Java.
-                            <br />
-                            <br />
-                            Java is great the way it is.
-                            <a href="https://t.co/4xyhQozQyV" class="link">twitter.com/vikasrajputin/…</a>
-                            <div class="date">23:10:41 on 29 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2640,7 +2634,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jul 2022, 12:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 30 Jul 2022, 13:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
