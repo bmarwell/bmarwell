@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3275" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3292" class="">
     <defs>
         <style/>
     </defs>
@@ -452,6 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@sjivan</span>
+                            <span class="mention">@sivalabs</span>
+                            <span class="mention">@testcontainers</span>
+                            <span class="mention">@openj9</span>
+                            <span class="mention">@ASFMavenProject</span>
+                            <span class="mention">@OpenLibertyIO</span>
+                            <span class="mention">@andrew_guibert</span>
+                            The tests are being executed within the build. Errors are found before it's even deployed to dev.
+                            <br />
+                            If a PR breaks functionality, you'll know before merging the PR due to CI failing.
+                            <div class="date">12:06:43 on 1 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@simas_ch</span>
                             <span class="mention">@CoderMatching</span>
                             <span class="mention">@MicroProfileIO</span>
@@ -462,24 +475,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Choose a random word from a dictionary and see if there's a JS framework with that name. If yes, it's your shot.
                             <div class="date">09:37:20 on 1 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@sjivan</span>
-                            <span class="mention">@sivalabs</span>
-                            <span class="mention">@testcontainers</span>
-                            For
-                            <span class="mention">@openj9</span>
-                            +
-                            <span class="mention">@ASFMavenProject</span>
-                            +
-                            <span class="mention">@OpenLibertyIO</span>
-                            check out this great tutorial by
-                            <span class="mention">@andrew_guibert</span>
-                            :
-                            <br />
-                            <br />
-                            <a href="https://t.co/MrMGnppL2w" class="link">openliberty.io/blog/2019/03/2…</a>
-                            <div class="date">20:44:58 on 31 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2660,7 +2655,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Aug 2022, 12:01:06 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 13:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
