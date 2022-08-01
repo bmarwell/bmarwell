@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3275" class="">
     <defs>
         <style/>
     </defs>
@@ -452,6 +452,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@simas_ch</span>
+                            <span class="mention">@CoderMatching</span>
+                            <span class="mention">@MicroProfileIO</span>
+                            Haha. Yes. But I think react, vue etc will stay.
+                            <br />
+                            <br />
+                            It's a drinking game:
+                            <br />
+                            Choose a random word from a dictionary and see if there's a JS framework with that name. If yes, it's your shot.
+                            <div class="date">09:37:20 on 1 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@sjivan</span>
                             <span class="mention">@sivalabs</span>
                             <span class="mention">@testcontainers</span>
@@ -468,16 +480,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             <a href="https://t.co/MrMGnppL2w" class="link">openliberty.io/blog/2019/03/2…</a>
                             <div class="date">20:44:58 on 31 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@CoderMatching</span>
-                            <span class="mention">@simas_ch</span>
-                            It's not what I think but what I guess. But frameworks will strive to improve themselves gradually by slightly changing APIs, adding and removing functionality.
-                            <br />
-                            Good example is the sliding change from JavaEE to
-                            <span class="mention">@MicroProfileIO</span>
-                            . Major version updatesb with braking changes.
-                            <div class="date">20:08:56 on 31 Jul 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2658,7 +2660,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Aug 2022, 09:05:39 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 10:01:03 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
