@@ -452,17 +452,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@LadyLiana1986</span>
+                            Menschen 🚮
+                            <div class="date">17:32:19 on 3 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@helpermethod</span>
                             <span class="mention">@pivovarit</span>
                             I think the original author is complaining how tedious such a simple task is. We all wish the final wrapping with Collections:unmodifiableList wasn't necessary.
                             <br />
                             I had left out the "new ArrayList", probably. 🙄
                             <div class="date">11:06:43 on 3 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@LadyLiana1986</span>
-                            <a href="https://t.co/3c9LmWlBls" class="link">pic.twitter.com/3c9LmWlBls</a>
-                            <div class="date">10:21:02 on 3 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2647,7 +2647,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2022, 17:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 18:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
