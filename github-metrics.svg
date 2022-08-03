@@ -452,17 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@LadyLiana1986</span>
-                            Menschen 🚮
-                            <div class="date">17:32:19 on 3 Aug 2022</div>
+                            <span class="mention">@Tantacrul</span>
+                            Bach: 9/8
+                            <br />
+                            <br />
+                            🤷🏻‍♂️
+                            <div class="date">20:44:52 on 3 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            <span class="mention">@pivovarit</span>
-                            I think the original author is complaining how tedious such a simple task is. We all wish the final wrapping with Collections:unmodifiableList wasn't necessary.
+                            <span class="mention">@ASpittel</span>
+                            Me: Regards, Ben
                             <br />
-                            I had left out the "new ArrayList", probably. 🙄
-                            <div class="date">11:06:43 on 3 Aug 2022</div>
+                            Them: hey Mr Marvel!
+                            <div class="date">20:40:30 on 3 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2647,7 +2649,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Aug 2022, 20:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 21:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
