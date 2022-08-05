@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3222" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
     <defs>
         <style/>
     </defs>
@@ -453,6 +453,12 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@TheASF</span>
+                            : If you use or a contribute to Apache projects, you are part of our community – and we need to hear your voice! Fill out the 202…
+                            <div class="date">07:40:56 on 5 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@lnrthm</span>
                             : Das überarbeitete
                             <span class="hashtag">#Handelsregister</span>
@@ -463,14 +469,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@bund_dev</span>
                             -Pr…
                             <div class="date">22:31:41 on 4 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@vlad_mihalcea</span>
-                            What a nice place! Parents of my friend are from Cavnic. Their grandparents were born in the city when it's name was Kapnik.
-                            <br />
-                            <br />
-                            I'm always happy to see more of such pictures!
-                            <div class="date">19:41:39 on 4 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2628,7 +2626,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2022, 07:12:09 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 08:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
