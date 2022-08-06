@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3110" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
     <defs>
         <style/>
     </defs>
@@ -445,17 +445,21 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             <span class="mention">@Raumzeitfalle</span>
+                            <a href="https://t.co/hQ8yE8Mork" class="link">de.m.wikipedia.org/wiki/BerliOS</a>
+                            <br />
+                            <br />
+                            Starb 2011 (ca)
+                            <a href="https://t.co/VXKSrhDzE6" class="link">pic.twitter.com/VXKSrhDzE6</a>
+                            <div class="date">15:16:11 on 6 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            <span class="mention">@Raumzeitfalle</span>
                             Selbst bei
                             <span class="mention">@ubernauten</span>
                             hosten?
                             <br />
                             <a href="https://t.co/fdFGICOhsh" class="link">lab.uberspace.de/guide_gitea/</a>
                             <div class="date">15:05:44 on 6 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Raumzeitfalle</span>
-                            RIP BerliOS 🫤
-                            <div class="date">15:01:01 on 6 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2618,7 +2622,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Aug 2022, 15:07:06 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 16:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
