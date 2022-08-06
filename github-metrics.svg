@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3210" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
     <defs>
         <style/>
     </defs>
@@ -444,21 +444,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@dokhollidays</span>
+                            Bitte keine Screenshots teilen. Ich würde gerne alles lesen, was die dazu zu schreiben haben.
+                            <br />
+                            <br />
+                            <a href="https://t.co/TYhcTyyGgK" class="link">twitter.com/quarkswdr/stat…</a>
+                            <div class="date">09:23:12 on 6 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@RealNeilC</span>
                             Been there already. I'm still trying to figure out community support, tooling, memory management...
                             <br />
                             I'm pretty sure I could write a decent rest API using any of them. 😉
                             <div class="date">22:01:55 on 5 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@RealNeilC</span>
-                            Yeah you already got me on mutability and nullability. And checked exceptions.
-                            <br />
-                            But I actually like the other things as a feature, it keeps the language simple to read.
-                            <br />
-                            <br />
-                            What should I learn next? Vala? V? Rust? Go? I can't make up my mind...
-                            <div class="date">21:52:48 on 5 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2621,7 +2619,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Aug 2022, 09:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 10:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
