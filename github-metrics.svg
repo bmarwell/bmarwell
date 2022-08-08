@@ -444,17 +444,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@Fabio_Lolix</span>
+                            <span class="mention">@khmarbaise</span>
+                            Great! Send you a DM via Twitter
+                            <div class="date">09:32:03 on 8 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@danielcranney</span>
                             : Are you old enough to remember Alta Vista?
                             <a href="https://t.co/0XIV3F1QLN" class="link">pic.twitter.com/0XIV3F1QLN</a>
                             <div class="date">07:52:45 on 8 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Fabio_Lolix</span>
-                            <span class="mention">@khmarbaise</span>
-                            Nice! Can you review something for me?
-                            <div class="date">06:46:19 on 8 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2629,7 +2629,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2022, 09:01:13 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 8 Aug 2022, 10:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
