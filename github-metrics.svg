@@ -109,7 +109,7 @@ Java/JavaEE dev s/ 2006 //
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1377 issue comments
+                            1378 issue comments
                         </div>
                     </section>
                     <section>
@@ -444,6 +444,12 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@espiekermann</span>
+                            Ah yes. That time of the year!
+                            <a href="https://t.co/rQrZAvSr8I" class="link">pic.twitter.com/rQrZAvSr8I</a>
+                            <div class="date">06:40:25 on 9 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@eckes</span>
                             <span class="mention">@ApacheShiro</span>
                             Yes, that would be possible!
@@ -451,11 +457,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             So, the salt contains the part from the DB and the part from a system property or configuration file, right?
                             <div class="date">20:49:42 on 8 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@GrafSebastian</span>
-                            Über MS Teams kann ich keine Spiele spielen 😪
-                            <div class="date">20:23:50 on 8 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2641,7 +2642,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Aug 2022, 06:15:13 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 07:07:59 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
