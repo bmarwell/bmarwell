@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3126" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
     <defs>
         <style/>
     </defs>
@@ -445,6 +445,20 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@8bitsound</span>
+                            :
+                            <span class="hashtag">#FreeBSD</span>
+                            13.1-RELEASE-p1 is there!
+                            <br />
+                            <br />
+                            And it includes the pam_exec fix I've been waiting for 🥳.
+                            <br />
+                            <br />
+                            So, several screen lockers (e…
+                            <div class="date">16:30:20 on 10 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@MarkFonts</span>
                             :
                             <span class="mention">@peer_rich</span>
@@ -453,16 +467,6 @@ Java/JavaEE dev s/ 2006 //
                             i see these kinds of things in my wildest dreams
                             <a href="https://t.co/LKpAUzip3O" class="link">pic.twitter.com/LKpAUzip3O</a>
                             <div class="date">09:47:52 on 10 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@JWThewes</span>
-                            : Mit dem neusten Update der
-                            <span class="mention">@sparkasse</span>
-                            App (6.2.1) funktioniert diese endlich auch unter
-                            <span class="hashtag">#iOS16</span>
-                            - jetzt bitte noch die PushTAN…
-                            <div class="date">09:29:54 on 10 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2494,7 +2498,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.76m out of 332m repositories</span>
+                                    <span class="gh">ranked 1.69m out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2647,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Aug 2022, 16:01:38 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 17:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
