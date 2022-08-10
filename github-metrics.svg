@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
     <defs>
         <style/>
     </defs>
@@ -444,29 +444,25 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@fosdembsd</span>
-                            <span class="mention">@FreeBSDHelp</span>
-                            <span class="mention">@openj9</span>
-                            <span class="mention">@8bitsound</span>
-                            <span class="mention">@BrousseauAdam</span>
-                            <span class="mention">@liberachat</span>
-                            <span class="mention">@discord</span>
-                            Nice! Will do! Thanks!
-                            <br />
-                            <br />
-                            Btw: parts of IBM Semeru/OpenJ9 are licensed Apache v2, as it roots in Apache Harmony.
-                            <br />
-                            Standard OpenJDK is GPL with classpath exception, if I'm not mistaken.
-                            <div class="date">19:27:23 on 10 Aug 2022</div>
+                            RT
+                            <span class="mention">@joonaslehtinen</span>
+                            : Top-3 languages (
+                            <span class="mention">@JavaScript</span>
+                            ,
+                            <span class="hashtag">#Python</span>
+                            , Java) seem to be staying stable in the rankings. Notably,
+                            <span class="mention">@Java</span>
+                            has stayed in T…
+                            <div class="date">20:35:04 on 10 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@GZabos</span>
-                            :
-                            <span class="hashtag">#TIL:</span>
-                            Meerwasserentsalzung. 🙃
-                            <a href="https://t.co/tYYepINsph" class="link">greekreporter.com/2022/07/28/mit…</a>
-                            <div class="date">17:06:51 on 10 Aug 2022</div>
+                            <span class="mention">@javahippie</span>
+                            Bug hunting, Hunting a bug down
+                            <br />
+                            Beacons, tags
+                            <br />
+                            Even something like "command", e.g. in "command pattern"
+                            <div class="date">20:32:59 on 10 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2647,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Aug 2022, 20:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 21:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
