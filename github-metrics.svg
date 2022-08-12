@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3130" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3163" class="">
     <defs>
         <style/>
     </defs>
@@ -444,16 +444,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@cozyreni</span>
+                            Star Trek, Serien und Filme. Aber das ist sicher nicht so gut zum Lernen von Sprachen. Es sei denn, du möchtest "Quantenfluxkompensator" und "Subraumkanal" auf Spanisch und Italienisch können... 🤣🖖🏻
+                            <div class="date">06:55:45 on 12 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@marcioendo</span>
                             Oh sorry. Also sorry for my brevity.
                             <br />
                             I was hoping you'd be comparing HTML tags only.
                             <div class="date">22:38:46 on 11 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@Tantacrul</span>
-                            This was a question for MuseScore, no? 😱
-                            <div class="date">21:23:07 on 11 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2617,7 +2617,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2022, 06:09:25 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 12 Aug 2022, 07:03:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
