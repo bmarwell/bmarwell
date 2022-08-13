@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3093" class="">
     <defs>
         <style/>
     </defs>
@@ -446,16 +446,15 @@ Java/JavaEE dev s/ 2006 //
                         <div class="tweet">
                             <span class="mention">@FreeBSDHelp</span>
                             <span class="mention">@8bitsound</span>
-                            Thanks, will try!
-                            <div class="date">10:54:27 on 13 Aug 2022</div>
+                            <span class="mention">@liberachat</span>
+                            Thanks! Thread created on discord
+                            <div class="date">12:28:00 on 13 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@freebsdhelp</span>
-                            There's a catch. All source files have the same name. Am I right that I really need to use the "last-resport" solution and override "do-fetch"? Yikes.
-                            <br />
-                            <br />
-                            <a href="https://t.co/ivJV7Ryv1B" class="link">github.com/bmarwell/ports…</a>
-                            <div class="date">09:22:16 on 13 Aug 2022</div>
+                            <span class="mention">@FreeBSDHelp</span>
+                            <span class="mention">@8bitsound</span>
+                            Thanks, will try!
+                            <div class="date">10:54:27 on 13 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2618,7 +2617,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2022, 12:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 13:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
