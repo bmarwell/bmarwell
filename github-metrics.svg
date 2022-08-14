@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3163" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3180" class="">
     <defs>
         <style/>
     </defs>
@@ -444,20 +444,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@VaughnVernon</span>
-                            : A database schema is not a contract. An API is.
+                            <span class="mention">@rmannibucau</span>
+                            <span class="mention">@aalmiray</span>
+                            That's the best reason I dropped Google dependencies. Even Protobuf, although it worked well.
                             <br />
-                            <br />
-                            If management wants to use database integration ("it's what we do"), ask…
-                            <div class="date">23:59:28 on 13 Aug 2022</div>
+                            Too bad that ASF Thrift refuses to release any binaries at all. The protoc jars were extremely useful.
+                            <div class="date">08:20:53 on 14 Aug 2022</div>
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@bmarwell</span>
+                            :
                             <span class="mention">@tagir_valeev</span>
                             Bookmark
                             <a href="https://t.co/KdQhpKmVld" class="link">mundraub.org</a>
-                            - all the trees and bushes with fruits on public ground. They can be harvested for free.
-                            <div class="date">23:28:22 on 13 Aug 2022</div>
+                            - all the trees and bushes with fruits on public ground. They can be harvested…
+                            <div class="date">08:04:56 on 14 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2631,7 +2633,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Aug 2022, 08:01:17 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Aug 2022, 09:01:12 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
