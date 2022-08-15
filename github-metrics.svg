@@ -444,19 +444,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@khmarbaise</span>
+                            Then it must be worth it!
+                            <br />
+                            I only have on-site backup at the moment. 🫤
+                            <div class="date">16:53:17 on 15 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@todo42</span>
                             <span class="mention">@rotnroll666</span>
                             Ging bei mir ohne Magenta TV (Festnetz). Vllt weiß
                             <span class="mention">@Telekom_hilft</span>
                             mehr zum aktuellen Stand.
                             <div class="date">22:39:46 on 14 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@morozov_dev</span>
-                            : When the project is not ready, but the client wants a demo
-                            <a href="https://t.co/f5yfhmMSBR" class="link">pic.twitter.com/f5yfhmMSBR</a>
-                            <div class="date">21:38:57 on 14 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2631,7 +2631,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2022, 16:03:23 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 17:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
