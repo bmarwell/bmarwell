@@ -444,19 +444,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@LineageAndroid</span>
-                            : We recently made an error by sending a tweet on an iPhone. We apologize for this error and will attempt to not make it…
-                            <div class="date">23:55:47 on 16 Aug 2022</div>
+                            <span class="mention">@DJGummikuh</span>
+                            This option needs to be enabled as well
+                            <br />
+                            <br />
+                            <a href="https://t.co/pLGefcRpI6" class="link">nginx.org/en/docs/http/n…</a>
+                            <div class="date">06:54:59 on 17 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@signalapp</span>
-                            : Our registration lock function protects against these kinds of attacks.
+                            <span class="mention">@DJGummikuh</span>
+                            Similar approach
                             <br />
                             <br />
-                            Enable registration lock by going into your Settin…
-                            <div class="date">22:05:28 on 15 Aug 2022</div>
+                            <a href="https://t.co/B8evPWKEl6" class="link">serverfault.com/a/559743</a>
+                            <div class="date">06:53:23 on 17 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2641,7 +2642,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Aug 2022, 06:25:58 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 17 Aug 2022, 07:20:48 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
