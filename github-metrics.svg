@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3210" class="">
     <defs>
         <style/>
     </defs>
@@ -444,6 +444,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Dafür braucht es keine Bildung. Nur etwas Verstand.
+                            <br />
+                            <br />
+                            Fieber, Erkältung, kleines Aua =&gt; geht auch ohne.
+                            <br />
+                            Ohnmacht, Krampf, Gelenk unbeweglich, viel Blut, längerer Schock =&gt; RTW.
+                            <br />
+                            <br />
+                            Das muss man sich nicht mal merken. Ein gesundes Gefühl dafür reicht.
+                            <a href="https://t.co/HttS6hL0Pn" class="link">twitter.com/PsychophieToBe…</a>
+                            <div class="date">08:09:16 on 18 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@bukamabish</span>
                             <span class="mention">@rotnroll666</span>
                             <span class="mention">@omniprof</span>
@@ -451,14 +464,6 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@rmannibucau</span>
                             for details
                             <div class="date">07:58:44 on 18 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@DJGummikuh</span>
-                            This option needs to be enabled as well
-                            <br />
-                            <br />
-                            <a href="https://t.co/pLGefcRpI6" class="link">nginx.org/en/docs/http/n…</a>
-                            <div class="date">06:54:59 on 17 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2364,7 +2369,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 146k out of 333m repositories</span>
+                                    <span class="gh">ranked 146k out of 334m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 218 stars</div>
                             </div>
@@ -2495,7 +2500,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.77m out of 333m repositories</span>
+                                    <span class="gh">ranked 1.77m out of 334m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2648,7 +2653,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Aug 2022, 08:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 18 Aug 2022, 09:01:49 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
