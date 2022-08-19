@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3130" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3196" class="">
     <defs>
         <style/>
     </defs>
@@ -444,14 +444,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bagder</span>
-                            growing! 😉
-                            <div class="date">08:41:17 on 19 Aug 2022</div>
+                            RT
+                            <span class="mention">@struberg</span>
+                            : 1/n Bei uns wäre schon viel erreichbar, wenn in Behörden nicht mehr alles auf Vollgas rennen würde.
+                            <br />
+                            <br />
+                            In fast allen bisserl äl…
+                            <div class="date">22:44:57 on 19 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@DieTechniker</span>
-                            wie und wo kann ich Fehler für die Testphase von TK Fit melden?
-                            <div class="date">07:45:08 on 19 Aug 2022</div>
+                            RT
+                            <span class="mention">@chri_gru</span>
+                            : 🇩🇪 Deutschland (
+                            <span class="mention">@BMWK</span>
+                            ) bereitet eine Energiespar-Verordnung vor, die ab übernächster Woche in Kraft treten und bis Ende Febru…
+                            <div class="date">22:13:00 on 19 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2615,7 +2622,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2022, 22:01:17 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 23:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
