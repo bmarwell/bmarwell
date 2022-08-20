@@ -444,18 +444,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@javahippie</span>
+                            <span class="mention">@olithissen</span>
+                            Hafermilch schmeckt auch sehr gut zum Kaffee. Viel neutraler als Muttermilch anderer Säuger.
+                            <br />
+                            <br />
+                            Schuss Öl rein und es schäumt auch gut.
+                            <div class="date">08:46:12 on 20 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@freebsdfrau</span>
                             Now following on GH! 👍🏻
                             <div class="date">23:56:26 on 19 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@struberg</span>
-                            : 1/n Bei uns wäre schon viel erreichbar, wenn in Behörden nicht mehr alles auf Vollgas rennen würde.
-                            <br />
-                            <br />
-                            In fast allen bisserl äl…
-                            <div class="date">22:44:57 on 19 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2624,7 +2624,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2022, 08:01:18 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 09:01:11 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
