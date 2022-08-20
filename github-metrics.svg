@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3163" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3180" class="">
     <defs>
         <style/>
     </defs>
@@ -444,19 +444,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@olithissen</span>
-                            <span class="mention">@javahippie</span>
-                            <a href="https://t.co/2PB5GFou8Q" class="link">pic.twitter.com/2PB5GFou8Q</a>
-                            <div class="date">13:48:39 on 20 Aug 2022</div>
+                            <span class="mention">@KDHabibi</span>
+                            Sparkasse Hannover:
+                            <br />
+                            <br />
+                            <a href="https://t.co/7sb3WPGNPF" class="link">sparkasse-hannover.de/de/home/toolba…</a>
+                            <br />
+                            <br />
+                            FYI: Jede Spk macht ihr eigenes Ding.
+                            <a href="https://t.co/O2Enb5QzLa" class="link">pic.twitter.com/O2Enb5QzLa</a>
+                            <div class="date">22:00:13 on 20 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@javahippie</span>
-                            <span class="mention">@olithissen</span>
-                            Hafermilch schmeckt auch sehr gut zum Kaffee. Viel neutraler als Muttermilch anderer Säuger.
-                            <br />
-                            <br />
-                            Schuss Öl rein und es schäumt auch gut.
-                            <div class="date">08:46:12 on 20 Aug 2022</div>
+                            <span class="mention">@KDHabibi</span>
+                            Welche Sparkasse?
+                            <div class="date">21:58:19 on 20 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2625,7 +2627,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Aug 2022, 21:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 22:01:14 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
