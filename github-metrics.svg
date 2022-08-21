@@ -444,21 +444,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@Lam3th</span>
+                            : Ich kann mir die gestiegenen Gaspreise leisten ohne mich einzuschränken.
+                            <br />
+                            Ich versuche dennoch Gas zu sparen.
+                            <br />
+                            Warum?
+                            <br />
+                            Aus Soli…
+                            <div class="date">20:22:50 on 21 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             Der Kurpark Bad Eilsen mit historischer Heilquelle.
                             <a href="https://t.co/yPKt8oWLEz" class="link">pic.twitter.com/yPKt8oWLEz</a>
                             <div class="date">19:47:04 on 21 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@KDHabibi</span>
-                            Sparkasse Hannover:
-                            <br />
-                            <br />
-                            <a href="https://t.co/7sb3WPGNPF" class="link">sparkasse-hannover.de/de/home/toolba…</a>
-                            <br />
-                            <br />
-                            FYI: Jede Spk macht ihr eigenes Ding.
-                            <a href="https://t.co/O2Enb5QzLa" class="link">pic.twitter.com/O2Enb5QzLa</a>
-                            <div class="date">22:00:13 on 20 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2626,7 +2626,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Aug 2022, 20:01:47 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 21:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
