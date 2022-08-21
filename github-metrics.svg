@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
     <defs>
         <style/>
     </defs>
@@ -444,6 +444,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@LadyLiana1986</span>
+                            <a href="https://t.co/g46tTMjhMd" class="link">pic.twitter.com/g46tTMjhMd</a>
+                            <div class="date">21:12:09 on 21 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@Lam3th</span>
                             : Ich kann mir die gestiegenen Gaspreise leisten ohne mich einzuschränken.
@@ -454,11 +459,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Aus Soli…
                             <div class="date">20:22:50 on 21 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Der Kurpark Bad Eilsen mit historischer Heilquelle.
-                            <a href="https://t.co/yPKt8oWLEz" class="link">pic.twitter.com/yPKt8oWLEz</a>
-                            <div class="date">19:47:04 on 21 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2626,7 +2626,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Aug 2022, 21:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 21 Aug 2022, 22:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
