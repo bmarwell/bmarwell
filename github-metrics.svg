@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3110" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3126" class="">
     <defs>
         <style/>
     </defs>
@@ -445,16 +445,17 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@shipilev</span>
+                            : Java Strings are specified with power-31 polynomial hashcode, which means adding "Aa" and "BB" to existing String produces tw…
+                            <div class="date">17:24:06 on 22 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@khmarbaise</span>
                             :
                             <span class="hashtag">#recruiterfails</span>
                             "Ausführliche Entwicklungserfahrung mit Java mind. 10 Jahre (Java 11+)" ... Das könnte wirklich schwierig w…
                             <div class="date">12:38:44 on 22 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@LadyLiana1986</span>
-                            Menschen 🚮
-                            <div class="date">08:45:01 on 22 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2629,7 +2630,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2022, 17:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 18:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
