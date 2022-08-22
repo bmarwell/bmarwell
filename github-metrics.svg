@@ -444,15 +444,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@wickund</span>
+                            : Java does USB
+                            <a href="https://t.co/H44SHmUrJr" class="link">github.com/manuelbl/JavaD…</a>
+                            <div class="date">07:08:38 on 22 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@joschi83</span>
                             <span class="mention">@KDHabibi</span>
                             Scheint beim TS nicht zu klappen.
                             <div class="date">22:24:31 on 21 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@LadyLiana1986</span>
-                            <a href="https://t.co/g46tTMjhMd" class="link">pic.twitter.com/g46tTMjhMd</a>
-                            <div class="date">21:12:09 on 21 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2627,7 +2629,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2022, 06:27:20 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 22 Aug 2022, 07:21:42 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
