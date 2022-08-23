@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
     <defs>
         <style/>
     </defs>
@@ -444,14 +444,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@Marco_Krahl</span>
-                            : Das hier ist übrigens Deutschlands schönster Bilderbuchladen: „Papier &amp; Poesie“, mitten im Herzen Hamburgs. Problem: Kaum…
-                            <div class="date">20:50:07 on 23 Aug 2022</div>
+                            <span class="mention">@MarcoBehler</span>
+                            So much criticism, but I enjoyed watching it a lot! Thanks! 👍🏻🙏🏻
+                            <div class="date">22:20:37 on 23 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            Von SF 11 auf SF 12 nächstes Jahr, aber es wird trotzdem wieder teurer. 🫤 Ein Glück, dass ich gerne mit Rad zur Arbeit fahre...
-                            <div class="date">15:52:19 on 23 Aug 2022</div>
+                            <span class="mention">@MarcoBehler</span>
+                            In your video I saw not much of JPA. A hibernate.cfg.xml is not needed in pure JPA, haven't seen much of the imports.
+                            <br />
+                            <br />
+                            You should also mention to not implement equals/hashCode/toString UNLESS you're targeting ONLY hibernate.
+                            <br />
+                            <br />
+                            <a href="https://t.co/E34e8U2EH1" class="link">struberg.wordpress.com/2016/10/15/tos…</a>
+                            <div class="date">22:20:12 on 23 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2631,7 +2637,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2022, 22:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 23:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
