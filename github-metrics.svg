@@ -444,15 +444,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            Von SF 11 auf SF 12 nächstes Jahr, aber es wird trotzdem wieder teurer. 🫤 Ein Glück, dass ich gerne mit Rad zur Arbeit fahre...
+                            <div class="date">15:52:19 on 23 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@maciejwalkowiak</span>
                             Standardized @'nullable annotations etc. I wonder why they never happened although the JEP exists.
                             <div class="date">08:17:21 on 23 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@shipilev</span>
-                            : Java Strings are specified with power-31 polynomial hashcode, which means adding "Aa" and "BB" to existing String produces tw…
-                            <div class="date">17:24:06 on 22 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2632,7 +2630,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Aug 2022, 15:12:58 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 23 Aug 2022, 16:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
