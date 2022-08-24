@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3260" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
     <defs>
         <style/>
     </defs>
@@ -444,40 +444,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@simas_ch</span>
                             <span class="mention">@javahippie</span>
-                            AssertJ was forked from FEST
-                            <div class="date">20:52:21 on 24 Aug 2022</div>
+                            E.g. their old site:
+                            <br />
+                            <a href="https://t.co/NwIlj5prdQ" class="link">joel-costigliola.github.io/assertj/</a>
+                            <br />
+                            <br />
+                            And others
+                            <div class="date">21:42:54 on 24 Aug 2022</div>
                         </div>
                         <div class="tweet">
-                            OSS I need to try:
-                            <br />
-                            junit-platform-maven-plugin by
-                            <span class="mention">@sormuras</span>
-                            <br />
-                            jooq by
-                            <span class="mention">@lukaseder</span>
-                            <br />
-                            uShip by
-                            <span class="mention">@Yupiik</span>
-                            <br />
-                            <br />
-                            Already tried and lucky I did:
-                            <br />
-                            forbidden-api by
-                            <span class="mention">@thetaph1</span>
-                            <br />
-                            jsoup by
-                            <span class="mention">@jhy</span>
-                            for unit tests
-                            <br />
-                            yupiik-logging by
-                            <span class="mention">@Yupiik</span>
-                            /
-                            <span class="mention">@rmannibucau</span>
-                            <br />
-                            <br />
-                            ... and so many more! 💗 OSS
-                            <div class="date">20:10:04 on 24 Aug 2022</div>
+                            <span class="mention">@javahippie</span>
+                            Ne neither. Today I was googling about why I don't use Truth. Coincidence!
+                            <div class="date">21:29:04 on 24 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2662,7 +2642,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2022, 21:02:56 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 22:01:29 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
