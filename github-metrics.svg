@@ -444,16 +444,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@kitsune_alex_</span>
+                            <span class="mention">@shipilev</span>
+                            Wouldn't have spotted it right away, but if I had reviewed it, I'd forbid reuse of result =&gt; might have prevented that.
+                            <div class="date">15:55:52 on 26 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@javahippie</span>
                             Ha! Is that all you have? :D
                             <br />
                             This final Map shouldn't have worked in the first place. But the quoted column name is the real beauty here! ;-)
                             <a href="https://t.co/OVS0vWMzWE" class="link">pic.twitter.com/OVS0vWMzWE</a>
                             <div class="date">13:57:29 on 26 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Note to future AND PAST self: Do NEVER EVER use 'value' as a column identifier (AGAIN)!
-                            <div class="date">11:55:11 on 26 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2617,7 +2619,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2022, 15:11:54 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 26 Aug 2022, 16:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
