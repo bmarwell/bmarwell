@@ -445,19 +445,18 @@ Java/JavaEE dev s/ 2006 //
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@the_transit_guy</span>
+                            : We need more bioswales running down the median of most of our wide streets. What do you think? (NACTO) https://t.co/2k…
+                            <div class="date">18:26:03 on 27 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@Lam3th</span>
                             : Die Wirkung von Homöopathie ist nicht umstritten. Der Wirkmechanismus beruht auf Zauberei. Die Wirkung existiert nicht.
                             <br />
                             <br />
                             Homöo…
                             <div class="date">15:58:15 on 27 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@brandsatzbodo</span>
-                            : der markt wieder heftigst am regeln
-                            <a href="https://t.co/UsUYwXSEGC" class="link">pic.twitter.com/UsUYwXSEGC</a>
-                            <div class="date">15:54:50 on 27 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2626,7 +2625,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2022, 18:01:05 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 27 Aug 2022, 19:03:27 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
