@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3110" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
     <defs>
         <style/>
     </defs>
@@ -444,16 +444,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@struberg</span>
+                            "und ich glaube nicht, dass die jetzt weniger verdienen, als vor dem Krieg"
+                            <br />
+                            <br />
+                            Wow, die hat sich nicht einmal die Arbeit gemacht, ihre krude Theorie zu prüfen und gibt es offen zu. 🤦🏻‍♂️
+                            <div class="date">16:50:39 on 28 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@jpmens</span>
                             : “Gofundme” in German is called “Krankenversicherung”
                             <div class="date">11:05:22 on 28 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@the_transit_guy</span>
-                            : We need more bioswales running down the median of most of our wide streets. What do you think? (NACTO) https://t.co/2k…
-                            <div class="date">18:26:03 on 27 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2621,7 +2623,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Aug 2022, 16:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 17:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
