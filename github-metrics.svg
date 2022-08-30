@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
     <defs>
         <style/>
     </defs>
@@ -444,6 +444,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@javahippie</span>
+                            Musikkabarett?
+                            <br />
+                            Bodo Wartke
+                            <div class="date">16:16:19 on 30 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@LilithWittmann</span>
                             : Personenbezogene Daten im
@@ -452,14 +459,6 @@ Java/JavaEE dev s/ 2006 //
                             <br />
                             Gute Nachricht zuerst: Personalausweiskopien habe ich in unserem 150GB Samp…
                             <div class="date">22:47:16 on 29 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@struberg</span>
-                            "und ich glaube nicht, dass die jetzt weniger verdienen, als vor dem Krieg"
-                            <br />
-                            <br />
-                            Wow, die hat sich nicht einmal die Arbeit gemacht, ihre krude Theorie zu prüfen und gibt es offen zu. 🤦🏻‍♂️
-                            <div class="date">16:50:39 on 28 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2639,7 +2638,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Aug 2022, 16:03:04 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 30 Aug 2022, 17:01:30 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
