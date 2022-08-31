@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3130" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3163" class="">
     <defs>
         <style/>
     </defs>
@@ -444,6 +444,13 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            🙃
+                            <br />
+                            <br />
+                            <a href="https://t.co/r79JEDeXzz" class="link">f-i.de/Karriere/Offen…</a>
+                            <div class="date">21:45:10 on 31 Aug 2022</div>
+                        </div>
+                        <div class="tweet">
                             Gosh, I wish I had
                             <span class="mention">@javahippie</span>
                             or
@@ -451,11 +458,6 @@ Java/JavaEE dev s/ 2006 //
                             as colleague. Even if only for a year. Too bad we only hire interns atm. 🥲
                             <a href="https://t.co/QVI8CAG0Ut" class="link">twitter.com/javahippie/sta…</a>
                             <div class="date">20:05:32 on 31 Aug 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@rotnroll666</span>
-                            Menschen 🚮
-                            <div class="date">22:56:36 on 30 Aug 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2646,7 +2648,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 21:01:02 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 22:01:23 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
