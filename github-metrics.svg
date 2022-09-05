@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3126" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
     <defs>
         <style/>
     </defs>
@@ -444,6 +444,18 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@AdamBien</span>
+                            <span class="mention">@MicroProfileIO</span>
+                            <span class="mention">@emilyfhjiang</span>
+                            I ditched it because it is not implementation agnostic and there is little interest to change that.
+                            <br />
+                            If you're using Jackson anyway, that's probably fine.
+                            <br />
+                            <br />
+                            <a href="https://t.co/C7M6CtNS7J" class="link">github.com/OpenAPITools/o…</a>
+                            <div class="date">11:20:08 on 5 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             A tale of a bug (or not), more than 8000 days old.
                             <br />
                             Thanks
@@ -451,11 +463,6 @@ Java/JavaEE dev s/ 2006 //
                             for sharing those insights! Highly appreciated!
                             <a href="https://t.co/AZR5a86gFv" class="link">twitter.com/bagder/status/…</a>
                             <div class="date">08:49:09 on 5 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@scrumtuous</span>
-                            I use computers to solve problems I hadn't had without them.
-                            <div class="date">06:52:53 on 5 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2630,7 +2637,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Sept 2022, 11:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 5 Sept 2022, 12:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
