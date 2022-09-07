@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
     <defs>
         <style/>
     </defs>
@@ -444,29 +444,22 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@khmarbaise</span>
-                            <span class="mention">@lofidewanto</span>
-                            <span class="mention">@simas_ch</span>
-                            <span class="mention">@brunoborges</span>
-                            It wouldn't work with JakartaEE when combined with
-                            <span class="mention">@RequestScoped</span>
-                            though. In rare cases you might want to have state.
-                            <div class="date">22:39:57 on 6 Sept 2022</div>
+                            Can't wait to use
+                            <span class="mention">@ImmutablesOrg</span>
+                            @'Builder annotation on records. 😅
+                            <br />
+                            <br />
+                            Immutables &gt;&gt; lombok
+                            <div class="date">08:35:21 on 7 Sept 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@8bitsound</span>
-                            <span class="mention">@wilke_tobias</span>
-                            <span class="mention">@Volksverpetzer</span>
-                            Vielleicht.
+                            ... geht doch.
                             <br />
                             <br />
-                            [Quarks Science Cops] Atomkraft weiterlaufen lassen oder nicht? Der Fall Habeck
-                            <span class="hashtag">#quarksScienceCops</span>
-                            <br />
-                            <a href="https://t.co/DeUGxgyYMb" class="link">podcastaddict.com/episode/143119…</a>
-                            via
-                            <span class="mention">@PodcastAddict</span>
-                            <div class="date">16:21:26 on 6 Sept 2022</div>
+                            <span class="hashtag">#kaffee</span>
+                            <span class="hashtag">#tasse</span>
+                            <a href="https://t.co/S5DoRZcnND" class="link">pic.twitter.com/S5DoRZcnND</a>
+                            <div class="date">08:30:41 on 7 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2651,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2022, 08:23:39 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 09:16:05 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
