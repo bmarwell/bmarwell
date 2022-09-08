@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3226" class="">
     <defs>
         <style/>
     </defs>
@@ -447,20 +447,21 @@ Java/JavaEE dev s/ 2006 //
                             <span class="mention">@brunoborges</span>
                             <span class="mention">@openj9</span>
                             <span class="mention">@OpenLibertyIO</span>
-                            You can even use JIT as a service.
+                            <span class="mention">@openj9</span>
+                            is based on OpenJDK! It just does not ship hotspot. That's an important difference! Most system properties are the same.
                             <br />
-                            <br />
-                            <a href="https://t.co/qkA5MM541G" class="link">github.com/mstoodle/openj…</a>
-                            <div class="date">10:00:02 on 8 Sept 2022</div>
+                            You might be referring to IBM J9 (no open prefix) which was not based on OpenJDK.
+                            <div class="date">10:10:41 on 8 Sept 2022</div>
                         </div>
                         <div class="tweet">
                             <span class="mention">@brunoborges</span>
-                            I still wonder why you at Microsoft didn't hop on to
                             <span class="mention">@openj9</span>
-                            which uses about half the memory. It replaces hotspot with another memory layout and GC. It's the only non-hotspot-JVM I know and is the default for
                             <span class="mention">@OpenLibertyIO</span>
-                            (which can also run springboot apps).
-                            <div class="date">09:55:08 on 8 Sept 2022</div>
+                            Haven't updated the Openj9 config for a while here, but it used to use less memory. At least it still has s little higher throughput.
+                            <br />
+                            <br />
+                            <a href="https://t.co/NCQEesnqZ1" class="link">github.com/LesnyRumcajs/g…</a>
+                            <div class="date">10:03:19 on 8 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2651,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2022, 10:01:22 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 11:02:09 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
