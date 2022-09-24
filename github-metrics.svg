@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3293" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    156k added, 35.7k removed
+                                    136k added, 28.7k removed
                                 </div>
                             </section>
                             <section>
@@ -444,37 +444,16 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@claviska</span>
+                            <span class="mention">@slightlylate</span>
+                            TOML, java .properties, commented JSON, Hocon, .ini, .env....
+                            <div class="date">11:34:25 on 24 Sept 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@tagir_valeev</span>
                             <span class="mention">@asolntsev</span>
                             I wonder whether writing tests in kotlin instead would make more sense. Or stick to plain Java. Groovy was very dominant with Apache projects for testing.
                             <div class="date">09:43:47 on 24 Sept 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            <span class="mention">@susan_witts</span>
-                            <span class="mention">@gunnarmorling</span>
-                            <span class="mention">@groovylang</span>
-                            So, reading the conclusion of
-                            <span class="mention">@baeldung</span>
-                            , I still see exactly no use case. 🤣
-                            <br />
-                            1. Helpful NPEs make 1 less useful.
-                            <br />
-                            2. That's where you don't use them
-                            <br />
-                            3. Same as 2
-                            <br />
-                            4. I throw an UnsupportedOpEx here.
-                            <br />
-                            <br />
-                            🤷🏻‍♂️
-                            <br />
-                            What am I missing?
-                            <br />
-                            <br />
-                            <a href="https://t.co/xgtRUA73Lv" class="link">baeldung.com/java-assert</a>
-                            <a href="https://t.co/FvbGdLpOW2" class="link">pic.twitter.com/FvbGdLpOW2</a>
-                            <div class="date">09:27:53 on 24 Sept 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2637,7 +2616,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Sept 2022, 11:02:01 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 24 Sept 2022, 12:01:10 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
