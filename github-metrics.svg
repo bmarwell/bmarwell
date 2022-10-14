@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3110" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    123k added, 35.9k removed
+                                    74.5k added, 13.1k removed
                                 </div>
                             </section>
                             <section>
@@ -440,18 +440,21 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@simas_ch</span>
-                            <span class="mention">@helpermethod</span>
-                            It doesn't matter how you define full-stack then. The salary won't change because you know a front-end tech or appserver. 😅
-                            <div class="date">10:12:28 on 14 Oct 2022</div>
+                            RT
+                            <span class="mention">@LionHirth</span>
+                            : This is huge.
+                            <br />
+                            <br />
+                            According to one assessment of Sep/Oct data, German citizen save 20 to 30+% gas. Consistently every week.
+                            <br />
+                            <br />
+                            Th…
+                            <div class="date">21:02:33 on 14 Oct 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@BuaaYang</span>
-                            :
-                            <span class="mention">@poroshenko</span>
-                            <a href="https://t.co/VY6H3GQOG2" class="link">pic.twitter.com/VY6H3GQOG2</a>
-                            <div class="date">10:11:01 on 14 Oct 2022</div>
+                            <span class="mention">@EmmaBostian</span>
+                            Get well soon, both of you! 🙏🏻
+                            <div class="date">21:00:46 on 14 Oct 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2609,7 +2612,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Oct 2022, 20:02:29 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Oct 2022, 21:04:48 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
