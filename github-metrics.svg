@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    171k added, 39.8k removed
+                                    177k added, 41.9k removed
                                 </div>
                             </section>
                             <section>
@@ -440,22 +440,27 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@vmuecke_k</span>
-                            <span class="mention">@Karl_Lauterbach</span>
-                            <span class="mention">@gematik1</span>
-                            Schon gelesen? Es ist echt peinlich.
+                            <span class="mention">@grobmeier</span>
+                            <span class="mention">@tcurdt</span>
+                            <span class="mention">@borgbackup</span>
+                            They even have hosting.
+                            <br />
+                            <a href="https://t.co/zwPSkhwem1" class="link">borgbase.com</a>
                             <br />
                             <br />
-                            <a href="https://t.co/pjTBG8gEzl" class="link">golem.de/news/telematik…</a>
-                            <div class="date">09:49:37 on 16 Oct 2022</div>
+                            Via
+                            <span class="mention">@khmarbaise</span>
+                            <div class="date">12:38:21 on 16 Oct 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@bazlur_rahman</span>
-                            Unsupported Operation Exception.
+                            <span class="mention">@tcurdt</span>
+                            Try
+                            <span class="mention">@borgbackup</span>
+                            . It suits 1 and 3. Not sure about 2, though.
                             <br />
                             <br />
-                            New APIs always go the immutable way (and hate nulls).
-                            <div class="date">09:41:16 on 16 Oct 2022</div>
+                            <a href="https://t.co/rKM90cY2rP" class="link">borgbackup.readthedocs.io/en/stable/inte…</a>
+                            <div class="date">12:01:52 on 16 Oct 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2629,7 +2634,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Oct 2022, 12:01:04 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 13:01:35 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
