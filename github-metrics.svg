@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3193" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    165k added, 39k removed
+                                    136k added, 28.8k removed
                                 </div>
                             </section>
                             <section>
@@ -440,20 +440,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@unholdemaid</span>
-                            Hatte eine Freundin auch mal. Das geilste ist die Studie auf deren Seite.
-                            <br />
-                            Kontrollgruppe nimmt nichts (statt placebo), Wirkgruppe darf bei Bedarf zusätzlich Ibuprofen zusätzlich nehmen.
-                            <br />
-                            <br />
-                            "Studie".
-                            <div class="date">07:52:34 on 23 Nov 2022</div>
+                            Warum meine Trainees/Werksstudenten gleich voll mitarbeiten dürfen. Wie soll sonst ein Thema für die Facharbeit gefunden werden?
+                            <a href="https://t.co/KhtHqXhw4Y" class="link">twitter.com/recht_nett/sta…</a>
+                            <div class="date">11:32:32 on 23 Nov 2022</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@_asdf_vm</span>
-                            <span class="mention">@kjjaeger</span>
-                            Adoptopenjdk distributes multiple JREs via the marketplace. Did you mean Temurin?
-                            <div class="date">07:38:55 on 23 Nov 2022</div>
+                            <span class="mention">@BrianGoetz</span>
+                            <span class="mention">@brunoborges</span>
+                            <span class="mention">@tagir_valeev</span>
+                            Exactly. AutoV or
+                            <span class="mention">@ImmutablesOrg</span>
+                            (I love staged builders).
+                            <br />
+                            No bytecode magic.
+                            <div class="date">11:30:32 on 23 Nov 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2638,7 +2638,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Nov 2022, 11:01:25 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 23 Nov 2022, 12:01:16 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
