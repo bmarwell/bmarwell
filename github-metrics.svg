@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3160" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3093" class="">
     <defs>
         <style/>
     </defs>
@@ -440,20 +440,15 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@richardstartin</span>
+                            <a href="https://t.co/yKAd7pwYW6" class="link">pic.twitter.com/yKAd7pwYW6</a>
+                            <div class="date">20:14:46 on 4 Dec 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@scrumtuous</span>
                             <span class="mention">@brunoborges</span>
                             Falsa demonstratio non nocet. 😉
                             <div class="date">17:43:34 on 4 Dec 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@scrumtuous</span>
-                            Microsoft employees are taught to use the first pronunciation, I heard.
-                            <br />
-                            The second is closer to Spanish. I guess they wanted to distinguish themselves from "just a colour"?
-                            <br />
-                            <span class="mention">@brunoborges</span>
-                            should know!
-                            <div class="date">17:21:43 on 4 Dec 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2621,7 +2616,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Dec 2022, 20:01:19 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 4 Dec 2022, 21:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
