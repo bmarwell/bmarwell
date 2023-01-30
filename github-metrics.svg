@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3143" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    151k added, 36.7k removed
+                                    151k added, 38.4k removed
                                 </div>
                             </section>
                             <section>
@@ -440,19 +440,20 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@jefhar70</span>
+                            <span class="mention">@ChrisArter</span>
+                            Can
+                            <span class="mention">@tagir_valeev</span>
+                            please replace the validation "duplicated code" with "triplicated code"? 😂
+                            <div class="date">22:40:57 on 30 Jan 2023</div>
+                        </div>
+                        <div class="tweet">
                             Tutorials at
                             <span class="mention">@baeldung</span>
                             explain the concepts of volatile, synchronized and AtomicWrappers well for
                             <span class="hashtag">#Java</span>
                             . However. Readers might still not know when to use which. Do you? Can you explain it in a few words?
                             <div class="date">21:11:17 on 30 Jan 2023</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@marcioendo</span>
-                            <span class="mention">@heinzkabutz</span>
-                            <span class="mention">@heinzkabutz</span>
-                            tbh I found a LOT of code where synchronized was ONLY used to read/update instance or static variables. I rarely saw "better" use cases for `synchronized` in most JakartaEE JAX-RS apps (even with lots of domain logic and JPA).
-                            <div class="date">19:20:15 on 30 Jan 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2474,7 +2475,7 @@ I have configured it like so:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.84m out of 373m repositories</span>
+                                    <span class="gh">ranked 1.86m out of 373m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2627,7 +2628,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jan 2023, 22:01:07 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 30 Jan 2023, 23:04:50 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
