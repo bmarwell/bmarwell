@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3246" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3196" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    106k added, 28.8k removed
+                                    135k added, 34.6k removed
                                 </div>
                             </section>
                             <section>
@@ -444,6 +444,11 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@helpermethod</span>
+                            Your Zero-Deps-Idea died with the http feature. You won't get the configuration you want with the Java11 http client. Been there. I couldn't test it properly, so I switched to Apache HttpClient again.
+                            <div class="date">16:37:40 on 10 Mar 2023</div>
+                        </div>
+                        <div class="tweet">
                             What
                             <span class="mention">@tagir_valeev</span>
                             did not mention: It will also enable JAnsi! :)
@@ -453,18 +458,6 @@ Java/JavaEE dev s/ 2006 //
                             <a href="https://t.co/eSLDJtoIvs" class="link">pic.twitter.com/eSLDJtoIvs</a>
                             <a href="https://t.co/n4jWmo9YVW" class="link">twitter.com/tagir_valeev/s…</a>
                             <div class="date">11:35:38 on 9 Mar 2023</div>
-                        </div>
-                        <div class="tweet">
-                            Drei Java Virtual machines, u.a.
-                            <span class="mention">@openj9</span>
-                            , und die Programmiersprache Kotlin sind in den Top 10.
-                            <br />
-                            <br />
-                            Wow.
-                            <br />
-                            <br />
-                            <a href="https://t.co/sY6pe9LlDD" class="link">heise.de/news/Open-Sour…</a>
-                            <div class="date">07:39:59 on 9 Mar 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2628,7 +2621,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2023, 16:01:09 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Mar 2023, 17:01:15 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
