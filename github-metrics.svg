@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3172" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    74k added, 16.8k removed
+                                    76.7k added, 16.6k removed
                                 </div>
                             </section>
                             <section>
@@ -452,25 +452,19 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
+                            <span class="mention">@lprimak</span>
                             <span class="mention">@fpapon2</span>
                             <span class="mention">@Yupiik</span>
-                            Hey
-                            <span class="mention">@fpapon2</span>
-                            - that's a great idea! And  a neat compilation of tool-jars!
-                            <br />
-                            <br />
-                            Can you extend a bit on fusion- inject? Not all apps are web apps... 😉
-                            <div class="date">14:54:10 on 18 Apr 2023</div>
+                            Eg You could replace all injection. This way your code still looks like having injection (indeed you still have @'Inject) but it's all compile time.
+                            <div class="date">17:59:43 on 18 Apr 2023</div>
                         </div>
                         <div class="tweet">
-                            RT
                             <span class="mention">@fpapon2</span>
-                            : A new internal project publish as open source at
                             <span class="mention">@Yupiik</span>
-                            🎉
-                            <br />
-                            Yupiik Fusion is a very light weight and powerful framework to buil…
-                            <div class="date">14:52:30 on 18 Apr 2023</div>
+                            I can't wait to read more about it!
+                            <span class="mention">@rmannibucau</span>
+                            told me about it and I can't wait to see some more examples. 😎
+                            <div class="date">17:58:27 on 18 Apr 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2650,7 +2644,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2023, 17:01:27 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Apr 2023, 18:01:28 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
