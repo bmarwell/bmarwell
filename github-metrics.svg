@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3239" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3155" class="">
     <defs>
         <style/>
     </defs>
@@ -192,7 +192,7 @@ Java/JavaEE dev s/ 2006 //
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    143k added, 28.3k removed
+                                    168k added, 33.8k removed
                                 </div>
                             </section>
                             <section>
@@ -452,24 +452,17 @@ Java/JavaEE dev s/ 2006 //
                             bmarwell
                         </div>
                         <div class="tweet">
-                            <span class="mention">@helpermethod</span>
-                            <span class="mention">@maciejwalkowiak</span>
-                            <span class="mention">@lukas</span>
-                            Cool! Can you go into a bit more detail what's the difference with jsoup?
-                            <span class="mention">@lukas</span>
-                            eder says jsoup has an HTML focus, but it does have an XML parser as well..?
-                            <br />
-                            Also jsoup "rebuilt a proprietary parser" - what's the consequence?
-                            <br />
-                            TIA
-                            <div class="date">09:21:46 on 13 May 2023</div>
+                            <span class="mention">@RadTicker</span>
+                            <span class="mention">@cocoverde6</span>
+                            Puh, da würde ich mir als Radfahrer aber verarscht vorkommen...
+                            <div class="date">11:19:22 on 13 May 2023</div>
                         </div>
                         <div class="tweet">
-                            <span class="mention">@diegocodificado</span>
-                            I could load Commodore 64 games at the age of 3.5! That's 34 years. 😂
-                            <br />
-                            I was able to code a little in school, but I consider myself to be a somewhat skilled OOP coder for only ~10 years.
-                            <div class="date">14:30:30 on 12 May 2023</div>
+                            <span class="mention">@RichardFichtner</span>
+                            <span class="mention">@connolly_s</span>
+                            You're talking about curl? This is the corrected one!
+                            <a href="https://t.co/NT5QFYtOXJ" class="link">pic.twitter.com/NT5QFYtOXJ</a>
+                            <div class="date">11:17:30 on 13 May 2023</div>
                         </div>
                     </section>
                 </div>
@@ -2632,7 +2625,7 @@ I have configured it like so:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 May 2023, 11:01:08 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 May 2023, 12:01:31 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
